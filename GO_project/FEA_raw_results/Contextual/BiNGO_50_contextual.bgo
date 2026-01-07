@@ -1,0 +1,828 @@
+File created with BiNGO v3.0.5  (c) on 24 de abr. de 2025 at 12:41:03
+
+ontology: namespace
+curator:  bingo
+
+Selected ontology file : bundle://eed80143-3fb6-4fa2-be4d-a371609be9a4_127.0:1/data/GO_Biological_Process
+Selected annotation file : bundle://eed80143-3fb6-4fa2-be4d-a371609be9a4_127.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.99
+Testing option : C:\Users\Usuario\Documents\GO Proj\DATASETS\affy_table_entrezid.txt
+The selected cluster :
+64399	6236	7368	3485	8091	58475	79098	4091	990	991	358	2662	100820829	10894	51208	11197	3772	10580	116832	2877	84913	762	84830	722	1829	8796	8038	4751	116028	8395	55388	54210	29089	126669	2203	54538	858	10631	4481	9133	4320	9173	23514	11339	1368	3149	1003	3664	7704	641700	
+
+No annotations were retrieved for the following entities:
+126669	84830	100820829	58475	79098	23514	
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set
+32502	2.3178E-6	1.8728E-3	25	315544	13329		developmental process	64399|8796|7368|8038|3485|8091|4091|991|358|2662|54538|858|10631|10894|9133|4320|11197|84913|762|1368|3149|1003|3664|7704|641700
+51301	6.4244E-5	1.2294E-2	7	31144	13329		cell division	990|11339|991|9133|4751|8091|7704
+48856	7.8219E-5	1.2294E-2	20	259344	13329		anatomical structure development	9133|64399|8796|7368|8038|4091|991|84913|762|1368|1003|358|2662|54538|3664|858|10631|10894|7704|641700
+280	1.0088E-4	1.2294E-2	6	23044	13329		nuclear division	990|11339|991|9133|4751|8091
+7067	1.0088E-4	1.2294E-2	6	23044	13329		mitosis	990|11339|991|9133|4751|8091
+7275	1.1617E-4	1.2294E-2	21	289644	13329		multicellular organismal development	9133|64399|4320|11197|8796|7368|8091|4091|991|84913|762|3149|1003|358|2662|54538|3664|858|10631|7704|641700
+87	1.1894E-4	1.2294E-2	6	23744	13329		M phase of mitotic cell cycle	990|11339|991|9133|4751|8091
+48285	1.2172E-4	1.2294E-2	6	23844	13329		organelle fission	990|11339|991|9133|4751|8091
+32501	1.4345E-4	1.2879E-2	25	393544	13329		multicellular organismal process	64399|8796|7368|8091|4091|991|358|2662|54538|858|10631|4481|9133|4320|11197|10580|116832|2877|84913|762|3149|1003|3664|7704|641700
+279	8.9927E-4	7.2661E-2	6	34644	13329		M phase	990|11339|991|9133|4751|8091
+51702	1.4035E-3	7.6208E-2	2	1744	13329		interaction with symbiont	2877|358
+278	1.4187E-3	7.6208E-2	6	37844	13329		mitotic cell cycle	990|11339|991|9133|4751|8091
+32870	1.9114E-3	7.6208E-2	4	16144	13329		cellular response to hormone stimulus	2203|358|10580|3485
+71495	2.2807E-3	7.6208E-2	4	16944	13329		cellular response to endogenous stimulus	2203|358|10580|3485
+7346	2.3802E-3	7.6208E-2	4	17144	13329		regulation of mitotic cell cycle	990|4751|858|4091
+48731	2.5279E-3	7.6208E-2	16	236544	13329		system development	9133|64399|8796|7368|991|84913|762|1003|358|2662|54538|3664|858|10631|7704|641700
+22402	2.6095E-3	7.6208E-2	7	57744	13329		cell cycle process	990|11339|991|9133|4751|3664|8091
+22403	2.7189E-3	7.6208E-2	6	43044	13329		cell cycle phase	990|11339|991|9133|4751|8091
+48513	3.2174E-3	7.6208E-2	13	174544	13329		organ development	9133|64399|8796|762|1003|358|2662|54538|3664|858|10631|7704|641700
+71731	3.3011E-3	7.6208E-2	1	144	13329		response to nitric oxide	358
+71732	3.3011E-3	7.6208E-2	1	144	13329		cellular response to nitric oxide	358
+30950	3.3011E-3	7.6208E-2	1	144	13329		establishment or maintenance of actin cytoskeleton polarity	358
+35377	3.3011E-3	7.6208E-2	1	144	13329		transepithelial water transport	358
+35378	3.3011E-3	7.6208E-2	1	144	13329		carbon dioxide transmembrane transport	358
+10990	3.3011E-3	7.6208E-2	1	144	13329		regulation of SMAD protein complex assembly	4091
+10991	3.3011E-3	7.6208E-2	1	144	13329		negative regulation of SMAD protein complex assembly	4091
+52047	3.3011E-3	7.6208E-2	1	144	13329		interaction with other organism via secreted substance involved in symbiotic interaction	358
+52182	3.3011E-3	7.6208E-2	1	144	13329		modification by host of symbiont morphology or physiology via secreted substance	358
+52212	3.3011E-3	7.6208E-2	1	144	13329		modification of morphology or physiology of other organism via secreted substance involved in symbiotic interaction	358
+52213	3.3011E-3	7.6208E-2	1	144	13329		interaction with symbiont via secreted substance involved in symbiotic interaction	358
+48133	3.3011E-3	7.6208E-2	1	144	13329		male germ-line stem cell division	7704
+85018	3.3011E-3	7.6208E-2	1	144	13329		maintenance of symbiont-containing vacuole via substance secreted by host	358
+42078	3.3011E-3	7.6208E-2	1	144	13329		germ-line stem cell division	7704
+71472	3.3011E-3	7.6208E-2	1	144	13329		cellular response to salt stress	358
+71474	3.3011E-3	7.6208E-2	1	144	13329		cellular hyperosmotic response	358
+9719	5.2113E-3	1.0509E-1	6	49144	13329		response to endogenous stimulus	762|2203|358|2662|10580|3485
+7155	6.5817E-3	1.0509E-1	7	68344	13329		cell adhesion	1003|10580|8038|1829|10631|10894|51208
+9880	6.5914E-3	1.0509E-1	2	3744	13329		embryonic pattern specification	4091|7704
+8356	6.5915E-3	1.0509E-1	1	244	13329		asymmetric cell division	7704
+33326	6.5915E-3	1.0509E-1	1	244	13329		cerebrospinal fluid secretion	358
+60161	6.5915E-3	1.0509E-1	1	244	13329		positive regulation of dopamine receptor signaling pathway	858
+3097	6.5915E-3	1.0509E-1	1	244	13329		renal water transport	358
+42045	6.5915E-3	1.0509E-1	1	244	13329		epithelial fluid transport	358
+70836	6.5915E-3	1.0509E-1	1	244	13329		caveola assembly	858
+9609	6.5915E-3	1.0509E-1	1	244	13329		response to symbiotic bacterium	2877
+71260	6.5915E-3	1.0509E-1	1	244	13329		cellular response to mechanical stimulus	358
+71280	6.5915E-3	1.0509E-1	1	244	13329		cellular response to copper ion	358
+71288	6.5915E-3	1.0509E-1	1	244	13329		cellular response to mercury ion	358
+1765	6.5915E-3	1.0509E-1	1	244	13329		membrane raft assembly	858
+46878	6.5915E-3	1.0509E-1	1	244	13329		positive regulation of saliva secretion	358
+22610	6.6334E-3	1.0509E-1	7	68444	13329		biological adhesion	1003|10580|8038|1829|10631|10894|51208
+8285	7.4880E-3	1.1635E-1	5	37444	13329		negative regulation of cell proliferation	990|1003|3664|858|7704
+71310	7.6906E-3	1.1725E-1	4	23844	13329		cellular response to organic substance	2203|358|10580|3485
+30216	9.2268E-3	1.2085E-1	2	4444	13329		keratinocyte differentiation	8796|3664
+51299	9.8713E-3	1.2085E-1	1	344	13329		centrosome separation	4751
+30952	9.8713E-3	1.2085E-1	1	344	13329		establishment or maintenance of cytoskeleton polarity	358
+35110	9.8713E-3	1.2085E-1	1	344	13329		leg morphogenesis	7704
+45750	9.8713E-3	1.2085E-1	1	344	13329		positive regulation of S phase of mitotic cell cycle	4091
+60394	9.8713E-3	1.2085E-1	1	344	13329		negative regulation of pathway-restricted SMAD protein phosphorylation	4091
+7352	9.8713E-3	1.2085E-1	1	344	13329		zygotic specification of dorsal/ventral axis	4091
+9608	9.8713E-3	1.2085E-1	1	344	13329		response to symbiont	2877
+15793	9.8713E-3	1.2085E-1	1	344	13329		glycerol transport	358
+30185	9.8713E-3	1.2085E-1	1	344	13329		nitric oxide transport	358
+71320	9.8713E-3	1.2085E-1	1	344	13329		cellular response to cAMP	358
+46877	9.8713E-3	1.2085E-1	1	344	13329		regulation of saliva secretion	358
+71470	9.8713E-3	1.2085E-1	1	344	13329		cellular response to osmotic stress	358
+10564	1.0142E-2	1.2231E-1	3	13644	13329		regulation of cell cycle process	4751|858|4091
+9913	1.1351E-2	1.3488E-1	2	4944	13329		epidermal cell differentiation	8796|3664
+35519	1.3141E-2	1.3656E-1	1	444	13329		protein K29-linked ubiquitination	29089
+60159	1.3141E-2	1.3656E-1	1	444	13329		regulation of dopamine receptor signaling pathway	858
+60456	1.3141E-2	1.3656E-1	1	444	13329		positive regulation of digestive system process	358
+21670	1.3141E-2	1.3656E-1	1	444	13329		lateral ventricle development	358
+44314	1.3141E-2	1.3656E-1	1	444	13329		protein K27-linked ubiquitination	29089
+15670	1.3141E-2	1.3656E-1	1	444	13329		carbon dioxide transport	358
+71549	1.3141E-2	1.3656E-1	1	444	13329		cellular response to dexamethasone stimulus	358
+71548	1.3141E-2	1.3656E-1	1	444	13329		response to dexamethasone stimulus	358
+1955	1.3141E-2	1.3656E-1	1	444	13329		blood vessel maturation	1003
+32526	1.3191E-2	1.3656E-1	2	5344	13329		response to retinoic acid	358|3485
+7049	1.3352E-2	1.3656E-1	7	78244	13329		cell cycle	990|11339|991|9133|4751|3664|8091
+44403	1.4156E-2	1.4248E-1	2	5544	13329		symbiosis, encompassing mutualism through parasitism	2877|358
+9725	1.4438E-2	1.4248E-1	5	44044	13329		response to hormone stimulus	762|2203|358|10580|3485
+51726	1.4568E-2	1.4248E-1	5	44144	13329		regulation of cell cycle	990|4751|3664|858|4091
+51783	1.5151E-2	1.4248E-1	2	5744	13329		regulation of nuclear division	4751|858
+7088	1.5151E-2	1.4248E-1	2	5744	13329		regulation of mitosis	4751|858
+9953	1.5151E-2	1.4248E-1	2	5744	13329		dorsal/ventral pattern formation	64399|4091
+8643	1.5659E-2	1.4248E-1	2	5844	13329		carbohydrate transport	358|10580
+2862	1.6399E-2	1.4248E-1	1	544	13329		negative regulation of inflammatory response to antigenic stimulus	2877
+21591	1.6399E-2	1.4248E-1	1	544	13329		ventricular system development	358
+71385	1.6399E-2	1.4248E-1	1	544	13329		cellular response to glucocorticoid stimulus	358
+71384	1.6399E-2	1.4248E-1	1	544	13329		cellular response to corticosteroid stimulus	358
+34616	1.6399E-2	1.4248E-1	1	544	13329		response to laminar fluid shear stress	4091
+90004	1.6399E-2	1.4248E-1	1	544	13329		positive regulation of establishment of protein localization in plasma membrane	10580
+1977	1.6399E-2	1.4248E-1	1	544	13329		renal system process involved in regulation of blood volume	358
+9612	1.6698E-2	1.4353E-1	2	6044	13329		response to mechanical stimulus	358|3485
+42127	1.8683E-2	1.4976E-1	7	83644	13329		regulation of cell proliferation	990|991|1003|358|3664|858|7704
+33189	1.9420E-2	1.4976E-1	2	6544	13329		response to vitamin A	358|3485
+76	1.9647E-2	1.4976E-1	1	644	13329		DNA replication checkpoint	990
+43149	1.9647E-2	1.4976E-1	1	644	13329		stress fiber assembly	10580
+10886	1.9647E-2	1.4976E-1	1	644	13329		positive regulation of cholesterol storage	4481
+7089	1.9647E-2	1.4976E-1	1	644	13329		traversing start control point of mitotic cell cycle	990
+15696	1.9647E-2	1.4976E-1	1	644	13329		ammonium transport	358
+15791	1.9647E-2	1.4976E-1	1	644	13329		polyol transport	358
+32297	1.9647E-2	1.4976E-1	1	644	13329		negative regulation of DNA-dependent DNA replication initiation	990
+71453	1.9647E-2	1.4976E-1	1	644	13329		cellular response to oxygen levels	358
+71456	1.9647E-2	1.4976E-1	1	644	13329		cellular response to hypoxia	358
+34644	1.9647E-2	1.4976E-1	1	644	13329		cellular response to UV	358
+6260	2.1393E-2	1.5804E-1	3	18044	13329		DNA replication	990|55388|116028
+51414	2.2885E-2	1.5804E-1	1	744	13329		response to cortisol stimulus	358
+45879	2.2885E-2	1.5804E-1	1	744	13329		negative regulation of smoothened signaling pathway	64399
+31579	2.2885E-2	1.5804E-1	1	744	13329		membrane raft organization	858
+85020	2.2885E-2	1.5804E-1	1	744	13329		protein K6-linked ubiquitination	29089
+30157	2.2885E-2	1.5804E-1	1	744	13329		pancreatic juice secretion	358
+71383	2.2885E-2	1.5804E-1	1	744	13329		cellular response to steroid hormone stimulus	358
+71482	2.2885E-2	1.5804E-1	1	744	13329		cellular response to light stimulus	358
+6002	2.2885E-2	1.5804E-1	1	744	13329		fructose 6-phosphate metabolic process	2203
+71559	2.2885E-2	1.5804E-1	1	744	13329		response to transforming growth factor beta stimulus	2662
+90003	2.2885E-2	1.5804E-1	1	744	13329		regulation of establishment of protein localization in plasma membrane	10580
+48519	2.3687E-2	1.6220E-1	12	198144	13329		negative regulation of biological process	990|991|2877|64399|1003|6236|358|3664|858|4091|7704|9173
+32869	2.5378E-2	1.6745E-1	2	7544	13329		cellular response to insulin stimulus	2203|10580
+6959	2.5378E-2	1.6745E-1	2	7544	13329		humoral immune response	54210|722
+6182	2.6112E-2	1.6745E-1	1	844	13329		cGMP biosynthetic process	358
+2861	2.6112E-2	1.6745E-1	1	844	13329		regulation of inflammatory response to antigenic stimulus	2877
+3071	2.6112E-2	1.6745E-1	1	844	13329		renal system process involved in regulation of systemic arterial blood pressure	358
+60644	2.6112E-2	1.6745E-1	1	844	13329		mammary gland epithelial cell differentiation	3664
+9950	2.6112E-2	1.6745E-1	1	844	13329		dorsal/ventral axis specification	4091
+1823	2.6112E-2	1.6745E-1	1	844	13329		mesonephros development	7704
+51128	2.8734E-2	1.8090E-1	5	52644	13329		regulation of cellular component organization	991|10580|4751|858|4091
+6996	2.9004E-2	1.8090E-1	9	134344	13329		organelle organization	990|11339|991|9133|358|10580|4751|8091|858
+46689	2.9329E-2	1.8090E-1	1	944	13329		response to mercury ion	358
+71478	2.9329E-2	1.8090E-1	1	944	13329		cellular response to radiation	358
+42953	2.9329E-2	1.8090E-1	1	944	13329		lipoprotein transport	4481
+3002	2.9924E-2	1.8130E-1	3	20544	13329		regionalization	64399|4091|7704
+48523	3.0028E-2	1.8130E-1	11	181044	13329		negative regulation of cellular process	990|991|64399|1003|6236|358|3664|858|4091|7704|9173
+71375	3.0610E-2	1.8130E-1	2	8344	13329		cellular response to peptide hormone stimulus	2203|10580
+51146	3.1292E-2	1.8130E-1	2	8444	13329		striated muscle cell differentiation	8038|858
+7160	3.1980E-2	1.8130E-1	2	8544	13329		cell-matrix adhesion	10580|10894
+43124	3.2535E-2	1.8130E-1	1	1044	13329		negative regulation of I-kappaB kinase/NF-kappaB cascade	9173
+45725	3.2535E-2	1.8130E-1	1	1044	13329		positive regulation of glycogen biosynthetic process	10580
+45745	3.2535E-2	1.8130E-1	1	1044	13329		positive regulation of G-protein coupled receptor protein signaling pathway	858
+70633	3.2535E-2	1.8130E-1	1	1044	13329		transepithelial transport	358
+15669	3.2535E-2	1.8130E-1	1	1044	13329		gas transport	358
+30174	3.2535E-2	1.8130E-1	1	1044	13329		regulation of DNA-dependent DNA replication initiation	990
+71241	3.2535E-2	1.8130E-1	1	1044	13329		cellular response to inorganic substance	358
+71248	3.2535E-2	1.8130E-1	1	1044	13329		cellular response to metal ion	358
+10226	3.2535E-2	1.8130E-1	1	1044	13329		response to lithium ion	3485
+30154	3.4911E-2	1.9120E-1	10	161744	13329		cell differentiation	991|84913|64399|8796|8038|54538|3664|858|7704|641700
+17145	3.5732E-2	1.9120E-1	1	1144	13329		stem cell division	7704
+7029	3.5732E-2	1.9120E-1	1	1144	13329		endoplasmic reticulum organization	858
+70875	3.5732E-2	1.9120E-1	1	1144	13329		positive regulation of glycogen metabolic process	10580
+7520	3.5732E-2	1.9120E-1	1	1144	13329		myoblast fusion	8038
+34405	3.5732E-2	1.9120E-1	1	1144	13329		response to fluid shear stress	4091
+48545	3.7867E-2	1.9777E-1	3	22544	13329		response to steroid hormone stimulus	762|358|3485
+10884	3.8917E-2	1.9777E-1	1	1244	13329		positive regulation of lipid storage	4481
+10885	3.8917E-2	1.9777E-1	1	1244	13329		regulation of cholesterol storage	4481
+51851	3.8917E-2	1.9777E-1	1	1244	13329		modification by host of symbiont morphology or physiology	358
+6906	3.8917E-2	1.9777E-1	1	1244	13329		vesicle fusion	858
+768	3.8917E-2	1.9777E-1	1	1244	13329		syncytium formation by plasma membrane fusion	8038
+46068	3.8917E-2	1.9777E-1	1	1244	13329		cGMP metabolic process	358
+50891	3.8917E-2	1.9777E-1	1	1244	13329		multicellular organismal water homeostasis	358
+70887	3.9393E-2	1.9894E-1	4	39144	13329		cellular response to chemical stimulus	2203|358|10580|3485
+9653	4.0121E-2	1.9948E-1	8	119844	13329		anatomical structure morphogenesis	1368|64399|358|8038|54538|10894|7704|641700
+51384	4.0688E-2	1.9948E-1	2	9744	13329		response to glucocorticoid stimulus	358|3485
+48869	4.1266E-2	1.9948E-1	10	166344	13329		cellular developmental process	991|84913|64399|8796|8038|54538|3664|858|7704|641700
+10744	4.2093E-2	1.9948E-1	1	1344	13329		positive regulation of macrophage derived foam cell differentiation	4481
+43616	4.2093E-2	1.9948E-1	1	1344	13329		keratinocyte proliferation	3664
+6833	4.2093E-2	1.9948E-1	1	1344	13329		water transport	358
+44058	4.2093E-2	1.9948E-1	1	1344	13329		regulation of digestive system process	358
+40036	4.2093E-2	1.9948E-1	1	1344	13329		regulation of fibroblast growth factor receptor signaling pathway	64399
+71214	4.2093E-2	1.9948E-1	1	1344	13329		cellular response to abiotic stimulus	358
+33273	4.2218E-2	1.9948E-1	2	9944	13329		response to vitamin	358|3485
+31589	4.2218E-2	1.9948E-1	2	9944	13329		cell-substrate adhesion	10580|10894
+43567	4.5258E-2	2.0544E-1	1	1444	13329		regulation of insulin-like growth factor receptor signaling pathway	3485
+6884	4.5258E-2	2.0544E-1	1	1444	13329		cell volume homeostasis	358
+6949	4.5258E-2	2.0544E-1	1	1444	13329		syncytium formation	8038
+6972	4.5258E-2	2.0544E-1	1	1444	13329		hyperosmotic response	358
+9190	4.5258E-2	2.0544E-1	1	1444	13329		cyclic nucleotide biosynthetic process	358
+42044	4.5258E-2	2.0544E-1	1	1444	13329		fluid transport	358
+6027	4.5258E-2	2.0544E-1	1	1444	13329		glycosaminoglycan catabolic process	10894
+31960	4.6135E-2	2.0825E-1	2	10444	13329		response to corticosteroid stimulus	358|3485
+7178	4.7739E-2	2.1260E-1	2	10644	13329		transmembrane receptor protein serine/threonine kinase signaling pathway	2662|4091
+48041	4.8413E-2	2.1260E-1	1	1544	13329		focal adhesion assembly	10580
+7405	4.8413E-2	2.1260E-1	1	1544	13329		neuroblast proliferation	64399
+9651	4.8413E-2	2.1260E-1	1	1544	13329		response to salt stress	358
+1937	4.8413E-2	2.1260E-1	1	1544	13329		negative regulation of endothelial cell proliferation	858
+42493	4.9167E-2	2.1474E-1	3	25044	13329		response to drug	762|358|3485
+32885	5.1558E-2	2.1986E-1	1	1644	13329		regulation of polysaccharide biosynthetic process	10580
+10962	5.1558E-2	2.1986E-1	1	1644	13329		regulation of glucan biosynthetic process	10580
+5979	5.1558E-2	2.1986E-1	1	1644	13329		regulation of glycogen biosynthetic process	10580
+35467	5.3097E-2	2.1986E-1	3	25844	13329		negative regulation of signaling pathway	64399|4091|9173
+7417	5.3386E-2	2.1986E-1	4	43244	13329		central nervous system development	358|7368|2662|7704
+42692	5.4353E-2	2.1986E-1	2	11444	13329		muscle cell differentiation	8038|858
+71695	5.4692E-2	2.1986E-1	1	1744	13329		anatomical structure maturation	1003
+80	5.4692E-2	2.1986E-1	1	1744	13329		G1 phase of mitotic cell cycle	990
+32881	5.4692E-2	2.1986E-1	1	1744	13329		regulation of polysaccharide metabolic process	10580
+90329	5.4692E-2	2.1986E-1	1	1744	13329		regulation of DNA-dependent DNA replication	990
+35116	5.4692E-2	2.1986E-1	1	1744	13329		embryonic hindlimb morphogenesis	7704
+70534	5.4692E-2	2.1986E-1	1	1744	13329		protein K63-linked ubiquitination	29089
+70873	5.4692E-2	2.1986E-1	1	1744	13329		regulation of glycogen metabolic process	10580
+30104	5.4692E-2	2.1986E-1	1	1744	13329		water homeostasis	358
+46688	5.4692E-2	2.1986E-1	1	1744	13329		response to copper ion	358
+6000	5.4692E-2	2.1986E-1	1	1744	13329		fructose metabolic process	2203
+1568	5.5629E-2	2.2140E-1	3	26344	13329		blood vessel development	1003|54538|641700
+7389	5.6142E-2	2.2140E-1	3	26444	13329		pattern specification process	64399|4091|7704
+43029	5.7817E-2	2.2140E-1	1	1844	13329		T cell homeostasis	9133
+14902	5.7817E-2	2.2140E-1	1	1844	13329		myotube differentiation	8038
+10907	5.7817E-2	2.2140E-1	1	1844	13329		positive regulation of glucose metabolic process	10580
+7090	5.7817E-2	2.2140E-1	1	1844	13329		regulation of S phase of mitotic cell cycle	4091
+7098	5.7817E-2	2.2140E-1	1	1844	13329		centrosome cycle	4751
+46488	5.7817E-2	2.2140E-1	1	1844	13329		phosphatidylinositol metabolic process	8395
+34381	5.7817E-2	2.2140E-1	1	1844	13329		lipoprotein particle clearance	4481
+71300	5.7817E-2	2.2140E-1	1	1844	13329		cellular response to retinoic acid	358
+16337	5.8743E-2	2.2301E-1	3	26944	13329		cell-cell adhesion	1003|1829|51208
+7156	5.9515E-2	2.2301E-1	2	12044	13329		homophilic cell adhesion	1003|1829
+9968	5.9515E-2	2.2301E-1	2	12044	13329		negative regulation of signal transduction	64399|9173
+1944	5.9799E-2	2.2301E-1	3	27144	13329		vasculature development	1003|54538|641700
+578	6.0931E-2	2.2301E-1	1	1944	13329		embryonic axis specification	4091
+60393	6.0931E-2	2.2301E-1	1	1944	13329		regulation of pathway-restricted SMAD protein phosphorylation	4091
+48284	6.0931E-2	2.2301E-1	1	1944	13329		organelle fusion	858
+71299	6.0931E-2	2.2301E-1	1	1944	13329		cellular response to vitamin A	358
+10033	6.1194E-2	2.2301E-1	6	85844	13329		response to organic substance	762|2203|358|2662|10580|3485
+23057	6.1272E-2	2.2301E-1	2	12244	13329		negative regulation of signaling process	64399|9173
+6813	6.1272E-2	2.2301E-1	2	12244	13329		potassium ion transport	358|3772
+32868	6.2157E-2	2.2521E-1	2	12344	13329		response to insulin stimulus	2203|10580
+51318	6.4036E-2	2.2594E-1	1	2044	13329		G1 phase	990
+8589	6.4036E-2	2.2594E-1	1	2044	13329		regulation of smoothened signaling pathway	64399
+15850	6.4036E-2	2.2594E-1	1	2044	13329		organic alcohol transport	358
+50773	6.4036E-2	2.2594E-1	1	2044	13329		regulation of dendrite development	991
+1659	6.4036E-2	2.2594E-1	1	2044	13329		temperature homeostasis	2877
+30514	6.4036E-2	2.2594E-1	1	2044	13329		negative regulation of BMP signaling pathway	4091
+43154	6.7130E-2	2.2887E-1	1	2144	13329		negative regulation of caspase activity	4091
+10676	6.7130E-2	2.2887E-1	1	2144	13329		positive regulation of cellular carbohydrate metabolic process	10580
+51817	6.7130E-2	2.2887E-1	1	2144	13329		modification of morphology or physiology of other organism involved in symbiotic interaction	358
+45913	6.7130E-2	2.2887E-1	1	2144	13329		positive regulation of carbohydrate metabolic process	10580
+45931	6.7130E-2	2.2887E-1	1	2144	13329		positive regulation of mitotic cell cycle	4091
+51017	6.7130E-2	2.2887E-1	1	2144	13329		actin filament bundle assembly	10580
+30574	6.7130E-2	2.2887E-1	1	2144	13329		collagen catabolic process	4320
+6026	6.7130E-2	2.2887E-1	1	2144	13329		aminoglycan catabolic process	10894
+70848	7.0214E-2	2.3443E-1	1	2244	13329		response to growth factor stimulus	2662
+15695	7.0214E-2	2.3443E-1	1	2244	13329		organic cation transport	358
+71295	7.0214E-2	2.3443E-1	1	2244	13329		cellular response to vitamin	358
+6094	7.0214E-2	2.3443E-1	1	2244	13329		gluconeogenesis	2203
+16338	7.0214E-2	2.3443E-1	1	2244	13329		calcium-independent cell-cell adhesion	51208
+35136	7.3289E-2	2.4072E-1	1	2344	13329		forelimb morphogenesis	7704
+46326	7.3289E-2	2.4072E-1	1	2344	13329		positive regulation of glucose import	10580
+48538	7.3289E-2	2.4072E-1	1	2344	13329		thymus development	9133
+46889	7.3289E-2	2.4072E-1	1	2344	13329		positive regulation of lipid biosynthetic process	10580
+31400	7.4055E-2	2.4225E-1	2	13644	13329		negative regulation of protein modification process	991|4091
+2376	7.5526E-2	2.4579E-1	6	90644	13329		immune system process	54210|9133|722|4091|7704|9173
+7399	7.5940E-2	2.4579E-1	7	113344	13329		nervous system development	991|84913|64399|358|7368|2662|7704
+33261	7.6353E-2	2.4579E-1	1	2444	13329		regulation of S phase	4091
+10828	7.6353E-2	2.4579E-1	1	2444	13329		positive regulation of glucose transport	10580
+2260	7.9408E-2	2.5063E-1	1	2544	13329		lymphocyte homeostasis	9133
+43255	7.9408E-2	2.5063E-1	1	2544	13329		regulation of carbohydrate biosynthetic process	10580
+35137	7.9408E-2	2.5063E-1	1	2544	13329		hindlimb morphogenesis	7704
+70301	7.9408E-2	2.5063E-1	1	2544	13329		cellular response to hydrogen peroxide	358
+70979	7.9408E-2	2.5063E-1	1	2544	13329		protein K11-linked ubiquitination	29089
+10743	8.2452E-2	2.5525E-1	1	2644	13329		regulation of macrophage derived foam cell differentiation	4481
+45669	8.2452E-2	2.5525E-1	1	2644	13329		positive regulation of osteoblast differentiation	2662
+10883	8.2452E-2	2.5525E-1	1	2644	13329		regulation of lipid storage	4481
+48278	8.2452E-2	2.5525E-1	1	2644	13329		vesicle docking	858
+70936	8.2452E-2	2.5525E-1	1	2644	13329		protein K48-linked ubiquitination	29089
+6259	8.4205E-2	2.5626E-1	4	50544	13329		DNA metabolic process	990|55388|3149|116028
+8645	8.5487E-2	2.5626E-1	1	2744	13329		hexose transport	10580
+3014	8.5487E-2	2.5626E-1	1	2744	13329		renal system process	358
+44243	8.5487E-2	2.5626E-1	1	2744	13329		multicellular organismal catabolic process	4320
+15758	8.5487E-2	2.5626E-1	1	2744	13329		glucose transport	10580
+48741	8.5487E-2	2.5626E-1	1	2744	13329		skeletal muscle fiber development	858
+30512	8.5487E-2	2.5626E-1	1	2744	13329		negative regulation of transforming growth factor beta receptor signaling pathway	4091
+6090	8.5487E-2	2.5626E-1	1	2744	13329		pyruvate metabolic process	2203
+30855	8.5631E-2	2.5626E-1	2	14844	13329		epithelial cell differentiation	8796|3664
+10466	8.8512E-2	2.5754E-1	1	2844	13329		negative regulation of peptidase activity	4091
+272	8.8512E-2	2.5754E-1	1	2844	13329		polysaccharide catabolic process	10894
+6958	8.8512E-2	2.5754E-1	1	2844	13329		complement activation, classical pathway	722
+19319	8.8512E-2	2.5754E-1	1	2844	13329		hexose biosynthetic process	2203
+31670	8.8512E-2	2.5754E-1	1	2844	13329		cellular response to nutrient	358
+15749	8.8512E-2	2.5754E-1	1	2844	13329		monosaccharide transport	10580
+50777	8.8512E-2	2.5754E-1	1	2844	13329		negative regulation of immune response	2877
+1525	8.8608E-2	2.5754E-1	2	15144	13329		angiogenesis	54538|641700
+10038	8.9606E-2	2.5951E-1	2	15244	13329		response to metal ion	358|3485
+10648	9.0307E-2	2.6060E-1	3	32344	13329		negative regulation of cell communication	64399|4091|9173
+7044	9.1527E-2	2.6225E-1	1	2944	13329		cell-substrate junction assembly	10580
+30510	9.1527E-2	2.6225E-1	1	2944	13329		regulation of BMP signaling pathway	4091
+32963	9.4533E-2	2.6515E-1	1	3044	13329		collagen metabolic process	4320
+2455	9.4533E-2	2.6515E-1	1	3044	13329		humoral immune response mediated by circulating immunoglobulin	722
+9187	9.4533E-2	2.6515E-1	1	3044	13329		cyclic nucleotide metabolic process	358
+21549	9.4533E-2	2.6515E-1	1	3044	13329		cerebellum development	2662
+7589	9.4533E-2	2.6515E-1	1	3044	13329		body fluid secretion	358
+42221	9.4587E-2	2.6515E-1	8	143444	13329		response to chemical stimulus	2877|762|2203|358|2662|10580|3485|641700
+1501	9.4837E-2	2.6515E-1	3	33044	13329		skeletal system development	2662|10631|7704
+48146	9.7529E-2	2.6804E-1	1	3144	13329		positive regulation of fibroblast proliferation	358
+46324	9.7529E-2	2.6804E-1	1	3144	13329		regulation of glucose import	10580
+50728	9.7529E-2	2.6804E-1	1	3144	13329		negative regulation of inflammatory response	2877
+1776	9.7529E-2	2.6804E-1	1	3144	13329		leukocyte homeostasis	9133
+22406	9.7529E-2	2.6804E-1	1	3144	13329		membrane docking	858
+45087	9.9778E-2	2.7254E-1	2	16244	13329		innate immune response	722|9173
+51297	1.0051E-1	2.7254E-1	1	3244	13329		centrosome organization	4751
+45638	1.0051E-1	2.7254E-1	1	3244	13329		negative regulation of myeloid cell differentiation	7704
+42733	1.0051E-1	2.7254E-1	1	3244	13329		embryonic digit morphogenesis	7704
+8544	1.0289E-1	2.7417E-1	2	16544	13329		epidermis development	8796|3664
+7584	1.0289E-1	2.7417E-1	2	16544	13329		response to nutrient	358|3485
+45595	1.0311E-1	2.7417E-1	4	54344	13329		regulation of cell differentiation	991|4481|2662|7704
+31023	1.0349E-1	2.7417E-1	1	3344	13329		microtubule organizing center organization	4751
+43467	1.0349E-1	2.7417E-1	1	3344	13329		regulation of generation of precursor metabolites and energy	10580
+44259	1.0349E-1	2.7417E-1	1	3344	13329		multicellular organismal macromolecule metabolic process	4320
+8156	1.0349E-1	2.7417E-1	1	3344	13329		negative regulation of DNA replication	990
+7167	1.0418E-1	2.7418E-1	3	34444	13329		enzyme linked receptor protein signaling pathway	2662|10580|4091
+51094	1.0418E-1	2.7418E-1	3	34444	13329		positive regulation of developmental process	4481|358|2662
+43588	1.0646E-1	2.7748E-1	1	3444	13329		skin development	3664
+10827	1.0646E-1	2.7748E-1	1	3444	13329		regulation of glucose transport	10580
+46364	1.0646E-1	2.7748E-1	1	3444	13329		monosaccharide biosynthetic process	2203
+22037	1.0942E-1	2.8336E-1	1	3544	13329		metencephalon development	2662
+48747	1.0942E-1	2.8336E-1	1	3544	13329		muscle fiber development	858
+40008	1.1176E-1	2.8372E-1	3	35544	13329		regulation of growth	6236|3485|8091
+50793	1.1216E-1	2.8372E-1	5	77944	13329		regulation of developmental process	991|4481|358|2662|7704
+70	1.1236E-1	2.8372E-1	1	3644	13329		mitotic sister chromatid segregation	4751
+8286	1.1236E-1	2.8372E-1	1	3644	13329		insulin receptor signaling pathway	10580
+31333	1.1236E-1	2.8372E-1	1	3644	13329		negative regulation of protein complex assembly	4091
+6970	1.1236E-1	2.8372E-1	1	3644	13329		response to osmotic stress	358
+9798	1.1236E-1	2.8372E-1	1	3644	13329		axis specification	4091
+61180	1.1236E-1	2.8372E-1	1	3644	13329		mammary gland epithelium development	3664
+22600	1.1530E-1	2.8754E-1	1	3744	13329		digestive system process	358
+10906	1.1530E-1	2.8754E-1	1	3744	13329		regulation of glucose metabolic process	10580
+819	1.1530E-1	2.8754E-1	1	3744	13329		sister chromatid segregation	4751
+3073	1.1530E-1	2.8754E-1	1	3744	13329		regulation of systemic arterial blood pressure	358
+6956	1.1823E-1	2.9303E-1	1	3844	13329		complement activation	722
+34614	1.1823E-1	2.9303E-1	1	3844	13329		cellular response to reactive oxygen species	358
+6979	1.1993E-1	2.9396E-1	2	18144	13329		response to oxidative stress	2877|358
+7398	1.1993E-1	2.9396E-1	2	18144	13329		ectoderm development	8796|3664
+2541	1.2115E-1	2.9396E-1	1	3944	13329		activation of plasma proteins involved in acute inflammatory response	722
+9124	1.2115E-1	2.9396E-1	1	3944	13329		nucleoside monophosphate biosynthetic process	358
+44236	1.2115E-1	2.9396E-1	1	3944	13329		multicellular organismal metabolic process	4320
+15918	1.2115E-1	2.9396E-1	1	3944	13329		sterol transport	4481
+30301	1.2115E-1	2.9396E-1	1	3944	13329		cholesterol transport	4481
+48646	1.2245E-1	2.9622E-1	3	37044	13329		anatomical structure formation involved in morphogenesis	8038|54538|641700
+6955	1.2382E-1	2.9744E-1	4	58144	13329		immune response	54210|722|4091|9173
+7422	1.2406E-1	2.9744E-1	1	4044	13329		peripheral nervous system development	7368
+1933	1.2406E-1	2.9744E-1	1	4044	13329		negative regulation of protein amino acid phosphorylation	4091
+43434	1.2650E-1	3.0171E-1	2	18744	13329		response to peptide hormone stimulus	2203|10580
+31348	1.2696E-1	3.0171E-1	1	4144	13329		negative regulation of defense response	2877
+48145	1.2696E-1	3.0171E-1	1	4144	13329		regulation of fibroblast proliferation	358
+10675	1.2985E-1	3.0656E-1	1	4244	13329		regulation of cellular carbohydrate metabolic process	10580
+90068	1.2985E-1	3.0656E-1	1	4244	13329		positive regulation of cell cycle process	4091
+9790	1.3014E-1	3.0656E-1	4	59244	13329		embryonic development	9133|8796|4091|7704
+45766	1.3273E-1	3.0907E-1	1	4344	13329		positive regulation of angiogenesis	358
+30509	1.3273E-1	3.0907E-1	1	4344	13329		BMP signaling pathway	4091
+6109	1.3273E-1	3.0907E-1	1	4344	13329		regulation of carbohydrate metabolic process	10580
+90101	1.3273E-1	3.0907E-1	1	4344	13329		negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	4091
+46165	1.3560E-1	3.1485E-1	1	4444	13329		alcohol biosynthetic process	2203
+51053	1.3847E-1	3.2032E-1	1	4544	13329		negative regulation of DNA metabolic process	990
+32269	1.3875E-1	3.2032E-1	2	19844	13329		negative regulation of cellular protein metabolic process	991|4091
+45667	1.4416E-1	3.3092E-1	1	4744	13329		regulation of osteoblast differentiation	2662
+1936	1.4416E-1	3.3092E-1	1	4744	13329		regulation of endothelial cell proliferation	858
+40007	1.4669E-1	3.3552E-1	2	20544	13329		growth	9133|2662
+55002	1.4700E-1	3.3552E-1	1	4844	13329		striated muscle cell development	858
+51591	1.4982E-1	3.3910E-1	1	4944	13329		response to cAMP	358
+17015	1.4982E-1	3.3910E-1	1	4944	13329		regulation of transforming growth factor beta receptor signaling pathway	4091
+16064	1.4982E-1	3.3910E-1	1	4944	13329		immunoglobulin mediated immune response	722
+1558	1.5126E-1	3.4139E-1	2	20944	13329		regulation of cell growth	6236|3485
+19724	1.5264E-1	3.4355E-1	1	5044	13329		B cell mediated immunity	722
+51248	1.5356E-1	3.4466E-1	2	21144	13329		negative regulation of protein metabolic process	991|4091
+45834	1.5545E-1	3.4793E-1	1	5144	13329		positive regulation of lipid metabolic process	10580
+2682	1.5739E-1	3.5131E-1	3	41644	13329		regulation of immune system process	2877|722|7704
+6944	1.5825E-1	3.5224E-1	1	5244	13329		cellular membrane fusion	858
+10741	1.6104E-1	3.5649E-1	1	5344	13329		negative regulation of intracellular protein kinase cascade	9173
+61025	1.6104E-1	3.5649E-1	1	5344	13329		membrane fusion	858
+48514	1.6166E-1	3.5689E-1	2	21844	13329		blood vessel morphogenesis	54538|641700
+42326	1.6382E-1	3.5774E-1	1	5444	13329		negative regulation of phosphorylation	4091
+34329	1.6382E-1	3.5774E-1	1	5444	13329		cell junction assembly	10580
+55001	1.6382E-1	3.5774E-1	1	5444	13329		muscle cell development	858
+34599	1.6382E-1	3.5774E-1	1	5444	13329		cellular response to oxidative stress	358
+6898	1.6659E-1	3.6087E-1	1	5544	13329		receptor-mediated endocytosis	4481
+32102	1.6659E-1	3.6087E-1	1	5544	13329		negative regulation of response to external stimulus	2877
+16050	1.6659E-1	3.6087E-1	1	5544	13329		vesicle organization	858
+30902	1.6935E-1	3.6490E-1	1	5644	13329		hindbrain development	2662
+46890	1.6935E-1	3.6490E-1	1	5644	13329		regulation of lipid biosynthetic process	10580
+48518	1.7049E-1	3.6636E-1	10	217744	13329		positive regulation of biological process	991|4481|358|2662|10580|722|3664|858|4091|7704
+7179	1.7211E-1	3.6710E-1	1	5744	13329		transforming growth factor beta receptor signaling pathway	2662
+30203	1.7211E-1	3.6710E-1	1	5744	13329		glycosaminoglycan metabolic process	10894
+30036	1.7219E-1	3.6710E-1	2	22744	13329		actin cytoskeleton organization	358|10580
+7010	1.7431E-1	3.6791E-1	3	43744	13329		cytoskeleton organization	358|10580|4751
+51346	1.7485E-1	3.6791E-1	1	5844	13329		negative regulation of hydrolase activity	4091
+10563	1.7485E-1	3.6791E-1	1	5844	13329		negative regulation of phosphorus metabolic process	4091
+45936	1.7485E-1	3.6791E-1	1	5844	13329		negative regulation of phosphate metabolic process	4091
+9123	1.7485E-1	3.6791E-1	1	5844	13329		nucleoside monophosphate metabolic process	358
+50776	1.7691E-1	3.7128E-1	2	23144	13329		regulation of immune response	2877|722
+8277	1.7759E-1	3.7174E-1	1	5944	13329		regulation of G-protein coupled receptor protein signaling pathway	858
+79	1.8031E-1	3.7550E-1	1	6044	13329		regulation of cyclin-dependent protein kinase activity	990
+1657	1.8031E-1	3.7550E-1	1	6044	13329		ureteric bud development	4091
+33043	1.8284E-1	3.7823E-1	2	23644	13329		regulation of organelle organization	4751|858
+10035	1.8284E-1	3.7823E-1	2	23644	13329		response to inorganic substance	358|3485
+31570	1.8303E-1	3.7823E-1	1	6144	13329		DNA integrity checkpoint	990
+31667	1.8522E-1	3.7995E-1	2	23844	13329		response to nutrient levels	358|3485
+51436	1.8574E-1	3.7995E-1	1	6244	13329		negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	991
+2449	1.8574E-1	3.7995E-1	1	6244	13329		lymphocyte mediated immunity	722
+9411	1.8574E-1	3.7995E-1	1	6244	13329		response to UV	358
+31145	1.8844E-1	3.8256E-1	1	6344	13329		anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	991
+42476	1.8844E-1	3.8256E-1	1	6344	13329		odontogenesis	358
+32355	1.8844E-1	3.8256E-1	1	6344	13329		response to estradiol stimulus	3485
+30029	1.8999E-1	3.8474E-1	2	24244	13329		actin filament-based process	358|10580
+51437	1.9113E-1	3.8513E-1	1	6444	13329		positive regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	991
+42542	1.9113E-1	3.8513E-1	1	6444	13329		response to hydrogen peroxide	358
+16043	1.9190E-1	3.8572E-1	11	250744	13329		cellular component organization	990|11339|991|4481|9133|358|10580|4751|8091|858|10631
+6508	1.9257E-1	3.8610E-1	4	69144	13329		proteolysis	991|1368|4320|8038
+7519	1.9382E-1	3.8763E-1	1	6544	13329		skeletal muscle tissue development	858
+51352	1.9649E-1	3.9104E-1	1	6644	13329		negative regulation of ligase activity	991
+51444	1.9649E-1	3.9104E-1	1	6644	13329		negative regulation of ubiquitin-protein ligase activity	991
+48522	1.9716E-1	3.9141E-1	9	197944	13329		positive regulation of cellular process	991|4481|358|2662|10580|3664|858|4091|7704
+60538	1.9916E-1	3.9248E-1	1	6744	13329		skeletal muscle organ development	858
+34637	1.9916E-1	3.9248E-1	1	6744	13329		cellular carbohydrate biosynthetic process	2203
+6022	1.9916E-1	3.9248E-1	1	6744	13329		aminoglycan metabolic process	10894
+51439	2.0181E-1	3.9675E-1	1	6844	13329		regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	991
+45597	2.0320E-1	3.9851E-1	2	25344	13329		positive regulation of cell differentiation	4481|2662
+2460	2.0446E-1	3.9905E-1	1	6944	13329		adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	722
+45787	2.0446E-1	3.9905E-1	1	6944	13329		positive regulation of cell cycle	4091
+2250	2.0710E-1	4.0225E-1	1	7044	13329		adaptive immune response	722
+51443	2.0710E-1	4.0225E-1	1	7044	13329		positive regulation of ubiquitin-protein ligase activity	991
+48534	2.0804E-1	4.0310E-1	2	25744	13329		hemopoietic or lymphoid organ development	9133|7704
+9991	2.1046E-1	4.0682E-1	2	25944	13329		response to extracellular stimulus	358|3485
+32879	2.1110E-1	4.0708E-1	4	71844	13329		regulation of localization	4481|358|10580|54538
+9888	2.1179E-1	4.0745E-1	4	71944	13329		tissue development	8796|3664|858|10631
+34330	2.1236E-1	4.0756E-1	1	7244	13329		cell junction organization	10580
+61061	2.1288E-1	4.0760E-1	2	26144	13329		muscle structure development	8038|858
+6275	2.1497E-1	4.0869E-1	1	7344	13329		regulation of DNA replication	990
+51351	2.1497E-1	4.0869E-1	1	7344	13329		positive regulation of ligase activity	991
+45637	2.1497E-1	4.0869E-1	1	7344	13329		regulation of myeloid cell differentiation	7704
+15672	2.1653E-1	4.0979E-1	2	26444	13329		monovalent inorganic cation transport	358|3772
+48609	2.1735E-1	4.0979E-1	3	48844	13329		reproductive process in a multicellular organism	2662|116832|7704
+32504	2.1735E-1	4.0979E-1	3	48844	13329		multicellular organism reproduction	2662|116832|7704
+31669	2.1757E-1	4.0979E-1	1	7444	13329		cellular response to nutrient levels	358
+35466	2.1996E-1	4.1276E-1	5	98044	13329		regulation of signaling pathway	64399|3485|858|4091|9173
+51050	2.2017E-1	4.1276E-1	2	26744	13329		positive regulation of transport	358|10580
+7015	2.2276E-1	4.1568E-1	1	7644	13329		actin filament organization	10580
+21537	2.2276E-1	4.1568E-1	1	7644	13329		telencephalon development	358
+30384	2.2534E-1	4.1857E-1	1	7744	13329		phosphoinositide metabolic process	8395
+42698	2.2534E-1	4.1857E-1	1	7744	13329		ovulation cycle	2662
+2520	2.2749E-1	4.2044E-1	2	27344	13329		immune system development	9133|7704
+51605	2.2791E-1	4.2044E-1	1	7844	13329		protein maturation by peptide bond cleavage	722
+31397	2.2791E-1	4.2044E-1	1	7844	13329		negative regulation of protein ubiquitination	991
+46777	2.3048E-1	4.2420E-1	1	7944	13329		protein amino acid autophosphorylation	4751
+50896	2.3142E-1	4.2498E-1	13	317244	13329		response to stimulus	10580|3485|4091|9173|2877|54210|762|2203|358|2662|722|10894|641700
+51438	2.3558E-1	4.3065E-1	1	8144	13329		regulation of ubiquitin-protein ligase activity	991
+2443	2.3558E-1	4.3065E-1	1	8144	13329		leukocyte mediated immunity	722
+7059	2.3812E-1	4.3431E-1	1	8244	13329		chromosome segregation	4751
+48871	2.4065E-1	4.3794E-1	1	8344	13329		multicellular organismal homeostasis	2877
+51340	2.4317E-1	4.4153E-1	1	8444	13329		regulation of ligase activity	991
+30879	2.4569E-1	4.4311E-1	1	8544	13329		mammary gland development	3664
+302	2.4569E-1	4.4311E-1	1	8544	13329		response to reactive oxygen species	358
+30278	2.4569E-1	4.4311E-1	1	8544	13329		regulation of ossification	2662
+2526	2.4819E-1	4.4435E-1	1	8644	13329		acute inflammatory response	722
+35113	2.5069E-1	4.4435E-1	1	8744	13329		embryonic appendage morphogenesis	7704
+45765	2.5069E-1	4.4435E-1	1	8744	13329		regulation of angiogenesis	358
+7281	2.5069E-1	4.4435E-1	1	8744	13329		germ cell development	7704
+7586	2.5069E-1	4.4435E-1	1	8744	13329		digestion	358
+30326	2.5069E-1	4.4435E-1	1	8744	13329		embryonic limb morphogenesis	7704
+90092	2.5069E-1	4.4435E-1	1	8744	13329		regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	4091
+35295	2.5077E-1	4.4435E-1	2	29244	13329		tube development	64399|4091
+31324	2.5253E-1	4.4649E-1	4	77644	13329		negative regulation of cellular metabolic process	990|991|4091|7704
+7420	2.5446E-1	4.4891E-1	2	29544	13329		brain development	358|2662
+43254	2.5566E-1	4.4903E-1	1	8944	13329		regulation of protein complex assembly	4091
+50727	2.5566E-1	4.4903E-1	1	8944	13329		regulation of inflammatory response	2877
+22414	2.5619E-1	4.4903E-1	4	78144	13329		reproductive process	2662|116832|3485|7704
+3	2.5840E-1	4.5186E-1	4	78444	13329		reproduction	2662|116832|3485|7704
+2683	2.6060E-1	4.5186E-1	1	9144	13329		negative regulation of immune system process	2877
+43086	2.6060E-1	4.5186E-1	2	30044	13329		negative regulation of catalytic activity	991|4091
+48232	2.6060E-1	4.5186E-1	2	30044	13329		male gamete generation	116832|7704
+7283	2.6060E-1	4.5186E-1	2	30044	13329		spermatogenesis	116832|7704
+43281	2.6306E-1	4.5370E-1	1	9244	13329		regulation of caspase activity	4091
+34504	2.6306E-1	4.5370E-1	1	9244	13329		protein localization in nucleus	7704
+9605	2.6335E-1	4.5370E-1	3	54044	13329		response to external stimulus	358|3485|641700
+10605	2.6503E-1	4.5548E-1	4	79344	13329		negative regulation of macromolecule metabolic process	990|991|4091|7704
+2253	2.6551E-1	4.5548E-1	1	9344	13329		activation of immune response	722
+31398	2.6795E-1	4.5580E-1	1	9444	13329		positive regulation of protein ubiquitination	991
+31668	2.6795E-1	4.5580E-1	1	9444	13329		cellular response to extracellular stimulus	358
+30099	2.6795E-1	4.5580E-1	1	9444	13329		myeloid cell differentiation	7704
+48872	2.6795E-1	4.5580E-1	1	9444	13329		homeostasis of number of cells	9133
+8217	2.7038E-1	4.5801E-1	1	9544	13329		regulation of blood pressure	358
+71496	2.7038E-1	4.5801E-1	1	9544	13329		cellular response to external stimulus	358
+21700	2.7523E-1	4.6524E-1	1	9744	13329		developmental maturation	1003
+52548	2.7764E-1	4.6750E-1	1	9844	13329		regulation of endopeptidase activity	4091
+60429	2.7783E-1	4.6750E-1	2	31444	13329		epithelium development	8796|3664
+51327	2.8004E-1	4.6750E-1	1	9944	13329		M phase of meiotic cell cycle	4751
+35107	2.8004E-1	4.6750E-1	1	9944	13329		appendage morphogenesis	7704
+35108	2.8004E-1	4.6750E-1	1	9944	13329		limb morphogenesis	7704
+7126	2.8004E-1	4.6750E-1	1	9944	13329		meiosis	4751
+51321	2.8243E-1	4.6764E-1	1	10044	13329		meiotic cell cycle	4751
+6310	2.8243E-1	4.6764E-1	1	10044	13329		DNA recombination	3149
+30324	2.8243E-1	4.6764E-1	1	10044	13329		lung development	64399
+1822	2.8243E-1	4.6764E-1	1	10044	13329		kidney development	7704
+16485	2.8720E-1	4.7077E-1	1	10244	13329		protein processing	722
+51329	2.8720E-1	4.7077E-1	1	10244	13329		interphase of mitotic cell cycle	990
+30308	2.8720E-1	4.7077E-1	1	10244	13329		negative regulation of cell growth	6236
+72001	2.8957E-1	4.7077E-1	1	10344	13329		renal system development	7704
+60173	2.8957E-1	4.7077E-1	1	10344	13329		limb development	7704
+52547	2.8957E-1	4.7077E-1	1	10344	13329		regulation of peptidase activity	4091
+30198	2.8957E-1	4.7077E-1	1	10344	13329		extracellular matrix organization	10631
+48736	2.8957E-1	4.7077E-1	1	10344	13329		appendage development	7704
+30323	2.8957E-1	4.7077E-1	1	10344	13329		respiratory tube development	64399
+75	2.9193E-1	4.7271E-1	1	10444	13329		cell cycle checkpoint	990
+16052	2.9193E-1	4.7271E-1	1	10444	13329		carbohydrate catabolic process	10894
+44419	2.9259E-1	4.7283E-1	2	32644	13329		interspecies interaction between organisms	2877|358
+10975	2.9429E-1	4.7462E-1	1	10544	13329		regulation of neuron projection development	991
+51325	2.9664E-1	4.7746E-1	1	10644	13329		interphase	990
+7050	3.0131E-1	4.8401E-1	1	10844	13329		cell cycle arrest	3664
+45792	3.0364E-1	4.8678E-1	1	10944	13329		negative regulation of cell size	6236
+60541	3.0826E-1	4.9300E-1	1	11144	13329		respiratory system development	64399
+9892	3.0926E-1	4.9300E-1	4	85244	13329		negative regulation of metabolic process	990|991|4091|7704
+51604	3.1057E-1	4.9300E-1	1	11244	13329		protein maturation	722
+16051	3.1057E-1	4.9300E-1	1	11244	13329		carbohydrate biosynthetic process	2203
+5976	3.1057E-1	4.9300E-1	1	11244	13329		polysaccharide metabolic process	10894
+9987	3.1151E-1	4.9352E-1	32	906844	13329		cellular process	64399|8796|8038|4751|3485|116028|8091|8395|990|55388|991|29089|2203|358|54538|858|10631|10894|51208|4481|9133|10580|116832|11339|84913|762|3149|1003|1829|3664|7704|641700
+43627	3.1515E-1	4.9832E-1	1	11444	13329		response to estrogen stimulus	3485
+6650	3.2423E-1	5.1167E-1	1	11844	13329		glycerophospholipid metabolic process	8395
+14706	3.2872E-1	5.1674E-1	1	12044	13329		striated muscle tissue development	858
+31396	3.2872E-1	5.1674E-1	1	12044	13329		regulation of protein ubiquitination	991
+7565	3.3096E-1	5.1925E-1	1	12144	13329		female pregnancy	3485
+6950	3.3412E-1	5.2320E-1	7	171344	13329		response to stress	2877|358|722|3485|4091|10894|9173
+31399	3.3541E-1	5.2419E-1	2	36144	13329		regulation of protein modification process	991|4091
+48468	3.3712E-1	5.2501E-1	3	62144	13329		cell development	3664|858|7704
+43122	3.3983E-1	5.2501E-1	1	12544	13329		regulation of I-kappaB kinase/NF-kappaB cascade	9173
+2252	3.3983E-1	5.2501E-1	1	12544	13329		immune effector process	722
+6730	3.3983E-1	5.2501E-1	1	12544	13329		one-carbon metabolic process	762
+45926	3.3983E-1	5.2501E-1	1	12544	13329		negative regulation of growth	6236
+48585	3.3983E-1	5.2501E-1	1	12544	13329		negative regulation of response to stimulus	2877
+51246	3.4079E-1	5.2549E-1	3	62544	13329		regulation of protein metabolic process	991|29089|4091
+43066	3.4269E-1	5.2741E-1	2	36744	13329		negative regulation of apoptosis	358|4091
+31344	3.4422E-1	5.2876E-1	1	12744	13329		regulation of cell projection organization	991
+16055	3.4641E-1	5.3066E-1	1	12844	13329		Wnt receptor signaling pathway	11197
+7005	3.4858E-1	5.3066E-1	1	12944	13329		mitochondrion organization	858
+60537	3.4858E-1	5.3066E-1	1	12944	13329		muscle tissue development	858
+51052	3.4858E-1	5.3066E-1	1	12944	13329		regulation of DNA metabolic process	990
+43069	3.4874E-1	5.3066E-1	2	37244	13329		negative regulation of programmed cell death	358|4091
+44092	3.4995E-1	5.3150E-1	2	37344	13329		negative regulation of molecular function	991|4091
+19216	3.5076E-1	5.3173E-1	1	13044	13329		regulation of lipid metabolic process	10580
+16044	3.5718E-1	5.3924E-1	2	37944	13329		cellular membrane organization	4481|858
+51047	3.5723E-1	5.3924E-1	1	13344	13329		positive regulation of secretion	358
+60548	3.5838E-1	5.3924E-1	2	38044	13329		negative regulation of cell death	358|4091
+61024	3.5838E-1	5.3924E-1	2	38044	13329		membrane organization	4481|858
+6164	3.5937E-1	5.3972E-1	1	13444	13329		purine nucleotide biosynthetic process	358
+7276	3.6559E-1	5.4804E-1	2	38644	13329		gamete generation	116832|7704
+43161	3.6787E-1	5.4943E-1	1	13844	13329		proteasomal ubiquitin-dependent protein catabolic process	991
+10498	3.6787E-1	5.4943E-1	1	13844	13329		proteasomal protein catabolic process	991
+6869	3.6998E-1	5.5156E-1	1	13944	13329		lipid transport	4481
+9416	3.7627E-1	5.5682E-1	1	14244	13329		response to light stimulus	358
+1655	3.7627E-1	5.5682E-1	1	14244	13329		urogenital system development	7704
+9952	3.7627E-1	5.5682E-1	1	14244	13329		anterior/posterior pattern formation	7704
+6006	3.7627E-1	5.5682E-1	1	14244	13329		glucose metabolic process	2203
+226	3.7835E-1	5.5684E-1	1	14344	13329		microtubule cytoskeleton organization	4751
+7568	3.7835E-1	5.5684E-1	1	14344	13329		aging	3485
+50778	3.7835E-1	5.5684E-1	1	14344	13329		positive regulation of immune response	722
+9628	3.8228E-1	5.6161E-1	2	40044	13329		response to abiotic stimulus	358|3485
+50878	3.8455E-1	5.6392E-1	1	14644	13329		regulation of body fluid levels	358
+48511	3.8661E-1	5.6590E-1	1	14744	13329		rhythmic process	2662
+1666	3.8865E-1	5.6787E-1	1	14844	13329		response to hypoxia	358
+33365	3.9273E-1	5.7204E-1	1	15044	13329		protein localization in organelle	7704
+30001	3.9292E-1	5.7204E-1	2	40944	13329		metal ion transport	358|3772
+10876	3.9476E-1	5.7352E-1	1	15144	13329		lipid localization	4481
+70201	3.9678E-1	5.7352E-1	1	15244	13329		regulation of establishment of protein localization	10580
+6936	3.9678E-1	5.7352E-1	1	15244	13329		muscle contraction	10580
+44087	3.9678E-1	5.7352E-1	1	15244	13329		regulation of cellular component biogenesis	4091
+51716	3.9808E-1	5.7438E-1	4	96844	13329		cellular response to stimulus	2203|358|10580|3485
+70482	4.0479E-1	5.8302E-1	1	15644	13329		response to oxygen levels	358
+30900	4.0876E-1	5.8664E-1	1	15844	13329		forebrain development	358
+31347	4.0876E-1	5.8664E-1	1	15844	13329		regulation of defense response	2877
+43062	4.1271E-1	5.9125E-1	1	16044	13329		extracellular structure organization	10631
+44283	4.1745E-1	5.9653E-1	2	43044	13329		small molecule biosynthetic process	2203|358
+46486	4.1857E-1	5.9653E-1	1	16344	13329		glycerolipid metabolic process	8395
+8283	4.1860E-1	5.9653E-1	2	43144	13329		cell proliferation	64399|3664
+50789	4.2354E-1	6.0053E-1	22	632244	13329		regulation of biological process	4481|64399|6236|11197|10580|4751|3485|8091|4091|9173|990|991|2877|29089|1003|358|2662|722|54538|3664|858|7704
+6935	4.2438E-1	6.0053E-1	1	16644	13329		chemotaxis	641700
+3012	4.2438E-1	6.0053E-1	1	16644	13329		muscle system process	10580
+42330	4.2438E-1	6.0053E-1	1	16644	13329		taxis	641700
+48610	4.2631E-1	6.0220E-1	1	16744	13329		reproductive cellular process	7704
+6163	4.2823E-1	6.0229E-1	1	16844	13329		purine nucleotide metabolic process	358
+45664	4.2823E-1	6.0229E-1	1	16844	13329		regulation of neuron differentiation	991
+34645	4.2861E-1	6.0229E-1	4	100844	13329		cellular macromolecule biosynthetic process	990|55388|116832|116028
+32880	4.3394E-1	6.0659E-1	1	17144	13329		regulation of protein localization	10580
+9165	4.3394E-1	6.0659E-1	1	17144	13329		nucleotide biosynthetic process	358
+51129	4.3394E-1	6.0659E-1	1	17144	13329		negative regulation of cellular component organization	4091
+19953	4.3467E-1	6.0659E-1	2	44544	13329		sexual reproduction	116832|7704
+8284	4.4149E-1	6.1505E-1	2	45144	13329		positive regulation of cell proliferation	991|358
+45786	4.4335E-1	6.1643E-1	1	17644	13329		negative regulation of cell cycle	3664
+9059	4.4451E-1	6.1643E-1	4	102944	13329		macromolecule biosynthetic process	990|55388|116832|116028
+3013	4.4706E-1	6.1643E-1	1	17844	13329		circulatory system process	358
+34404	4.4706E-1	6.1643E-1	1	17844	13329		nucleobase, nucleoside and nucleotide biosynthetic process	358
+8015	4.4706E-1	6.1643E-1	1	17844	13329		blood circulation	358
+34654	4.4706E-1	6.1643E-1	1	17844	13329		nucleobase, nucleoside, nucleotide and nucleic acid biosynthetic process	358
+19318	4.5260E-1	6.2299E-1	1	18144	13329		hexose metabolic process	2203
+65007	4.5576E-1	6.2628E-1	23	670444	13329		biological regulation	4481|9133|64399|6236|11197|10580|4751|3485|8091|4091|9173|990|991|2877|29089|1003|358|2662|722|54538|3664|858|7704
+51704	4.5896E-1	6.2960E-1	3	75644	13329		multi-organism process	2877|358|3485
+44249	4.6155E-1	6.3122E-1	6	164144	13329		cellular biosynthetic process	990|55388|2203|358|116832|116028
+16567	4.6170E-1	6.3122E-1	1	18644	13329		protein ubiquitination	29089
+51239	4.6255E-1	6.3132E-1	4	105344	13329		regulation of multicellular organismal process	991|358|2662|7704
+42592	4.6333E-1	6.3132E-1	3	76144	13329		homeostatic process	2877|9133|358
+48732	4.6708E-1	6.3458E-1	1	18944	13329		gland development	3664
+51259	4.6887E-1	6.3458E-1	1	19044	13329		protein oligomerization	858
+6644	4.6887E-1	6.3458E-1	1	19044	13329		phospholipid metabolic process	8395
+32101	4.6887E-1	6.3458E-1	1	19044	13329		regulation of response to external stimulus	2877
+9057	4.8039E-1	6.4909E-1	2	48644	13329		macromolecule catabolic process	991|10894
+19637	4.8812E-1	6.5843E-1	1	20144	13329		organophosphate metabolic process	8395
+6812	4.8906E-1	6.5854E-1	2	49444	13329		cation transport	358|3772
+32446	4.8983E-1	6.5854E-1	1	20244	13329		protein modification by small protein conjugation	29089
+7154	4.9525E-1	6.6473E-1	3	79844	13329		cell communication	11339|358|858
+50767	4.9664E-1	6.6548E-1	1	20644	13329		regulation of neurogenesis	991
+51276	4.9764E-1	6.6572E-1	2	50244	13329		chromosome organization	4751|8091
+9617	5.0169E-1	6.6920E-1	1	20944	13329		response to bacterium	2877
+51049	5.0190E-1	6.6920E-1	2	50644	13329		regulation of transport	358|10580
+5996	5.0502E-1	6.7110E-1	1	21144	13329		monosaccharide metabolic process	2203
+5975	5.0719E-1	6.7110E-1	2	51144	13329		carbohydrate metabolic process	2203|10894
+7601	5.0834E-1	6.7110E-1	1	21344	13329		visual perception	762
+1701	5.0834E-1	6.7110E-1	1	21344	13329		in utero embryonic development	9133
+50953	5.0834E-1	6.7110E-1	1	21344	13329		sensory perception of light stimulus	762
+42325	5.0930E-1	6.7110E-1	2	51344	13329		regulation of phosphorylation	990|4091
+9314	5.0999E-1	6.7110E-1	1	21444	13329		response to radiation	358
+1932	5.0999E-1	6.7110E-1	1	21444	13329		regulation of protein amino acid phosphorylation	4091
+7517	5.1163E-1	6.7110E-1	1	21544	13329		muscle organ development	858
+30334	5.1163E-1	6.7110E-1	1	21544	13329		regulation of cell migration	54538
+48583	5.1454E-1	6.7303E-1	2	51844	13329		regulation of response to stimulus	2877|722
+10646	5.1477E-1	6.7303E-1	4	112444	13329		regulation of cell communication	64399|858|4091|9173
+8361	5.1653E-1	6.7412E-1	1	21844	13329		regulation of cell size	6236
+7169	5.1815E-1	6.7412E-1	1	21944	13329		transmembrane receptor protein tyrosine kinase signaling pathway	10580
+51130	5.1815E-1	6.7412E-1	1	21944	13329		positive regulation of cellular component organization	10580
+10324	5.1977E-1	6.7412E-1	1	22044	13329		membrane invagination	4481
+6897	5.1977E-1	6.7412E-1	1	22044	13329		endocytosis	4481
+9058	5.2362E-1	6.7802E-1	6	174444	13329		biosynthetic process	990|55388|2203|358|116832|116028
+51960	5.2619E-1	6.8025E-1	1	22444	13329		regulation of nervous system development	991
+42981	5.2876E-1	6.8176E-1	3	83844	13329		regulation of apoptosis	358|4091|7704
+9611	5.2904E-1	6.8176E-1	2	53244	13329		response to wounding	722|10894
+31401	5.3094E-1	6.8244E-1	1	22744	13329		positive regulation of protein modification process	991
+19220	5.3210E-1	6.8244E-1	2	53544	13329		regulation of phosphate metabolic process	990|4091
+51174	5.3210E-1	6.8244E-1	2	53544	13329		regulation of phosphorus metabolic process	990|4091
+45596	5.3409E-1	6.8332E-1	1	22944	13329		negative regulation of cell differentiation	7704
+3008	5.3479E-1	6.8332E-1	4	115244	13329		system process	762|358|10580|858
+43067	5.3532E-1	6.8332E-1	3	84644	13329		regulation of programmed cell death	358|4091|7704
+30097	5.3721E-1	6.8415E-1	1	23144	13329		hemopoiesis	7704
+43170	5.3767E-1	6.8415E-1	13	389444	13329		macromolecule metabolic process	4320|8038|4751|116832|116028|990|55388|991|29089|1368|3149|722|10894
+10941	5.4102E-1	6.8734E-1	3	85344	13329		regulation of cell death	358|4091|7704
+45934	5.4625E-1	6.9099E-1	2	54944	13329		negative regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	990|7704
+32268	5.4625E-1	6.9099E-1	2	54944	13329		regulation of cellular protein metabolic process	991|4091
+51046	5.4646E-1	6.9099E-1	1	23744	13329		regulation of secretion	358
+51270	5.4799E-1	6.9184E-1	1	23844	13329		regulation of cellular component movement	54538
+40012	5.5102E-1	6.9432E-1	1	24044	13329		regulation of locomotion	54538
+51172	5.5223E-1	6.9432E-1	2	55544	13329		negative regulation of nitrogen compound metabolic process	990|7704
+7017	5.5253E-1	6.9432E-1	1	24144	13329		microtubule-based process	4751
+8152	5.5470E-1	6.9596E-1	19	574844	13329		metabolic process	4320|7368|8038|4751|116832|116028|8395|990|55388|991|2877|29089|762|1368|2203|3149|358|722|10894
+60284	5.6148E-1	7.0338E-1	1	24744	13329		regulation of cell development	991
+70647	5.6589E-1	7.0780E-1	1	25044	13329		protein modification by small protein conjugation or removal	29089
+50790	5.7053E-1	7.1250E-1	3	89044	13329		regulation of catalytic activity	990|991|4091
+16192	5.7750E-1	7.2010E-1	2	58144	13329		vesicle-mediated transport	4481|858
+6952	5.8036E-1	7.2039E-1	2	58444	13329		defense response	722|9173
+48699	5.8036E-1	7.2039E-1	2	58444	13329		generation of neurons	991|64399
+23052	5.8047E-1	7.2039E-1	10	307644	13329		signaling	990|54210|6236|11197|2662|10580|3485|858|4091|9173
+10558	5.8130E-1	7.2039E-1	2	58544	13329		negative regulation of macromolecule biosynthetic process	990|7704
+2684	5.8310E-1	7.2151E-1	1	26244	13329		positive regulation of immune system process	722
+6511	5.8591E-1	7.2387E-1	1	26444	13329		ubiquitin-dependent protein catabolic process	991
+48584	5.8730E-1	7.2449E-1	1	26544	13329		positive regulation of response to stimulus	722
+7626	5.8869E-1	7.2510E-1	1	26644	13329		locomotory behavior	641700
+43632	5.9283E-1	7.2798E-1	1	26944	13329		modification-dependent macromolecule catabolic process	991
+19941	5.9283E-1	7.2798E-1	1	26944	13329		modification-dependent protein catabolic process	991
+31327	5.9810E-1	7.3192E-1	2	60344	13329		negative regulation of cellular biosynthetic process	990|7704
+6753	5.9965E-1	7.3192E-1	1	27444	13329		nucleoside phosphate metabolic process	358
+9117	5.9965E-1	7.3192E-1	1	27444	13329		nucleotide metabolic process	358
+10604	5.9966E-1	7.3192E-1	3	92844	13329		positive regulation of macromolecule metabolic process	991|10580|3664
+51240	6.0368E-1	7.3571E-1	1	27744	13329		positive regulation of multicellular organismal process	358
+32535	6.0502E-1	7.3623E-1	1	27844	13329		regulation of cellular component size	6236
+9890	6.0722E-1	7.3779E-1	2	61344	13329		negative regulation of biosynthetic process	990|7704
+6412	6.0900E-1	7.3809E-1	1	28144	13329		translation	116832
+7166	6.0950E-1	7.3809E-1	4	126244	13329		cell surface receptor linked signaling pathway	11197|2662|10580|4091
+19538	6.1106E-1	7.3809E-1	8	252344	13329		protein metabolic process	991|29089|1368|4320|722|8038|4751|116832
+32270	6.1163E-1	7.3809E-1	1	28344	13329		positive regulation of cellular protein metabolic process	991
+7264	6.1294E-1	7.3809E-1	1	28444	13329		small GTPase mediated signal transduction	6236
+51093	6.1294E-1	7.3809E-1	1	28444	13329		negative regulation of developmental process	7704
+7268	6.1555E-1	7.3952E-1	1	28644	13329		synaptic transmission	858
+31325	6.1596E-1	7.3952E-1	3	95044	13329		positive regulation of cellular metabolic process	991|10580|3664
+9887	6.1708E-1	7.3976E-1	2	62444	13329		organ morphogenesis	64399|358
+3006	6.1814E-1	7.3994E-1	1	28844	13329		reproductive developmental process	7704
+22008	6.1973E-1	7.4075E-1	2	62744	13329		neurogenesis	991|64399
+46903	6.2071E-1	7.4082E-1	1	29044	13329		secretion	358
+32787	6.2199E-1	7.4125E-1	1	29144	13329		monocarboxylic acid metabolic process	2203
+22603	6.2958E-1	7.4700E-1	1	29744	13329		regulation of anatomical structure morphogenesis	358
+51603	6.2958E-1	7.4700E-1	1	29744	13329		proteolysis involved in cellular protein catabolic process	991
+55086	6.2958E-1	7.4700E-1	1	29744	13329		nucleobase, nucleoside and nucleotide metabolic process	358
+51247	6.3332E-1	7.4923E-1	1	30044	13329		positive regulation of protein metabolic process	991
+44257	6.3332E-1	7.4923E-1	1	30044	13329		cellular protein catabolic process	991
+44057	6.4191E-1	7.5827E-1	1	30744	13329		regulation of system process	358
+6954	6.4312E-1	7.5860E-1	1	30844	13329		inflammatory response	722
+90066	6.4792E-1	7.6314E-1	1	31244	13329		regulation of anatomical structure size	6236
+10557	6.5220E-1	7.6441E-1	2	66544	13329		positive regulation of macromolecule biosynthetic process	10580|3664
+50794	6.5232E-1	7.6441E-1	19	600044	13329		regulation of cellular process	4481|64399|6236|11197|10580|4751|3485|8091|4091|9173|990|991|1003|358|2662|54538|3664|858|7704
+80134	6.5265E-1	7.6441E-1	1	31644	13329		regulation of response to stress	2877
+9893	6.5277E-1	7.6441E-1	3	100244	13329		positive regulation of metabolic process	991|10580|3664
+44271	6.5383E-1	7.6453E-1	1	31744	13329		cellular nitrogen compound biosynthetic process	358
+10627	6.5849E-1	7.6887E-1	1	32144	13329		regulation of intracellular protein kinase cascade	9173
+44238	6.6143E-1	7.7067E-1	16	511244	13329		primary metabolic process	4320|8038|4751|116832|116028|8395|990|55388|991|29089|1368|2203|3149|358|722|10894
+30163	6.6194E-1	7.7067E-1	1	32444	13329		protein catabolic process	991
+46483	6.6422E-1	7.7222E-1	1	32644	13329		heterocycle metabolic process	358
+51707	6.6987E-1	7.7655E-1	1	33144	13329		response to other organism	2877
+48598	6.6987E-1	7.7655E-1	1	33144	13329		embryonic morphogenesis	7704
+19226	6.7871E-1	7.8536E-1	1	33944	13329		transmission of nerve impulse	858
+65009	6.7941E-1	7.8536E-1	3	104244	13329		regulation of molecular function	990|991|4091
+31328	6.8557E-1	7.9134E-1	2	70744	13329		positive regulation of cellular biosynthetic process	10580|3664
+9891	6.9388E-1	7.9960E-1	2	71844	13329		positive regulation of biosynthetic process	10580|3664
+23033	6.9539E-1	7.9960E-1	6	206344	13329		signaling pathway	54210|6236|11197|2662|10580|4091
+43009	6.9569E-1	7.9960E-1	1	35544	13329		chordate embryonic development	9133
+6811	6.9686E-1	7.9980E-1	2	72244	13329		ion transport	358|3772
+6139	6.9839E-1	8.0042E-1	5	174244	13329		nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	990|55388|3149|358|116028
+9792	6.9980E-1	8.0090E-1	1	35944	13329		embryonic development ending in birth or egg hatching	9133
+51336	7.0183E-1	8.0210E-1	1	36144	13329		regulation of hydrolase activity	4091
+90304	7.0598E-1	8.0570E-1	4	142444	13329		nucleic acid metabolic process	990|55388|3149|116028
+45859	7.0785E-1	8.0669E-1	1	36744	13329		regulation of protein kinase activity	990
+44262	7.1278E-1	8.1116E-1	1	37244	13329		cellular carbohydrate metabolic process	2203
+35468	7.1473E-1	8.1223E-1	1	37444	13329		positive regulation of signaling pathway	858
+9966	7.1986E-1	8.1626E-1	2	75444	13329		regulation of signal transduction	64399|9173
+43549	7.2144E-1	8.1626E-1	1	38144	13329		regulation of kinase activity	990
+23046	7.2257E-1	8.1626E-1	6	212244	13329		signaling process	990|6236|11197|3485|858|9173
+23060	7.2257E-1	8.1626E-1	6	212244	13329		signal transmission	990|6236|11197|3485|858|9173
+23051	7.2332E-1	8.1626E-1	2	75944	13329		regulation of signaling process	64399|9173
+16310	7.3014E-1	8.2225E-1	2	76944	13329		phosphorylation	4751|8395
+6325	7.3077E-1	8.2225E-1	1	39144	13329		chromatin organization	8091
+45892	7.3168E-1	8.2225E-1	1	39244	13329		negative regulation of transcription, DNA-dependent	7704
+6807	7.3317E-1	8.2278E-1	6	214644	13329		nitrogen compound metabolic process	990|55388|3149|358|116028|10894
+51338	7.3441E-1	8.2303E-1	1	39544	13329		regulation of transferase activity	990
+51253	7.3801E-1	8.2591E-1	1	39944	13329		negative regulation of RNA metabolic process	7704
+9308	7.3979E-1	8.2676E-1	1	40144	13329		amine metabolic process	10894
+10647	7.4506E-1	8.3150E-1	1	40744	13329		positive regulation of cell communication	858
+7165	7.4882E-1	8.3455E-1	5	184844	13329		signal transduction	990|6236|11197|3485|9173
+65008	7.5100E-1	8.3583E-1	4	151244	13329		regulation of biological quality	2877|9133|6236|358
+9607	7.5361E-1	8.3757E-1	1	41744	13329		response to biotic stimulus	2877
+6066	7.5778E-1	8.4105E-1	1	42244	13329		alcohol metabolic process	2203
+44265	7.6025E-1	8.4263E-1	1	42544	13329		cellular macromolecule catabolic process	991
+34613	7.6350E-1	8.4508E-1	1	42944	13329		cellular protein localization	7704
+40011	7.6511E-1	8.4544E-1	1	43144	13329		locomotion	641700
+70727	7.6591E-1	8.4544E-1	1	43244	13329		cellular macromolecule localization	7704
+43065	7.7145E-1	8.5038E-1	1	43944	13329		positive regulation of apoptosis	7704
+43068	7.7378E-1	8.5179E-1	1	44244	13329		positive regulation of programmed cell death	7704
+10942	7.7686E-1	8.5401E-1	1	44644	13329		positive regulation of cell death	7704
+7610	7.8510E-1	8.6117E-1	1	45744	13329		behavior	641700
+50877	7.8549E-1	8.6117E-1	2	85944	13329		neurological system process	762|858
+19725	7.8657E-1	8.6117E-1	1	45944	13329		cellular homeostasis	358
+6928	7.9162E-1	8.6554E-1	1	46644	13329		cellular component movement	10894
+7600	7.9376E-1	8.6669E-1	1	46944	13329		sensory perception	762
+22607	8.0010E-1	8.7244E-1	2	88644	13329		cellular component assembly	10580|858
+16481	8.0677E-1	8.7853E-1	1	48844	13329		negative regulation of transcription	7704
+8104	8.0834E-1	8.7906E-1	2	90244	13329		protein localization	4481|7704
+6461	8.1520E-1	8.8414E-1	1	50144	13329		protein complex assembly	858
+70271	8.1520E-1	8.8414E-1	1	50144	13329		protein complex biogenesis	858
+34641	8.2038E-1	8.8647E-1	5	202844	13329		cellular nitrogen compound metabolic process	990|55388|3149|358|116028
+6793	8.2064E-1	8.8647E-1	2	92744	13329		phosphorus metabolic process	4751|8395
+6796	8.2064E-1	8.8647E-1	2	92744	13329		phosphate metabolic process	4751|8395
+48878	8.2689E-1	8.9203E-1	1	52044	13329		chemical homeostasis	358
+6355	8.2812E-1	8.9216E-1	4	169544	13329		regulation of transcription, DNA-dependent	3664|8091|4091|7704
+44281	8.3013E-1	8.9227E-1	3	133344	13329		small molecule metabolic process	762|2203|358
+44255	8.3043E-1	8.9227E-1	1	52644	13329		cellular lipid metabolic process	8395
+10629	8.4062E-1	8.9828E-1	1	54444	13329		negative regulation of gene expression	7704
+9056	8.4105E-1	8.9828E-1	2	97244	13329		catabolic process	991|10894
+43436	8.4172E-1	8.9828E-1	1	54644	13329		oxoacid metabolic process	2203
+19752	8.4172E-1	8.9828E-1	1	54644	13329		carboxylic acid metabolic process	2203
+55085	8.4172E-1	8.9828E-1	1	54644	13329		transmembrane transport	358
+43085	8.4335E-1	8.9828E-1	1	54944	13329		positive regulation of catalytic activity	991
+51252	8.4520E-1	8.9828E-1	4	174444	13329		regulation of RNA metabolic process	3664|8091|4091|7704
+6082	8.4549E-1	8.9828E-1	1	55344	13329		organic acid metabolic process	2203
+6915	8.4603E-1	8.9828E-1	1	55444	13329		apoptosis	7704
+42180	8.4918E-1	9.0044E-1	1	56044	13329		cellular ketone metabolic process	2203
+12501	8.5125E-1	9.0145E-1	1	56444	13329		programmed cell death	7704
+45941	8.5278E-1	9.0190E-1	1	56744	13329		positive regulation of transcription	3664
+50890	8.5480E-1	9.0198E-1	1	57144	13329		cognition	762
+44085	8.5509E-1	9.0198E-1	2	100644	13329		cellular component biogenesis	10580|858
+6810	8.5875E-1	9.0400E-1	6	250144	13329		transport	4481|358|3772|10580|858|10894
+7267	8.5925E-1	9.0400E-1	1	58044	13329		cell-cell signaling	858
+10628	8.6637E-1	9.1030E-1	1	59544	13329		positive regulation of gene expression	3664
+51234	8.6785E-1	9.1068E-1	6	253544	13329		establishment of localization	4481|358|3772|10580|858|10894
+60255	8.6982E-1	9.1156E-1	8	323144	13329		regulation of macromolecule metabolic process	990|991|29089|10580|3664|8091|4091|7704
+51179	8.7230E-1	9.1266E-1	7	290044	13329		localization	4481|358|3772|10580|858|10894|7704
+33554	8.7313E-1	9.1266E-1	1	61044	13329		cellular response to stress	358
+55114	8.7788E-1	9.1644E-1	1	62144	13329		oxidation reduction	2877
+44093	8.8245E-1	9.2003E-1	1	63244	13329		positive regulation of molecular function	991
+33036	8.8453E-1	9.2100E-1	2	108844	13329		macromolecule localization	4481|7704
+6468	8.8842E-1	9.2268E-1	1	64744	13329		protein amino acid phosphorylation	4751
+45935	8.8842E-1	9.2268E-1	1	64744	13329		positive regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	3664
+65003	8.8996E-1	9.2309E-1	1	65144	13329		macromolecular complex assembly	858
+51173	8.9592E-1	9.2808E-1	1	66744	13329		positive regulation of nitrogen compound metabolic process	3664
+23034	8.9973E-1	9.3083E-1	2	113844	13329		intracellular signaling pathway	54210|6236
+8219	9.0121E-1	9.3118E-1	1	68244	13329		cell death	7704
+16265	9.0292E-1	9.3175E-1	1	68744	13329		death	7704
+80090	9.0466E-1	9.3235E-1	8	339544	13329		regulation of primary metabolic process	990|991|29089|10580|3664|8091|4091|7704
+43933	9.0690E-1	9.3339E-1	1	69944	13329		macromolecular complex subunit organization	858
+44260	9.0798E-1	9.3339E-1	8	341344	13329		cellular macromolecule metabolic process	990|55388|991|29089|3149|4751|116832|116028
+10556	9.1239E-1	9.3673E-1	6	273544	13329		regulation of macromolecule biosynthetic process	990|10580|3664|8091|4091|7704
+15031	9.1989E-1	9.4259E-1	1	74244	13329		protein transport	4481
+10467	9.2260E-1	9.4259E-1	2	122844	13329		gene expression	722|116832
+45184	9.2292E-1	9.4259E-1	1	75344	13329		establishment of protein localization	4481
+44248	9.2346E-1	9.4259E-1	1	75544	13329		cellular catabolic process	991
+44237	9.2393E-1	9.4259E-1	12	484844	13329		cellular metabolic process	990|55388|991|29089|762|2203|3149|358|4751|116832|116028|8395
+43687	9.2591E-1	9.4342E-1	2	124344	13329		post-translational protein modification	29089|4751
+44267	9.3069E-1	9.4710E-1	4	209244	13329		cellular protein metabolic process	991|29089|4751|116832
+6629	9.3372E-1	9.4899E-1	1	79644	13329		lipid metabolic process	8395
+31326	9.3582E-1	9.4993E-1	6	287744	13329		regulation of cellular biosynthetic process	990|10580|3664|8091|4091|7704
+35556	9.3866E-1	9.5097E-1	1	81844	13329		intracellular signal transduction	6236
+9889	9.3920E-1	9.5097E-1	6	290144	13329		regulation of biosynthetic process	990|10580|3664|8091|4091|7704
+19222	9.5506E-1	9.6582E-1	8	375344	13329		regulation of metabolic process	990|991|29089|10580|3664|8091|4091|7704
+51641	9.6278E-1	9.7241E-1	1	95944	13329		cellular localization	7704
+6464	9.6546E-1	9.7390E-1	2	149744	13329		protein modification process	29089|4751
+31323	9.7027E-1	9.7753E-1	7	357244	13329		regulation of cellular metabolic process	990|991|10580|3664|8091|4091|7704
+43412	9.7307E-1	9.7771E-1	2	157744	13329		macromolecule modification	29089|4751
+19219	9.7362E-1	9.7771E-1	5	286544	13329		regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	990|3664|8091|4091|7704
+45449	9.7506E-1	9.7771E-1	4	248544	13329		regulation of transcription	3664|8091|4091|7704
+51171	9.7529E-1	9.7771E-1	5	289044	13329		regulation of nitrogen compound metabolic process	990|3664|8091|4091|7704
+10468	9.8944E-1	9.9067E-1	4	278744	13329		regulation of gene expression	3664|8091|4091|7704
+8150	1.0000	1.0000	44	1332944	13329		biological_process	64399|6236|8796|7368|8038|4751|3485|116028|8091|4091|8395|990|55388|991|54210|29089|2203|358|2662|54538|858|10631|10894|51208|4481|9133|4320|11197|3772|10580|116832|9173|11339|2877|84913|762|1368|3149|1003|722|1829|3664|7704|641700

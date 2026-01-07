@@ -1,0 +1,1006 @@
+GO.ID	Term	Annotated	Significant	Expected	topgoFisher	FDR
+GO:0030208	dermatan sulfate biosynthetic process	5	2	0.02	0.00021	1
+GO:0001542	ovulation from ovarian follicle	9	2	0.04	0.00074	1
+GO:0090136	epithelial cell-cell adhesion	16	2	0.07	0.00241	1
+GO:0034260	negative regulation of GTPase activity	22	2	0.1	0.00456	1
+GO:0032288	myelin assembly	24	2	0.11	0.00541	1
+GO:0040017	positive regulation of locomotion	620	6	2.85	0.00894	1
+GO:0120162	positive regulation of cold-induced thermogenesis	101	3	0.46	0.01134	1
+GO:0071392	cellular response to estradiol stimulus	38	2	0.17	0.01322	1
+GO:0035025	positive regulation of Rho protein signal transduction	39	2	0.18	0.01389	1
+GO:0033591	response to L-ascorbic acid	5	2	0.02	0.01807	1
+GO:0010712	regulation of collagen metabolic process	43	2	0.2	0.01811	1
+GO:0008544	epidermis development	387	5	1.78	0.02150	1
+GO:1904707	positive regulation of vascular associated smooth muscle cell proliferation	52	2	0.24	0.02392	1
+GO:0008360	regulation of cell shape	140	3	0.64	0.02682	1
+GO:0035082	axoneme assembly	97	3	0.45	0.02787	1
+GO:0021954	central nervous system neuron development	86	3	0.4	0.03153	1
+GO:0007632	visual behavior	57	2	0.26	0.03591	1
+GO:0043297	apical junction assembly	79	2	0.36	0.03596	1
+GO:0090303	positive regulation of wound healing	65	2	0.3	0.03612	1
+GO:1905515	non-motile cilium assembly	66	2	0.3	0.03714	1
+GO:0010976	positive regulation of neuron projection development	161	3	0.74	0.03822	1
+GO:0021799	cerebral cortex radially oriented cell migration	36	2	0.17	0.04026	1
+GO:0043627	response to estrogen	70	2	0.32	0.04133	1
+GO:0007565	female pregnancy	183	3	0.84	0.05240	1
+GO:0043931	ossification involved in bone maturation	26	2	0.12	0.05329	1
+GO:0032024	positive regulation of insulin secretion	86	2	0.4	0.05969	1
+GO:0000281	mitotic cytokinesis	87	2	0.4	0.06092	1
+GO:0008543	fibroblast growth factor receptor signaling pathway	87	2	0.4	0.06092	1
+GO:2000178	negative regulation of neural precursor cell proliferation	25	2	0.12	0.06188	1
+GO:0033120	positive regulation of RNA splicing	49	2	0.23	0.06196	1
+GO:0006112	energy reserve metabolic process	88	2	0.41	0.06209	1
+GO:0007229	integrin-mediated signaling pathway	111	3	0.51	0.06343	1
+GO:2000146	negative regulation of cell motility	395	4	1.82	0.06590	1
+GO:0003333	amino acid transmembrane transport	102	2	0.47	0.06642	1
+GO:0042593	glucose homeostasis	250	3	1.15	0.06679	1
+GO:0071310	cellular response to organic substance	2004	11	9.22	0.07041	1
+GO:0035556	intracellular signal transduction	2719	18	12.52	0.07195	1
+GO:0002686	negative regulation of leukocyte migration	55	2	0.25	0.07897	1
+GO:0007601	visual perception	219	3	1.01	0.08025	1
+GO:0006909	phagocytosis	236	4	1.09	0.08197	1
+GO:0043270	positive regulation of monoatomic ion transport	211	3	0.97	0.08288	1
+GO:0030334	regulation of cell migration	1050	10	4.83	0.08425	1
+GO:0050999	regulation of nitric-oxide synthase activity	27	2	0.12	0.08721	1
+GO:0022011	myelination in peripheral nervous system	29	2	0.13	0.08722	1
+GO:0042269	regulation of natural killer cell mediated cytotoxicity	49	2	0.23	0.08732	1
+GO:0031929	TOR signaling	165	2	0.76	0.08785	1
+GO:1902476	chloride transmembrane transport	108	2	0.5	0.08852	1
+GO:0021846	cell proliferation in forebrain	27	2	0.12	0.09137	1
+GO:0001935	endothelial cell proliferation	202	2	0.93	0.09221	1
+GO:0048278	vesicle docking	64	2	0.29	0.09569	1
+GO:0048041	focal adhesion assembly	85	2	0.39	0.09579	1
+GO:0007159	leukocyte cell-cell adhesion	418	5	1.92	0.09819	1
+GO:0014911	positive regulation of smooth muscle cell migration	50	2	0.23	0.10384	1
+GO:0051493	regulation of cytoskeleton organization	519	3	2.39	0.10522	1
+GO:0031669	cellular response to nutrient levels	239	3	1.1	0.10774	1
+GO:0098810	neurotransmitter reuptake	35	2	0.16	0.10783	1
+GO:0098609	cell-cell adhesion	966	14	4.45	0.11671	1
+GO:0007165	signal transduction	5991	36	27.58	0.11810	1
+GO:0007271	synaptic transmission, cholinergic	30	2	0.14	0.11993	1
+GO:0006811	monoatomic ion transport	1254	14	5.77	0.12160	1
+GO:0001944	vasculature development	840	5	3.87	0.12493	1
+GO:0007623	circadian rhythm	204	3	0.94	0.12502	1
+GO:0031668	cellular response to extracellular stimulus	269	4	1.24	0.12658	1
+GO:0006368	transcription elongation by RNA polymerase II	116	3	0.53	0.12703	1
+GO:0050767	regulation of neurogenesis	393	4	1.81	0.12740	1
+GO:0051603	proteolysis involved in protein catabolic process	754	5	3.47	0.12836	1
+GO:0045931	positive regulation of mitotic cell cycle	130	2	0.6	0.13256	1
+GO:0016477	cell migration	1612	18	7.42	0.13295	1
+GO:0045445	myoblast differentiation	111	2	0.51	0.14034	1
+GO:0035249	synaptic transmission, glutamatergic	113	2	0.52	0.14035	1
+GO:1990090	cellular response to nerve growth factor stimulus	48	2	0.22	0.14770	1
+GO:0008584	male gonad development	149	2	0.69	0.15019	1
+GO:0072659	protein localization to plasma membrane	292	3	1.34	0.15153	1
+GO:0002250	adaptive immune response	475	3	2.19	0.15323	1
+GO:0098656	monoatomic anion transmembrane transport	145	3	0.67	0.15447	1
+GO:0002682	regulation of immune system process	1544	9	7.11	0.15892	1
+GO:0034243	regulation of transcription elongation by RNA polymerase II	86	2	0.4	0.15959	1
+GO:1902600	proton transmembrane transport	157	2	0.72	0.16306	1
+GO:0042058	regulation of epidermal growth factor receptor signaling pathway	65	2	0.3	0.16325	1
+GO:0018108	peptidyl-tyrosine phosphorylation	269	3	1.24	0.16693	1
+GO:0050807	regulation of synapse organization	243	4	1.12	0.16860	1
+GO:0050772	positive regulation of axonogenesis	78	2	0.36	0.17096	1
+GO:0060078	regulation of postsynaptic membrane potential	148	2	0.68	0.17156	1
+GO:0032970	regulation of actin filament-based process	382	2	1.76	0.17360	1
+GO:0007163	establishment or maintenance of cell polarity	226	3	1.04	0.17786	1
+GO:0030154	cell differentiation	4440	25	20.44	0.18279	1
+GO:0051897	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	171	2	0.79	0.18603	1
+GO:0019882	antigen processing and presentation	117	2	0.54	0.18633	1
+GO:0014823	response to activity	74	2	0.34	0.18964	1
+GO:0050922	negative regulation of chemotaxis	70	2	0.32	0.19329	1
+GO:0048661	positive regulation of smooth muscle cell proliferation	100	3	0.46	0.19513	1
+GO:0050896	response to stimulus	8860	49	40.78	0.19611	1
+GO:0043087	regulation of GTPase activity	297	5	1.37	0.19631	1
+GO:0035725	sodium ion transmembrane transport	181	2	0.83	0.20271	1
+GO:0007162	negative regulation of cell adhesion	310	3	1.43	0.20447	1
+GO:0009611	response to wounding	565	6	2.6	0.20743	1
+GO:0007268	chemical synaptic transmission	748	7	3.44	0.20990	1
+GO:0007275	multicellular organism development	4758	32	21.9	0.20994	1
+GO:0045785	positive regulation of cell adhesion	484	5	2.23	0.21246	1
+GO:0007519	skeletal muscle tissue development	170	2	0.78	0.21253	1
+GO:0007043	cell-cell junction assembly	156	3	0.72	0.21723	1
+GO:0007155	cell adhesion	1530	19	7.04	0.21764	1
+GO:0030101	natural killer cell activation	98	2	0.45	0.21895	1
+GO:0010507	negative regulation of autophagy	90	2	0.41	0.22950	1
+GO:0050766	positive regulation of phagocytosis	71	2	0.33	0.23279	1
+GO:0045860	positive regulation of protein kinase activity	257	3	1.18	0.24283	1
+GO:0007224	smoothened signaling pathway	146	2	0.67	0.24410	1
+GO:0006814	sodium ion transport	243	3	1.12	0.24610	1
+GO:0015718	monocarboxylic acid transport	178	2	0.82	0.25137	1
+GO:0032456	endocytic recycling	88	2	0.41	0.26386	1
+GO:0002687	positive regulation of leukocyte migration	149	2	0.69	0.26798	1
+GO:0001817	regulation of cytokine production	862	5	3.97	0.26873	1
+GO:0043547	positive regulation of GTPase activity	229	2	1.05	0.28428	1
+GO:0048666	neuron development	1154	12	5.31	0.28933	1
+GO:0021537	telencephalon development	275	4	1.27	0.29003	1
+GO:0032355	response to estradiol	115	3	0.53	0.29406	1
+GO:0030335	positive regulation of cell migration	580	5	2.67	0.29427	1
+GO:0050770	regulation of axonogenesis	156	3	0.72	0.29780	1
+GO:0021987	cerebral cortex development	127	3	0.58	0.30057	1
+GO:0045595	regulation of cell differentiation	1640	10	7.55	0.30628	1
+GO:0050796	regulation of insulin secretion	167	3	0.77	0.30742	1
+GO:0030198	extracellular matrix organization	332	4	1.53	0.31342	1
+GO:0001501	skeletal system development	531	4	2.44	0.31574	1
+GO:0035264	multicellular organism growth	147	2	0.68	0.31652	1
+GO:0060326	cell chemotaxis	322	2	1.48	0.32531	1
+GO:0099175	regulation of postsynapse organization	103	2	0.47	0.32826	1
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	641	9	2.95	0.33071	1
+GO:0009410	response to xenobiotic stimulus	443	3	2.04	0.33404	1
+GO:0071363	cellular response to growth factor stimulus	746	8	3.43	0.33564	1
+GO:0007596	blood coagulation	226	2	1.04	0.33925	1
+GO:0048639	positive regulation of developmental growth	168	4	0.77	0.34650	1
+GO:0046718	symbiont entry into host cell	156	3	0.72	0.34680	1
+GO:0050731	positive regulation of peptidyl-tyrosine phosphorylation	164	2	0.75	0.36210	1
+GO:0031175	neuron projection development	1007	8	4.64	0.36566	1
+GO:0022604	regulation of cell morphogenesis	245	4	1.13	0.37629	1
+GO:0007033	vacuole organization	233	2	1.07	0.37765	1
+GO:0006633	fatty acid biosynthetic process	165	2	0.76	0.39063	1
+GO:0042445	hormone metabolic process	240	2	1.1	0.39467	1
+GO:0000902	cell morphogenesis	971	9	4.47	0.39665	1
+GO:0051924	regulation of calcium ion transport	247	3	1.14	0.41281	1
+GO:0008283	cell population proliferation	2077	14	9.56	0.41674	1
+GO:0001666	response to hypoxia	310	2	1.43	0.41901	1
+GO:0050870	positive regulation of T cell activation	252	3	1.16	0.42084	1
+GO:0001822	kidney development	319	2	1.47	0.43328	1
+GO:0016525	negative regulation of angiogenesis	153	2	0.7	0.43339	1
+GO:0008104	protein localization	2496	18	11.49	0.43613	1
+GO:0031346	positive regulation of cell projection organization	360	5	1.66	0.44782	1
+GO:0030534	adult behavior	144	2	0.66	0.45851	1
+GO:0016241	regulation of macroautophagy	173	2	0.8	0.47366	1
+GO:0006402	mRNA catabolic process	346	2	1.59	0.47496	1
+GO:0006486	protein glycosylation	225	2	1.04	0.48180	1
+GO:0007517	muscle organ development	359	4	1.65	0.50580	1
+GO:0015031	protein transport	1412	9	6.5	0.51087	1
+GO:0006836	neurotransmitter transport	204	3	0.94	0.51372	1
+GO:0006468	protein phosphorylation	1288	7	5.93	0.51783	1
+GO:0007015	actin filament organization	464	2	2.14	0.52530	1
+GO:0006886	intracellular protein transport	673	4	3.1	0.53157	1
+GO:0045765	regulation of angiogenesis	353	3	1.62	0.54231	1
+GO:0055085	transmembrane transport	1548	12	7.13	0.54354	1
+GO:0006897	endocytosis	712	6	3.28	0.55249	1
+GO:0007507	heart development	618	4	2.84	0.55353	1
+GO:0001701	in utero embryonic development	401	2	1.85	0.55395	1
+GO:0008284	positive regulation of cell population proliferation	983	8	4.52	0.57330	1
+GO:0043010	camera-type eye development	346	2	1.59	0.57676	1
+GO:0001525	angiogenesis	624	4	2.87	0.58316	1
+GO:0016310	phosphorylation	1545	8	7.11	0.59354	1
+GO:0060271	cilium assembly	385	5	1.77	0.60119	1
+GO:0001934	positive regulation of protein phosphorylation	579	4	2.67	0.62367	1
+GO:0098655	monoatomic cation transmembrane transport	846	5	3.89	0.63478	1
+GO:0007267	cell-cell signaling	1709	12	7.87	0.64991	1
+GO:0006508	proteolysis	1609	9	7.41	0.67298	1
+GO:0045087	innate immune response	975	4	4.49	0.68595	1
+GO:0030217	T cell differentiation	310	2	1.43	0.68951	1
+GO:0010628	positive regulation of gene expression	1197	8	5.51	0.69094	1
+GO:0051726	regulation of cell cycle	1114	4	5.13	0.69578	1
+GO:0006887	exocytosis	345	2	1.59	0.70273	1
+GO:0090150	establishment of protein localization to membrane	272	2	1.25	0.70533	1
+GO:0042391	regulation of membrane potential	446	3	2.05	0.74444	1
+GO:0006417	regulation of translation	450	2	2.07	0.76869	1
+GO:0045944	positive regulation of transcription by RNA polymerase II	1239	6	5.7	0.77145	1
+GO:0030336	negative regulation of cell migration	380	3	1.75	0.77267	1
+GO:0000226	microtubule cytoskeleton organization	648	5	2.98	0.79191	1
+GO:0051301	cell division	642	5	2.96	0.80089	1
+GO:0006915	apoptotic process	1959	4	9.02	0.80184	1
+GO:0000122	negative regulation of transcription by RNA polymerase II	921	3	4.24	0.80304	1
+GO:0009887	animal organ morphogenesis	1024	5	4.71	0.80430	1
+GO:0006511	ubiquitin-dependent protein catabolic process	595	2	2.74	0.86431	1
+GO:0016567	protein ubiquitination	757	2	3.48	0.86862	1
+GO:0045893	positive regulation of DNA-templated transcription	1680	7	7.73	0.86875	1
+GO:0010467	gene expression	7028	21	32.35	0.91049	1
+GO:0065003	protein-containing complex assembly	1650	6	7.59	0.95090	1
+GO:0043066	negative regulation of apoptotic process	903	2	4.16	0.95504	1
+GO:0008285	negative regulation of cell population proliferation	789	5	3.63	0.96414	1
+GO:0006357	regulation of transcription by RNA polymerase II	2565	9	11.81	0.97498	1
+GO:0010629	negative regulation of gene expression	1603	4	7.38	0.98767	1
+GO:0071692	protein localization to extracellular region	379	4	1.74	1.00000	1
+GO:0071695	anatomical structure maturation	271	2	1.25	1.00000	1
+GO:0045927	positive regulation of growth	257	4	1.18	1.00000	1
+GO:0000165	MAPK cascade	769	4	3.54	1.00000	1
+GO:0050789	regulation of biological process	12069	63	55.55	1.00000	1
+GO:0031099	regeneration	199	2	0.92	1.00000	1
+GO:1901700	response to oxygen-containing compound	1687	11	7.77	1.00000	1
+GO:1901701	cellular response to oxygen-containing compound	1204	9	5.54	1.00000	1
+GO:0045184	establishment of protein localization	1693	10	7.79	1.00000	1
+GO:0050776	regulation of immune response	903	5	4.16	1.00000	1
+GO:0050778	positive regulation of immune response	740	4	3.41	1.00000	1
+GO:0000910	cytokinesis	187	2	0.86	1.00000	1
+GO:0019752	carboxylic acid metabolic process	904	6	4.16	1.00000	1
+GO:0007548	sex differentiation	288	4	1.33	1.00000	1
+GO:0042742	defense response to bacterium	319	2	1.47	1.00000	1
+GO:0021543	pallium development	191	3	0.88	1.00000	1
+GO:0009790	embryo development	1126	6	5.18	1.00000	1
+GO:0009792	embryo development ending in birth or egg hatching	680	4	3.13	1.00000	1
+GO:0045934	negative regulation of nucleobase-containing compound metabolic process	1518	3	6.99	1.00000	1
+GO:0033554	cellular response to stress	1830	4	8.42	1.00000	1
+GO:0045935	positive regulation of nucleobase-containing compound metabolic process	2133	9	9.82	1.00000	1
+GO:0060255	regulation of macromolecule metabolic process	6529	26	30.05	1.00000	1
+GO:0045937	positive regulation of phosphate metabolic process	702	5	3.23	1.00000	1
+GO:1903047	mitotic cell cycle process	760	4	3.5	1.00000	1
+GO:0044057	regulation of system process	565	4	2.6	1.00000	1
+GO:0035239	tube morphogenesis	957	5	4.41	1.00000	1
+GO:0045123	cellular extravasation	75	2	0.35	1.00000	1
+GO:0050714	positive regulation of protein secretion	147	2	0.68	1.00000	1
+GO:0061351	neural precursor cell proliferation	167	4	0.77	1.00000	1
+GO:1903034	regulation of response to wounding	179	2	0.82	1.00000	1
+GO:0060284	regulation of cell development	853	7	3.93	1.00000	1
+GO:0044085	cellular component biogenesis	3349	22	15.42	1.00000	1
+GO:1903036	positive regulation of response to wounding	80	2	0.37	1.00000	1
+GO:1903037	regulation of leukocyte cell-cell adhesion	381	4	1.75	1.00000	1
+GO:0044087	regulation of cellular component biogenesis	987	6	4.54	1.00000	1
+GO:1903039	positive regulation of leukocyte cell-cell adhesion	276	3	1.27	1.00000	1
+GO:0034504	protein localization to nucleus	310	2	1.43	1.00000	1
+GO:0019725	cellular homeostasis	814	2	3.75	1.00000	1
+GO:0070977	bone maturation	29	2	0.13	1.00000	1
+GO:0050730	regulation of peptidyl-tyrosine phosphorylation	225	2	1.04	1.00000	1
+GO:0071674	mononuclear cell migration	206	2	0.95	1.00000	1
+GO:0071675	regulation of mononuclear cell migration	123	2	0.57	1.00000	1
+GO:0070925	organelle assembly	999	7	4.6	1.00000	1
+GO:0045137	development of primary sexual characteristics	238	4	1.1	1.00000	1
+GO:1901861	regulation of muscle tissue development	47	2	0.22	1.00000	1
+GO:0104004	cellular response to environmental stimulus	333	2	1.53	1.00000	1
+GO:0048799	animal organ maturation	33	2	0.15	1.00000	1
+GO:0071616	acyl-CoA biosynthetic process	47	2	0.22	1.00000	1
+GO:0006518	peptide metabolic process	938	4	4.32	1.00000	1
+GO:0050708	regulation of protein secretion	269	4	1.24	1.00000	1
+GO:0043062	extracellular structure organization	333	4	1.53	1.00000	1
+GO:0043065	positive regulation of apoptotic process	551	2	2.54	1.00000	1
+GO:0043067	regulation of programmed cell death	1553	2	7.15	1.00000	1
+GO:0043068	positive regulation of programmed cell death	573	2	2.64	1.00000	1
+GO:0043069	negative regulation of programmed cell death	934	2	4.3	1.00000	1
+GO:1901888	regulation of cell junction assembly	215	3	0.99	1.00000	1
+GO:0008610	lipid biosynthetic process	736	5	3.39	1.00000	1
+GO:0009725	response to hormone	883	8	4.06	1.00000	1
+GO:0034660	ncRNA metabolic process	632	2	2.91	1.00000	1
+GO:0008643	carbohydrate transport	158	2	0.73	1.00000	1
+GO:0008645	hexose transmembrane transport	121	2	0.56	1.00000	1
+GO:0043085	positive regulation of catalytic activity	878	6	4.04	1.00000	1
+GO:0043086	negative regulation of catalytic activity	449	5	2.07	1.00000	1
+GO:0009719	response to endogenous stimulus	1755	15	8.08	1.00000	1
+GO:0033500	carbohydrate homeostasis	251	3	1.16	1.00000	1
+GO:0051960	regulation of nervous system development	468	6	2.15	1.00000	1
+GO:0051962	positive regulation of nervous system development	294	3	1.35	1.00000	1
+GO:0051963	regulation of synapse assembly	115	2	0.53	1.00000	1
+GO:0009743	response to carbohydrate	231	3	1.06	1.00000	1
+GO:0034654	nucleobase-containing compound biosynthetic process	3978	16	18.31	1.00000	1
+GO:0034655	nucleobase-containing compound catabolic process	615	3	2.83	1.00000	1
+GO:0010256	endomembrane system organization	602	2	2.77	1.00000	1
+GO:1903522	regulation of blood circulation	262	2	1.21	1.00000	1
+GO:0002376	immune system process	2545	11	11.71	1.00000	1
+GO:0090407	organophosphate biosynthetic process	592	6	2.72	1.00000	1
+GO:1903510	mucopolysaccharide metabolic process	91	2	0.42	1.00000	1
+GO:0098542	defense response to other organism	1218	5	5.61	1.00000	1
+GO:0050863	regulation of T cell activation	381	4	1.75	1.00000	1
+GO:0050865	regulation of cell activation	629	4	2.9	1.00000	1
+GO:0042886	amide transport	311	4	1.43	1.00000	1
+GO:0050867	positive regulation of cell activation	379	3	1.74	1.00000	1
+GO:0048729	tissue morphogenesis	616	3	2.84	1.00000	1
+GO:0043043	peptide biosynthetic process	772	4	3.55	1.00000	1
+GO:0050851	antigen receptor-mediated signaling pathway	187	2	0.86	1.00000	1
+GO:0022602	ovulation cycle process	50	2	0.23	1.00000	1
+GO:0022603	regulation of anatomical structure morphogenesis	906	9	4.17	1.00000	1
+GO:0022607	cellular component assembly	3082	22	14.19	1.00000	1
+GO:0042060	wound healing	429	4	1.97	1.00000	1
+GO:0051169	nuclear transport	331	2	1.52	1.00000	1
+GO:0042063	gliogenesis	346	3	1.59	1.00000	1
+GO:0006694	steroid biosynthetic process	185	2	0.85	1.00000	1
+GO:0032535	regulation of cellular component size	370	2	1.7	1.00000	1
+GO:1903530	regulation of secretion by cell	564	4	2.6	1.00000	1
+GO:1903531	negative regulation of secretion by cell	151	2	0.7	1.00000	1
+GO:1903532	positive regulation of secretion by cell	288	3	1.33	1.00000	1
+GO:0007610	behavior	655	4	3.01	1.00000	1
+GO:0034641	cellular nitrogen compound metabolic process	6700	24	30.84	1.00000	1
+GO:0072359	circulatory system development	1229	8	5.66	1.00000	1
+GO:0048731	system development	4067	27	18.72	1.00000	1
+GO:0048732	gland development	448	2	2.06	1.00000	1
+GO:0010243	response to organonitrogen compound	1033	8	4.75	1.00000	1
+GO:0050877	nervous system process	1510	8	6.95	1.00000	1
+GO:0048738	cardiac muscle tissue development	248	2	1.14	1.00000	1
+GO:0050878	regulation of body fluid levels	369	2	1.7	1.00000	1
+GO:0015698	inorganic anion transport	168	2	0.77	1.00000	1
+GO:0051171	regulation of nitrogen compound metabolic process	5576	24	25.67	1.00000	1
+GO:0031589	cell-substrate adhesion	358	5	1.65	1.00000	1
+GO:0051172	negative regulation of nitrogen compound metabolic process	2259	6	10.4	1.00000	1
+GO:0051173	positive regulation of nitrogen compound metabolic process	3071	17	14.14	1.00000	1
+GO:0051174	regulation of phosphorus metabolic process	1163	6	5.35	1.00000	1
+GO:0009890	negative regulation of biosynthetic process	2731	8	12.57	1.00000	1
+GO:0051179	localization	5302	36	24.41	1.00000	1
+GO:0032501	multicellular organismal process	7869	44	36.22	1.00000	1
+GO:0009891	positive regulation of biosynthetic process	2706	14	12.46	1.00000	1
+GO:0046209	nitric oxide metabolic process	84	2	0.39	1.00000	1
+GO:0032502	developmental process	6582	41	30.3	1.00000	1
+GO:0009892	negative regulation of metabolic process	3382	11	15.57	1.00000	1
+GO:0009893	positive regulation of metabolic process	3796	20	17.47	1.00000	1
+GO:0032504	multicellular organism reproduction	972	3	4.47	1.00000	1
+GO:0009894	regulation of catabolic process	1114	5	5.13	1.00000	1
+GO:0006665	sphingolipid metabolic process	167	2	0.77	1.00000	1
+GO:0009895	negative regulation of catabolic process	352	2	1.62	1.00000	1
+GO:0043009	chordate embryonic development	659	4	3.03	1.00000	1
+GO:0071396	cellular response to lipid	616	4	2.84	1.00000	1
+GO:0050817	coagulation	231	2	1.06	1.00000	1
+GO:0051128	regulation of cellular component organization	2451	16	11.28	1.00000	1
+GO:0000278	mitotic cell cycle	910	5	4.19	1.00000	1
+GO:0045229	external encapsulating structure organization	334	4	1.54	1.00000	1
+GO:0051129	negative regulation of cellular component organization	747	2	3.44	1.00000	1
+GO:1904659	glucose transmembrane transport	118	2	0.54	1.00000	1
+GO:0061458	reproductive system development	311	4	1.43	1.00000	1
+GO:0150115	cell-substrate junction organization	103	2	0.47	1.00000	1
+GO:0045216	cell-cell junction organization	213	3	0.98	1.00000	1
+GO:0033674	positive regulation of kinase activity	303	3	1.39	1.00000	1
+GO:0051146	striated muscle cell differentiation	313	2	1.44	1.00000	1
+GO:0019058	viral life cycle	318	3	1.46	1.00000	1
+GO:0007600	sensory perception	957	5	4.41	1.00000	1
+GO:0072348	sulfur compound transport	61	2	0.28	1.00000	1
+GO:0051130	positive regulation of cellular component organization	1120	9	5.16	1.00000	1
+GO:0072330	monocarboxylic acid biosynthetic process	224	4	1.03	1.00000	1
+GO:1902531	regulation of intracellular signal transduction	1827	10	8.41	1.00000	1
+GO:0006629	lipid metabolic process	1397	8	6.43	1.00000	1
+GO:1902532	negative regulation of intracellular signal transduction	591	2	2.72	1.00000	1
+GO:1902533	positive regulation of intracellular signal transduction	1048	7	4.82	1.00000	1
+GO:1901564	organonitrogen compound metabolic process	5954	31	27.41	1.00000	1
+GO:1901565	organonitrogen compound catabolic process	1427	7	6.57	1.00000	1
+GO:1901566	organonitrogen compound biosynthetic process	1794	13	8.26	1.00000	1
+GO:0043588	skin development	318	4	1.46	1.00000	1
+GO:0140056	organelle localization by membrane tethering	82	2	0.38	1.00000	1
+GO:0098660	inorganic ion transmembrane transport	917	6	4.22	1.00000	1
+GO:0009888	tissue development	2032	14	9.35	1.00000	1
+GO:0098661	inorganic anion transmembrane transport	129	2	0.59	1.00000	1
+GO:0009889	regulation of biosynthetic process	5681	20	26.15	1.00000	1
+GO:0098662	inorganic cation transmembrane transport	825	4	3.8	1.00000	1
+GO:0050803	regulation of synapse structure or activity	249	4	1.15	1.00000	1
+GO:0141124	intracellular signaling cassette	1912	11	8.8	1.00000	1
+GO:0008366	axon ensheathment	156	3	0.72	1.00000	1
+GO:0050808	synapse organization	492	5	2.26	1.00000	1
+GO:0014910	regulation of smooth muscle cell migration	91	2	0.42	1.00000	1
+GO:0006643	membrane lipid metabolic process	217	2	1	1.00000	1
+GO:0080164	regulation of nitric oxide metabolic process	65	2	0.3	1.00000	1
+GO:0042592	homeostatic process	1714	7	7.89	1.00000	1
+GO:0071375	cellular response to peptide hormone stimulus	311	3	1.43	1.00000	1
+GO:0098657	import into cell	935	9	4.3	1.00000	1
+GO:0006631	fatty acid metabolic process	399	4	1.84	1.00000	1
+GO:0006637	acyl-CoA metabolic process	96	2	0.44	1.00000	1
+GO:0008380	RNA splicing	476	3	2.19	1.00000	1
+GO:0071322	cellular response to carbohydrate stimulus	153	2	0.7	1.00000	1
+GO:1901575	organic substance catabolic process	2177	12	10.02	1.00000	1
+GO:0009056	catabolic process	2655	13	12.22	1.00000	1
+GO:0071326	cellular response to monosaccharide stimulus	142	2	0.65	1.00000	1
+GO:1901576	organic substance biosynthetic process	8457	34	38.93	1.00000	1
+GO:0009057	macromolecule catabolic process	1455	7	6.7	1.00000	1
+GO:0009058	biosynthetic process	8514	35	39.19	1.00000	1
+GO:0048869	cellular developmental process	4442	25	20.45	1.00000	1
+GO:0009059	macromolecule biosynthetic process	7514	25	34.59	1.00000	1
+GO:0048856	anatomical structure development	6007	39	27.65	1.00000	1
+GO:0048858	cell projection morphogenesis	666	4	3.07	1.00000	1
+GO:0043549	regulation of kinase activity	531	4	2.44	1.00000	1
+GO:0048880	sensory system development	402	2	1.85	1.00000	1
+GO:0071345	cellular response to cytokine stimulus	865	3	3.98	1.00000	1
+GO:0007399	nervous system development	2535	18	11.67	1.00000	1
+GO:0048870	cell motility	1827	18	8.41	1.00000	1
+GO:0048871	multicellular organismal-level homeostasis	801	4	3.69	1.00000	1
+GO:0042552	myelination	154	3	0.71	1.00000	1
+GO:1902692	regulation of neuroblast proliferation	53	2	0.24	1.00000	1
+GO:0048878	chemical homeostasis	1032	4	4.75	1.00000	1
+GO:0014909	smooth muscle cell migration	98	2	0.45	1.00000	1
+GO:0002429	immune response-activating cell surface receptor signaling pathway	310	3	1.43	1.00000	1
+GO:0010720	positive regulation of cell development	454	4	2.09	1.00000	1
+GO:0070201	regulation of establishment of protein localization	537	4	2.47	1.00000	1
+GO:0010721	negative regulation of cell development	288	2	1.33	1.00000	1
+GO:0048812	neuron projection morphogenesis	645	4	2.97	1.00000	1
+GO:0007369	gastrulation	199	2	0.92	1.00000	1
+GO:0080134	regulation of response to stress	1408	6	6.48	1.00000	1
+GO:0031667	response to nutrient levels	490	4	2.26	1.00000	1
+GO:0051251	positive regulation of lymphocyte activation	327	3	1.51	1.00000	1
+GO:0051252	regulation of RNA metabolic process	3816	13	17.57	1.00000	1
+GO:0002443	leukocyte mediated immunity	395	2	1.82	1.00000	1
+GO:0051253	negative regulation of RNA metabolic process	1392	3	6.41	1.00000	1
+GO:0051254	positive regulation of RNA metabolic process	1927	9	8.87	1.00000	1
+GO:0051258	protein polymerization	287	2	1.32	1.00000	1
+GO:0198738	cell-cell signaling by wnt	466	2	2.14	1.00000	1
+GO:0002449	lymphocyte mediated immunity	298	2	1.37	1.00000	1
+GO:0045787	positive regulation of cell cycle	332	2	1.53	1.00000	1
+GO:0007389	pattern specification process	473	2	2.18	1.00000	1
+GO:0048024	regulation of mRNA splicing, via spliceosome	111	2	0.51	1.00000	1
+GO:1902680	positive regulation of RNA biosynthetic process	1683	7	7.75	1.00000	1
+GO:0046700	heterocycle catabolic process	657	3	3.02	1.00000	1
+GO:0062149	detection of stimulus involved in sensory perception of pain	28	2	0.13	1.00000	1
+GO:0030162	regulation of proteolysis	599	4	2.76	1.00000	1
+GO:0030163	protein catabolic process	992	5	4.57	1.00000	1
+GO:0030166	proteoglycan biosynthetic process	65	2	0.3	1.00000	1
+GO:0034329	cell junction assembly	453	8	2.09	1.00000	1
+GO:0051222	positive regulation of protein transport	251	3	1.16	1.00000	1
+GO:0051223	regulation of protein transport	440	4	2.03	1.00000	1
+GO:0035023	regulation of Rho protein signal transduction	89	2	0.41	1.00000	1
+GO:0030155	regulation of cell adhesion	806	8	3.71	1.00000	1
+GO:0071495	cellular response to endogenous stimulus	1502	13	6.91	1.00000	1
+GO:0006396	RNA processing	1336	4	6.15	1.00000	1
+GO:0071496	cellular response to external stimulus	335	5	1.54	1.00000	1
+GO:0006397	mRNA processing	517	3	2.38	1.00000	1
+GO:1902679	negative regulation of RNA biosynthetic process	1277	3	5.88	1.00000	1
+GO:0030182	neuron differentiation	1423	12	6.55	1.00000	1
+GO:1901698	response to nitrogen compound	1137	8	5.23	1.00000	1
+GO:0061919	process utilizing autophagic mechanism	577	3	2.66	1.00000	1
+GO:1901699	cellular response to nitrogen compound	691	5	3.18	1.00000	1
+GO:0051240	positive regulation of multicellular organismal process	1686	10	7.76	1.00000	1
+GO:0034330	cell junction organization	765	9	3.52	1.00000	1
+GO:0051241	negative regulation of multicellular organismal process	1252	10	5.76	1.00000	1
+GO:0033365	protein localization to organelle	957	6	4.41	1.00000	1
+GO:0051246	regulation of protein metabolic process	2218	13	10.21	1.00000	1
+GO:0007346	regulation of mitotic cell cycle	522	3	2.4	1.00000	1
+GO:0051247	positive regulation of protein metabolic process	1245	9	5.73	1.00000	1
+GO:0051248	negative regulation of protein metabolic process	897	2	4.13	1.00000	1
+GO:0051249	regulation of lymphocyte activation	505	4	2.32	1.00000	1
+GO:0031644	regulation of nervous system process	119	2	0.55	1.00000	1
+GO:0090287	regulation of cellular response to growth factor stimulus	373	2	1.72	1.00000	1
+GO:0016311	dephosphorylation	307	3	1.41	1.00000	1
+GO:0051234	establishment of localization	4666	30	21.48	1.00000	1
+GO:0051235	maintenance of location	336	2	1.55	1.00000	1
+GO:0006366	transcription by RNA polymerase II	2685	10	12.36	1.00000	1
+GO:0051239	regulation of multicellular organismal process	3115	23	14.34	1.00000	1
+GO:0090276	regulation of peptide hormone secretion	197	3	0.91	1.00000	1
+GO:0090277	positive regulation of peptide hormone secretion	111	2	0.51	1.00000	1
+GO:0030111	regulation of Wnt signaling pathway	340	2	1.57	1.00000	1
+GO:0006351	DNA-templated transcription	3528	11	16.24	1.00000	1
+GO:0006354	DNA-templated transcription elongation	135	3	0.62	1.00000	1
+GO:0006355	regulation of DNA-templated transcription	3406	11	15.68	1.00000	1
+GO:0043687	post-translational protein modification	1002	2	4.61	1.00000	1
+GO:0048598	embryonic morphogenesis	617	5	2.84	1.00000	1
+GO:0009581	detection of external stimulus	140	2	0.64	1.00000	1
+GO:0009582	detection of abiotic stimulus	143	2	0.66	1.00000	1
+GO:0019538	protein metabolic process	4882	24	22.47	1.00000	1
+GO:0016331	morphogenesis of embryonic epithelium	150	2	0.69	1.00000	1
+GO:1901652	response to peptide	526	3	2.42	1.00000	1
+GO:1901653	cellular response to peptide	376	3	1.73	1.00000	1
+GO:1901657	glycosyl compound metabolic process	83	2	0.38	1.00000	1
+GO:0030900	forebrain development	408	4	1.88	1.00000	1
+GO:0035592	establishment of protein localization to extracellular region	371	4	1.71	1.00000	1
+GO:0042692	muscle cell differentiation	428	2	1.97	1.00000	1
+GO:0140546	defense response to symbiont	1113	4	5.12	1.00000	1
+GO:0070727	cellular macromolecule localization	2507	18	11.54	1.00000	1
+GO:0042698	ovulation cycle	72	2	0.33	1.00000	1
+GO:0046883	regulation of hormone secretion	254	3	1.17	1.00000	1
+GO:0046887	positive regulation of hormone secretion	144	3	0.66	1.00000	1
+GO:0048568	embryonic organ development	455	2	2.09	1.00000	1
+GO:0071417	cellular response to organonitrogen compound	620	5	2.85	1.00000	1
+GO:1900180	regulation of protein localization to nucleus	144	2	0.66	1.00000	1
+GO:0046879	hormone secretion	311	3	1.43	1.00000	1
+GO:0030100	regulation of endocytosis	289	2	1.33	1.00000	1
+GO:0043632	modification-dependent macromolecule catabolic process	616	2	2.84	1.00000	1
+GO:0045892	negative regulation of DNA-templated transcription	1262	3	5.81	1.00000	1
+GO:0048583	regulation of response to stimulus	4085	22	18.8	1.00000	1
+GO:0048584	positive regulation of response to stimulus	2339	16	10.77	1.00000	1
+GO:1901615	organic hydroxy compound metabolic process	564	3	2.6	1.00000	1
+GO:0048585	negative regulation of response to stimulus	1763	8	8.12	1.00000	1
+GO:0048589	developmental growth	665	6	3.06	1.00000	1
+GO:2001141	regulation of RNA biosynthetic process	3425	11	15.77	1.00000	1
+GO:0019693	ribose phosphate metabolic process	478	3	2.2	1.00000	1
+GO:0022414	reproductive process	1529	6	7.04	1.00000	1
+GO:2000026	regulation of multicellular organismal development	1491	13	6.86	1.00000	1
+GO:1905039	carboxylic acid transmembrane transport	156	2	0.72	1.00000	1
+GO:0048522	positive regulation of cellular process	5834	31	26.85	1.00000	1
+GO:0048523	negative regulation of cellular process	5421	23	24.95	1.00000	1
+GO:0032386	regulation of intracellular transport	266	2	1.22	1.00000	1
+GO:0001952	regulation of cell-matrix adhesion	125	3	0.58	1.00000	1
+GO:0048511	rhythmic process	296	4	1.36	1.00000	1
+GO:0050651	dermatan sulfate proteoglycan biosynthetic process	8	2	0.04	1.00000	1
+GO:0045862	positive regulation of proteolysis	335	2	1.54	1.00000	1
+GO:0043603	amide metabolic process	1228	7	5.65	1.00000	1
+GO:0048513	animal organ development	3050	21	14.04	1.00000	1
+GO:0043604	amide biosynthetic process	907	6	4.17	1.00000	1
+GO:0048514	blood vessel morphogenesis	714	4	3.29	1.00000	1
+GO:0050655	dermatan sulfate proteoglycan metabolic process	12	2	0.06	1.00000	1
+GO:0010827	regulation of glucose transmembrane transport	78	2	0.36	1.00000	1
+GO:0048518	positive regulation of biological process	6363	35	29.29	1.00000	1
+GO:0048519	negative regulation of biological process	5768	24	26.55	1.00000	1
+GO:0010810	regulation of cell-substrate adhesion	221	3	1.02	1.00000	1
+GO:0018193	peptidyl-amino acid modification	855	4	3.94	1.00000	1
+GO:0050684	regulation of mRNA processing	133	2	0.61	1.00000	1
+GO:0048545	response to steroid hormone	338	2	1.56	1.00000	1
+GO:0010817	regulation of hormone levels	539	4	2.48	1.00000	1
+GO:0071407	cellular response to organic cyclic compound	530	5	2.44	1.00000	1
+GO:0031399	regulation of protein modification process	1243	7	5.72	1.00000	1
+GO:0045859	regulation of protein kinase activity	469	4	2.16	1.00000	1
+GO:0050673	epithelial cell proliferation	482	2	2.22	1.00000	1
+GO:1903311	regulation of mRNA metabolic process	401	2	1.85	1.00000	1
+GO:0008406	gonad development	233	4	1.07	1.00000	1
+GO:0001910	regulation of leukocyte mediated cytotoxicity	96	2	0.44	1.00000	1
+GO:0022402	cell cycle process	1289	4	5.93	1.00000	1
+GO:0022406	membrane docking	92	3	0.42	1.00000	1
+GO:0022407	regulation of cell-cell adhesion	495	4	2.28	1.00000	1
+GO:0007420	brain development	732	5	3.37	1.00000	1
+GO:0022409	positive regulation of cell-cell adhesion	324	3	1.49	1.00000	1
+GO:0007422	peripheral nervous system development	90	2	0.41	1.00000	1
+GO:0007423	sensory organ development	591	2	2.72	1.00000	1
+GO:0030258	lipid modification	194	2	0.89	1.00000	1
+GO:0030282	bone mineralization	127	2	0.58	1.00000	1
+GO:0051716	cellular response to stimulus	7474	42	34.4	1.00000	1
+GO:0007416	synapse assembly	208	3	0.96	1.00000	1
+GO:0007417	central nervous system development	1032	6	4.75	1.00000	1
+GO:0001932	regulation of protein phosphorylation	924	5	4.25	1.00000	1
+GO:0045088	regulation of innate immune response	440	2	2.03	1.00000	1
+GO:0010033	response to organic substance	2720	16	12.52	1.00000	1
+GO:0043393	regulation of protein binding	130	2	0.6	1.00000	1
+GO:0010035	response to inorganic substance	532	3	2.45	1.00000	1
+GO:0010038	response to metal ion	359	2	1.65	1.00000	1
+GO:0030224	monocyte differentiation	35	2	0.16	1.00000	1
+GO:0009653	anatomical structure morphogenesis	2751	21	12.66	1.00000	1
+GO:0031323	regulation of cellular metabolic process	6541	23	30.11	1.00000	1
+GO:0031324	negative regulation of cellular metabolic process	3126	10	14.39	1.00000	1
+GO:0031325	positive regulation of cellular metabolic process	3422	15	15.75	1.00000	1
+GO:0031326	regulation of cellular biosynthetic process	5650	20	26.01	1.00000	1
+GO:0030216	keratinocyte differentiation	177	2	0.81	1.00000	1
+GO:0031327	negative regulation of cellular biosynthetic process	2717	8	12.51	1.00000	1
+GO:0070887	cellular response to chemical stimulus	2731	12	12.57	1.00000	1
+GO:0031328	positive regulation of cellular biosynthetic process	2685	14	12.36	1.00000	1
+GO:0048699	generation of neurons	1505	12	6.93	1.00000	1
+GO:0031329	regulation of cellular catabolic process	782	3	3.6	1.00000	1
+GO:0044344	cellular response to fibroblast growth factor stimulus	116	2	0.53	1.00000	1
+GO:0001906	cell killing	222	2	1.02	1.00000	1
+GO:0019637	organophosphate metabolic process	1030	7	4.74	1.00000	1
+GO:0001909	leukocyte mediated cytotoxicity	140	2	0.64	1.00000	1
+GO:0010001	glial cell differentiation	260	2	1.2	1.00000	1
+GO:0060537	muscle tissue development	438	3	2.02	1.00000	1
+GO:0008150	biological_process	18249	84	84	1.00000	1
+GO:0060538	skeletal muscle organ development	182	2	0.84	1.00000	1
+GO:0006470	protein dephosphorylation	208	2	0.96	1.00000	1
+GO:0051701	biological process involved in interaction with host	201	3	0.93	1.00000	1
+GO:0031341	regulation of cell killing	110	2	0.51	1.00000	1
+GO:0008152	metabolic process	12005	53	55.26	1.00000	1
+GO:0031344	regulation of cell projection organization	676	6	3.11	1.00000	1
+GO:0007405	neuroblast proliferation	82	2	0.38	1.00000	1
+GO:0051707	response to other organism	1535	5	7.07	1.00000	1
+GO:0031347	regulation of defense response	828	3	3.81	1.00000	1
+GO:0045807	positive regulation of endocytosis	153	2	0.7	1.00000	1
+GO:0007409	axonogenesis	454	4	2.09	1.00000	1
+GO:0009628	response to abiotic stimulus	1131	8	5.21	1.00000	1
+GO:0018130	heterocycle biosynthetic process	4052	16	18.65	1.00000	1
+GO:0048660	regulation of smooth muscle cell proliferation	174	3	0.8	1.00000	1
+GO:0031330	negative regulation of cellular catabolic process	223	2	1.03	1.00000	1
+GO:0048667	cell morphogenesis involved in neuron differentiation	583	4	2.68	1.00000	1
+GO:1901360	organic cyclic compound metabolic process	6540	20	30.1	1.00000	1
+GO:1901361	organic cyclic compound catabolic process	704	4	3.24	1.00000	1
+GO:1901362	organic cyclic compound biosynthetic process	4220	17	19.42	1.00000	1
+GO:0070085	glycosylation	241	2	1.11	1.00000	1
+GO:0009617	response to bacterium	703	2	3.24	1.00000	1
+GO:0002252	immune effector process	637	2	2.93	1.00000	1
+GO:0010562	positive regulation of phosphorus metabolic process	702	5	3.23	1.00000	1
+GO:0006412	translation	743	3	3.42	1.00000	1
+GO:0002253	activation of immune response	545	3	2.51	1.00000	1
+GO:0010564	regulation of cell cycle process	744	2	3.42	1.00000	1
+GO:0070848	response to growth factor	778	8	3.58	1.00000	1
+GO:0048659	smooth muscle cell proliferation	178	3	0.82	1.00000	1
+GO:0030203	glycosaminoglycan metabolic process	111	2	0.51	1.00000	1
+GO:0030205	dermatan sulfate metabolic process	9	2	0.04	1.00000	1
+GO:0051896	regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	253	2	1.16	1.00000	1
+GO:0010556	regulation of macromolecule biosynthetic process	5519	19	25.4	1.00000	1
+GO:0045596	negative regulation of cell differentiation	734	3	3.38	1.00000	1
+GO:0010557	positive regulation of macromolecule biosynthetic process	2598	14	11.96	1.00000	1
+GO:0045597	positive regulation of cell differentiation	901	5	4.15	1.00000	1
+GO:0010558	negative regulation of macromolecule biosynthetic process	2666	7	12.27	1.00000	1
+GO:0097305	response to alcohol	259	2	1.19	1.00000	1
+GO:0021953	central nervous system neuron differentiation	178	3	0.82	1.00000	1
+GO:0000003	reproduction	1539	6	7.08	1.00000	1
+GO:0034976	response to endoplasmic reticulum stress	269	2	1.24	1.00000	1
+GO:0016192	vesicle-mediated transport	1536	10	7.07	1.00000	1
+GO:0046545	development of primary female sexual characteristics	106	3	0.49	1.00000	1
+GO:0046546	development of primary male sexual characteristics	150	2	0.69	1.00000	1
+GO:0016197	endosomal transport	286	2	1.32	1.00000	1
+GO:0002228	natural killer cell mediated immunity	79	2	0.36	1.00000	1
+GO:0033993	response to lipid	928	6	4.27	1.00000	1
+GO:0007160	cell-matrix adhesion	240	4	1.1	1.00000	1
+GO:0007166	cell surface receptor signaling pathway	2818	20	12.97	1.00000	1
+GO:0007167	enzyme-linked receptor protein signaling pathway	1028	11	4.73	1.00000	1
+GO:0120161	regulation of cold-induced thermogenesis	151	3	0.7	1.00000	1
+GO:0051093	negative regulation of developmental process	1015	8	4.67	1.00000	1
+GO:0051094	positive regulation of developmental process	1380	8	6.35	1.00000	1
+GO:0009605	response to external stimulus	2747	13	12.64	1.00000	1
+GO:0006996	organelle organization	3607	14	16.6	1.00000	1
+GO:0009607	response to biotic stimulus	1575	5	7.25	1.00000	1
+GO:0051098	regulation of binding	237	2	1.09	1.00000	1
+GO:0006401	RNA catabolic process	399	2	1.84	1.00000	1
+GO:0007154	cell communication	6565	41	30.22	1.00000	1
+GO:0099536	synaptic signaling	779	7	3.59	1.00000	1
+GO:0048646	anatomical structure formation involved in morphogenesis	1270	9	5.85	1.00000	1
+GO:0099537	trans-synaptic signaling	754	7	3.47	1.00000	1
+GO:1901342	regulation of vasculature development	362	3	1.67	1.00000	1
+GO:1901343	negative regulation of vasculature development	157	2	0.72	1.00000	1
+GO:0007186	G protein-coupled receptor signaling pathway	1284	3	5.91	1.00000	1
+GO:0014706	striated muscle tissue development	265	2	1.22	1.00000	1
+GO:0048638	regulation of developmental growth	329	5	1.51	1.00000	1
+GO:0007173	epidermal growth factor receptor signaling pathway	110	2	0.51	1.00000	1
+GO:0032446	protein modification by small protein conjugation	841	2	3.87	1.00000	1
+GO:0150063	visual system development	396	2	1.82	1.00000	1
+GO:1904951	positive regulation of establishment of protein localization	326	3	1.5	1.00000	1
+GO:0006950	response to stress	3939	18	18.13	1.00000	1
+GO:0051050	positive regulation of transport	846	7	3.89	1.00000	1
+GO:0051051	negative regulation of transport	461	2	2.12	1.00000	1
+GO:0006952	defense response	1843	7	8.48	1.00000	1
+GO:0006954	inflammatory response	887	2	4.08	1.00000	1
+GO:0006955	immune response	1750	6	8.06	1.00000	1
+GO:0042325	regulation of phosphorylation	1000	5	4.6	1.00000	1
+GO:0051056	regulation of small GTPase mediated signal transduction	304	4	1.4	1.00000	1
+GO:0051057	positive regulation of small GTPase mediated signal transduction	76	3	0.35	1.00000	1
+GO:0042327	positive regulation of phosphorylation	624	4	2.87	1.00000	1
+GO:0048608	reproductive structure development	307	4	1.41	1.00000	1
+GO:0048609	multicellular organismal reproductive process	924	3	4.25	1.00000	1
+GO:0008291	acetylcholine metabolic process	6	2	0.03	1.00000	1
+GO:0010506	regulation of autophagy	357	3	1.64	1.00000	1
+GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	299	2	1.38	1.00000	1
+GO:0060627	regulation of vesicle-mediated transport	525	3	2.42	1.00000	1
+GO:0006163	purine nucleotide metabolic process	536	4	2.47	1.00000	1
+GO:0006164	purine nucleotide biosynthetic process	254	4	1.17	1.00000	1
+GO:0015980	energy derivation by oxidation of organic compounds	333	3	1.53	1.00000	1
+GO:0030728	ovulation	16	2	0.07	1.00000	1
+GO:0042330	taxis	468	4	2.15	1.00000	1
+GO:0002790	peptide secretion	247	3	1.14	1.00000	1
+GO:0044419	biological process involved in interspecies interaction between organisms	1708	6	7.86	1.00000	1
+GO:0002791	regulation of peptide secretion	200	3	0.92	1.00000	1
+GO:0002793	positive regulation of peptide secretion	113	2	0.52	1.00000	1
+GO:0090066	regulation of anatomical structure size	516	3	2.38	1.00000	1
+GO:0140352	export from cell	907	6	4.17	1.00000	1
+GO:0006913	nucleocytoplasmic transport	331	2	1.52	1.00000	1
+GO:0006914	autophagy	577	3	2.66	1.00000	1
+GO:0046660	female sex differentiation	121	3	0.56	1.00000	1
+GO:0046661	male sex differentiation	173	2	0.8	1.00000	1
+GO:0018212	peptidyl-tyrosine modification	271	3	1.25	1.00000	1
+GO:0032963	collagen metabolic process	107	2	0.49	1.00000	1
+GO:0051046	regulation of secretion	619	4	2.85	1.00000	1
+GO:0051047	positive regulation of secretion	312	3	1.44	1.00000	1
+GO:0051048	negative regulation of secretion	172	2	0.79	1.00000	1
+GO:0080090	regulation of primary metabolic process	5719	22	26.32	1.00000	1
+GO:0051049	regulation of transport	1641	11	7.55	1.00000	1
+GO:0090087	regulation of peptide transport	202	3	0.93	1.00000	1
+GO:0006935	chemotaxis	466	4	2.14	1.00000	1
+GO:0097435	supramolecular fiber organization	851	4	3.92	1.00000	1
+GO:0002761	regulation of myeloid leukocyte differentiation	128	2	0.59	1.00000	1
+GO:0002764	immune response-regulating signaling pathway	506	3	2.33	1.00000	1
+GO:0008286	insulin receptor signaling pathway	126	2	0.58	1.00000	1
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	338	3	1.56	1.00000	1
+GO:0043484	regulation of RNA splicing	185	3	0.85	1.00000	1
+GO:0032989	cellular anatomical entity morphogenesis	784	6	3.61	1.00000	1
+GO:0071214	cellular response to abiotic stimulus	333	2	1.53	1.00000	1
+GO:0002757	immune response-activating signaling pathway	478	3	2.2	1.00000	1
+GO:0015931	nucleobase-containing compound transport	229	2	1.05	1.00000	1
+GO:0044403	biological process involved in symbiotic interaction	310	3	1.43	1.00000	1
+GO:0044409	symbiont entry into host	163	3	0.75	1.00000	1
+GO:0007292	female gamete generation	163	2	0.75	1.00000	1
+GO:0014812	muscle cell migration	111	2	0.51	1.00000	1
+GO:0046626	regulation of insulin receptor signaling pathway	70	2	0.32	1.00000	1
+GO:0005975	carbohydrate metabolic process	560	3	2.58	1.00000	1
+GO:0031401	positive regulation of protein modification process	764	6	3.52	1.00000	1
+GO:0098916	anterograde trans-synaptic signaling	748	7	3.44	1.00000	1
+GO:0043410	positive regulation of MAPK cascade	474	3	2.18	1.00000	1
+GO:0014070	response to organic cyclic compound	896	7	4.12	1.00000	1
+GO:0008219	cell death	2039	4	9.39	1.00000	1
+GO:0006139	nucleobase-containing compound metabolic process	6064	19	27.91	1.00000	1
+GO:0043412	macromolecule modification	3181	13	14.64	1.00000	1
+GO:0043413	macromolecule glycosylation	225	2	1.04	1.00000	1
+GO:0009314	response to radiation	429	3	1.97	1.00000	1
+GO:0052547	regulation of peptidase activity	303	2	1.39	1.00000	1
+GO:0032940	secretion by cell	826	6	3.8	1.00000	1
+GO:0046649	lymphocyte activation	793	4	3.65	1.00000	1
+GO:0007264	small GTPase-mediated signal transduction	499	5	2.3	1.00000	1
+GO:0002715	regulation of natural killer cell mediated immunity	53	2	0.24	1.00000	1
+GO:0007266	Rho protein signal transduction	145	2	0.67	1.00000	1
+GO:0097190	apoptotic signaling pathway	619	2	2.85	1.00000	1
+GO:0043434	response to peptide hormone	438	3	2.02	1.00000	1
+GO:0043436	oxoacid metabolic process	927	6	4.27	1.00000	1
+GO:0034284	response to monosaccharide	207	3	0.95	1.00000	1
+GO:0045655	regulation of monocyte differentiation	20	2	0.09	1.00000	1
+GO:0120254	olefinic compound metabolic process	161	2	0.74	1.00000	1
+GO:0014044	Schwann cell development	42	2	0.19	1.00000	1
+GO:0035383	thioester metabolic process	96	2	0.44	1.00000	1
+GO:0035384	thioester biosynthetic process	47	2	0.22	1.00000	1
+GO:0010646	regulation of cell communication	3544	20	16.31	1.00000	1
+GO:0010647	positive regulation of cell communication	1807	13	8.32	1.00000	1
+GO:0010648	negative regulation of cell communication	1483	7	6.83	1.00000	1
+GO:0014037	Schwann cell differentiation	49	2	0.23	1.00000	1
+GO:0034220	monoatomic ion transmembrane transport	1024	8	4.71	1.00000	1
+GO:0008202	steroid metabolic process	329	2	1.51	1.00000	1
+GO:0007272	ensheathment of neurons	156	3	0.72	1.00000	1
+GO:0007276	gamete generation	815	3	3.75	1.00000	1
+GO:0010639	negative regulation of organelle organization	364	2	1.68	1.00000	1
+GO:0030097	hemopoiesis	959	4	4.41	1.00000	1
+GO:0043408	regulation of MAPK cascade	668	4	3.07	1.00000	1
+GO:0030098	lymphocyte differentiation	432	2	1.99	1.00000	1
+GO:0030099	myeloid cell differentiation	439	2	2.02	1.00000	1
+GO:0030855	epithelial cell differentiation	748	5	3.44	1.00000	1
+GO:0009306	protein secretion	370	4	1.7	1.00000	1
+GO:0034219	carbohydrate transmembrane transport	136	2	0.63	1.00000	1
+GO:1903131	mononuclear cell differentiation	484	3	2.23	1.00000	1
+GO:0002703	regulation of leukocyte mediated immunity	246	2	1.13	1.00000	1
+GO:0001775	cell activation	1107	5	5.1	1.00000	1
+GO:0002706	regulation of lymphocyte mediated immunity	186	2	0.86	1.00000	1
+GO:0034248	regulation of amide metabolic process	522	2	2.4	1.00000	1
+GO:0010604	positive regulation of macromolecule metabolic process	3488	18	16.06	1.00000	1
+GO:0010605	negative regulation of macromolecule metabolic process	3172	9	14.6	1.00000	1
+GO:0010608	post-transcriptional regulation of gene expression	1078	2	4.96	1.00000	1
+GO:0061061	muscle structure development	708	5	3.26	1.00000	1
+GO:0032101	regulation of response to external stimulus	1142	6	5.26	1.00000	1
+GO:0032102	negative regulation of response to external stimulus	456	3	2.1	1.00000	1
+GO:0032103	positive regulation of response to external stimulus	640	2	2.95	1.00000	1
+GO:0045637	regulation of myeloid cell differentiation	218	2	1	1.00000	1
+GO:0033273	response to vitamin	91	2	0.42	1.00000	1
+GO:0016236	macroautophagy	341	2	1.57	1.00000	1
+GO:0046390	ribose phosphate biosynthetic process	231	3	1.06	1.00000	1
+GO:0030072	peptide hormone secretion	242	3	1.11	1.00000	1
+GO:0030073	insulin secretion	200	3	0.92	1.00000	1
+GO:0046394	carboxylic acid biosynthetic process	330	4	1.52	1.00000	1
+GO:1902115	regulation of organelle assembly	222	2	1.02	1.00000	1
+GO:0060322	head development	781	5	3.59	1.00000	1
+GO:0032292	peripheral nervous system axon ensheathment	29	2	0.13	1.00000	1
+GO:0071774	response to fibroblast growth factor	124	2	0.57	1.00000	1
+GO:0030029	actin filament-based process	820	3	3.77	1.00000	1
+GO:1902903	regulation of supramolecular fiber organization	389	2	1.79	1.00000	1
+GO:0061024	membrane organization	814	4	3.75	1.00000	1
+GO:0060341	regulation of cellular localization	987	6	4.54	1.00000	1
+GO:0070647	protein modification by small protein conjugation or removal	945	2	4.35	1.00000	1
+GO:0060348	bone development	215	2	0.99	1.00000	1
+GO:0043170	macromolecule metabolic process	9918	39	45.65	1.00000	1
+GO:0019438	aromatic compound biosynthetic process	4064	16	18.71	1.00000	1
+GO:0019439	aromatic compound catabolic process	676	3	3.11	1.00000	1
+GO:0003012	muscle system process	459	3	2.11	1.00000	1
+GO:0003013	circulatory system process	611	3	2.81	1.00000	1
+GO:2001057	reactive nitrogen species metabolic process	85	2	0.39	1.00000	1
+GO:0003018	vascular process in circulatory system	275	2	1.27	1.00000	1
+GO:0061041	regulation of wound healing	138	2	0.64	1.00000	1
+GO:0043933	protein-containing complex organization	2435	6	11.21	1.00000	1
+GO:0030030	cell projection organization	1608	13	7.4	1.00000	1
+GO:0030031	cell projection assembly	596	5	2.74	1.00000	1
+GO:1901184	regulation of ERBB signaling pathway	72	2	0.33	1.00000	1
+GO:0021795	cerebral cortex cell migration	48	2	0.22	1.00000	1
+GO:0030036	actin cytoskeleton organization	722	2	3.32	1.00000	1
+GO:0043112	receptor metabolic process	72	2	0.33	1.00000	1
+GO:1902105	regulation of leukocyte differentiation	328	2	1.51	1.00000	1
+GO:0048468	cell development	2834	18	13.04	1.00000	1
+GO:0042981	regulation of apoptotic process	1504	2	6.92	1.00000	1
+GO:0034762	regulation of transmembrane transport	488	3	2.25	1.00000	1
+GO:0034764	positive regulation of transmembrane transport	213	2	0.98	1.00000	1
+GO:0009416	response to light stimulus	319	3	1.47	1.00000	1
+GO:0038127	ERBB signaling pathway	131	2	0.6	1.00000	1
+GO:0032271	regulation of protein polymerization	204	2	0.94	1.00000	1
+GO:0050953	sensory perception of light stimulus	223	3	1.03	1.00000	1
+GO:0051668	localization within membrane	692	8	3.19	1.00000	1
+GO:0030001	metal ion transport	887	7	4.08	1.00000	1
+GO:0046323	glucose import	78	2	0.36	1.00000	1
+GO:0046324	regulation of glucose import	60	2	0.28	1.00000	1
+GO:0071702	organic substance transport	2360	15	10.86	1.00000	1
+GO:0071704	organic substance metabolic process	11490	51	52.89	1.00000	1
+GO:0071705	nitrogen compound transport	1896	15	8.73	1.00000	1
+GO:1900076	regulation of cellular response to insulin stimulus	72	2	0.33	1.00000	1
+GO:1990778	protein localization to cell periphery	355	3	1.63	1.00000	1
+GO:0003002	regionalization	429	2	1.97	1.00000	1
+GO:0055082	intracellular chemical homeostasis	712	2	3.28	1.00000	1
+GO:0003006	developmental process involved in reproduction	1011	4	4.65	1.00000	1
+GO:0055086	nucleobase-containing small molecule metabolic process	672	6	3.09	1.00000	1
+GO:0003008	system process	2308	13	10.62	1.00000	1
+GO:0000398	mRNA splicing, via spliceosome	329	2	1.51	1.00000	1
+GO:0002831	regulation of response to biotic stimulus	524	2	2.41	1.00000	1
+GO:0021782	glial cell development	133	2	0.61	1.00000	1
+GO:0019953	sexual reproduction	1090	3	5.02	1.00000	1
+GO:1901135	carbohydrate derivative metabolic process	1105	10	5.09	1.00000	1
+GO:1901137	carbohydrate derivative biosynthetic process	671	8	3.09	1.00000	1
+GO:0050920	regulation of chemotaxis	229	3	1.05	1.00000	1
+GO:0009991	response to extracellular stimulus	519	5	2.39	1.00000	1
+GO:0061564	axon development	520	5	2.39	1.00000	1
+GO:0044255	cellular lipid metabolic process	1018	8	4.69	1.00000	1
+GO:0006790	sulfur compound metabolic process	324	5	1.49	1.00000	1
+GO:0006793	phosphorus metabolic process	2576	15	11.86	1.00000	1
+GO:0006796	phosphate-containing compound metabolic process	2550	15	11.74	1.00000	1
+GO:0044281	small molecule metabolic process	1814	12	8.35	1.00000	1
+GO:0044282	small molecule catabolic process	373	2	1.72	1.00000	1
+GO:0044283	small molecule biosynthetic process	601	6	2.77	1.00000	1
+GO:0042127	regulation of cell population proliferation	1767	12	8.13	1.00000	1
+GO:0042110	T cell activation	564	4	2.6	1.00000	1
+GO:0044270	cellular nitrogen compound catabolic process	656	3	3.02	1.00000	1
+GO:0044271	cellular nitrogen compound biosynthetic process	4811	21	22.14	1.00000	1
+GO:0044272	sulfur compound biosynthetic process	170	5	0.78	1.00000	1
+GO:0051640	organelle localization	604	2	2.78	1.00000	1
+GO:0051641	cellular localization	3367	22	15.5	1.00000	1
+GO:0023061	signal release	485	3	2.23	1.00000	1
+GO:0051649	establishment of localization in cell	1937	9	8.92	1.00000	1
+GO:0009966	regulation of signal transduction	3126	17	14.39	1.00000	1
+GO:0009967	positive regulation of signal transduction	1599	10	7.36	1.00000	1
+GO:0009968	negative regulation of signal transduction	1380	6	6.35	1.00000	1
+GO:0023051	regulation of signaling	3539	20	16.29	1.00000	1
+GO:0023052	signaling	6473	41	29.8	1.00000	1
+GO:0001816	cytokine production	875	5	4.03	1.00000	1
+GO:0023056	positive regulation of signaling	1808	13	8.32	1.00000	1
+GO:0023057	negative regulation of signaling	1484	7	6.83	1.00000	1
+GO:0001819	positive regulation of cytokine production	497	3	2.29	1.00000	1
+GO:0045321	leukocyte activation	958	4	4.41	1.00000	1
+GO:0019941	modification-dependent protein catabolic process	605	2	2.78	1.00000	1
+GO:0000375	RNA splicing, via transesterification reactions	333	2	1.53	1.00000	1
+GO:0000377	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	329	2	1.51	1.00000	1
+GO:0006753	nucleoside phosphate metabolic process	605	6	2.78	1.00000	1
+GO:1901292	nucleoside phosphate catabolic process	176	2	0.81	1.00000	1
+GO:0044242	cellular lipid catabolic process	230	2	1.06	1.00000	1
+GO:1901293	nucleoside phosphate biosynthetic process	293	5	1.35	1.00000	1
+GO:0019935	cyclic-nucleotide-mediated signaling	100	2	0.46	1.00000	1
+GO:0009987	cellular process	17161	82	78.99	1.00000	1
+GO:0044248	cellular catabolic process	1689	8	7.77	1.00000	1
+GO:0050900	leukocyte migration	396	5	1.82	1.00000	1
+GO:0002009	morphogenesis of an epithelium	501	2	2.31	1.00000	1
+GO:0044249	cellular biosynthetic process	8376	33	38.55	1.00000	1
+GO:0031214	biomineral tissue development	180	2	0.83	1.00000	1
+GO:0050906	detection of stimulus involved in sensory perception	523	2	2.41	1.00000	1
+GO:0055001	muscle cell development	204	2	0.94	1.00000	1
+GO:0044237	cellular metabolic process	10651	41	49.03	1.00000	1
+GO:0044238	primary metabolic process	10443	43	48.07	1.00000	1
+GO:0043269	regulation of monoatomic ion transport	469	5	2.16	1.00000	1
+GO:0009165	nucleotide biosynthetic process	291	5	1.34	1.00000	1
+GO:0051606	detection of stimulus	650	2	2.99	1.00000	1
+GO:0021700	developmental maturation	341	3	1.57	1.00000	1
+GO:0060429	epithelium development	1228	8	5.65	1.00000	1
+GO:0043254	regulation of protein-containing complex assembly	418	2	1.92	1.00000	1
+GO:0006720	isoprenoid metabolic process	135	2	0.62	1.00000	1
+GO:0009150	purine ribonucleotide metabolic process	444	3	2.04	1.00000	1
+GO:0009152	purine ribonucleotide biosynthetic process	209	3	0.96	1.00000	1
+GO:0006725	cellular aromatic compound metabolic process	6288	19	28.94	1.00000	1
+GO:0009913	epidermal cell differentiation	246	2	1.13	1.00000	1
+GO:0009914	hormone transport	322	3	1.48	1.00000	1
+GO:0070371	ERK1 and ERK2 cascade	331	2	1.52	1.00000	1
+GO:0070372	regulation of ERK1 and ERK2 cascade	307	2	1.41	1.00000	1
+GO:0071840	cellular component organization or biogenesis	6753	33	31.08	1.00000	1
+GO:0010498	proteasomal protein catabolic process	524	2	2.41	1.00000	1
+GO:0072594	establishment of protein localization to organelle	448	2	2.06	1.00000	1
+GO:0032768	regulation of monooxygenase activity	42	2	0.19	1.00000	1
+GO:0072001	renal system development	329	2	1.51	1.00000	1
+GO:0015711	organic anion transport	447	4	2.06	1.00000	1
+GO:0002573	myeloid leukocyte differentiation	239	2	1.1	1.00000	1
+GO:0046483	heterocycle metabolic process	6242	19	28.73	1.00000	1
+GO:0040011	locomotion	1346	13	6.2	1.00000	1
+GO:0002521	leukocyte differentiation	626	3	2.88	1.00000	1
+GO:0040012	regulation of locomotion	1151	12	5.3	1.00000	1
+GO:0040013	negative regulation of locomotion	430	4	1.98	1.00000	1
+GO:0032784	regulation of DNA-templated transcription elongation	101	2	0.46	1.00000	1
+GO:0009117	nucleotide metabolic process	597	5	2.75	1.00000	1
+GO:0032787	monocarboxylic acid metabolic process	635	6	2.92	1.00000	1
+GO:0015749	monosaccharide transmembrane transport	123	2	0.57	1.00000	1
+GO:0034097	response to cytokine	960	3	4.42	1.00000	1
+GO:0010468	regulation of gene expression	5391	18	24.81	1.00000	1
+GO:0009141	nucleoside triphosphate metabolic process	264	3	1.22	1.00000	1
+GO:0012501	programmed cell death	2035	4	9.37	1.00000	1
+GO:0009142	nucleoside triphosphate biosynthetic process	124	2	0.57	1.00000	1
+GO:0032774	RNA biosynthetic process	3559	11	16.38	1.00000	1
+GO:1904705	regulation of vascular associated smooth muscle cell proliferation	93	2	0.43	1.00000	1
+GO:0042267	natural killer cell mediated cytotoxicity	76	2	0.35	1.00000	1
+GO:0009132	nucleoside diphosphate metabolic process	127	2	0.58	1.00000	1
+GO:1990874	vascular associated smooth muscle cell proliferation	95	2	0.44	1.00000	1
+GO:0022029	telencephalon cell migration	60	2	0.28	1.00000	1
+GO:0008015	blood circulation	526	2	2.42	1.00000	1
+GO:0001568	blood vessel development	807	4	3.71	1.00000	1
+GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	279	4	1.28	1.00000	1
+GO:0021885	forebrain cell migration	63	2	0.29	1.00000	1
+GO:0046434	organophosphate catabolic process	234	2	1.08	1.00000	1
+GO:0043207	response to external biotic stimulus	1538	5	7.08	1.00000	1
+GO:0009100	glycoprotein metabolic process	386	5	1.78	1.00000	1
+GO:0098739	import across plasma membrane	203	2	0.93	1.00000	1
+GO:0009101	glycoprotein biosynthetic process	324	4	1.49	1.00000	1
+GO:1990089	response to nerve growth factor	50	2	0.23	1.00000	1
+GO:0072521	purine-containing compound metabolic process	565	4	2.6	1.00000	1
+GO:0072522	purine-containing compound biosynthetic process	262	4	1.21	1.00000	1
+GO:1990845	adaptive thermogenesis	169	3	0.78	1.00000	1
+GO:0040007	growth	928	6	4.27	1.00000	1
+GO:0040008	regulation of growth	616	5	2.84	1.00000	1
+GO:0042221	response to chemical	4061	20	18.69	1.00000	1
+GO:2000401	regulation of lymphocyte migration	70	2	0.32	1.00000	1
+GO:0044782	cilium organization	412	5	1.9	1.00000	1
+GO:0001578	microtubule bundle formation	126	3	0.58	1.00000	1
+GO:0036293	response to decreased oxygen levels	324	2	1.49	1.00000	1
+GO:0033865	nucleoside bisphosphate metabolic process	124	2	0.57	1.00000	1
+GO:0033866	nucleoside bisphosphate biosynthetic process	57	2	0.26	1.00000	1
+GO:0016053	organic acid biosynthetic process	333	4	1.53	1.00000	1
+GO:0016055	Wnt signaling pathway	464	2	2.14	1.00000	1
+GO:0006865	amino acid transport	156	3	0.72	1.00000	1
+GO:0022008	neurogenesis	1738	13	8	1.00000	1
+GO:0006091	generation of precursor metabolites and energy	509	4	2.34	1.00000	1
+GO:1903706	regulation of hemopoiesis	424	2	1.95	1.00000	1
+GO:0045428	regulation of nitric oxide biosynthetic process	63	2	0.29	1.00000	1
+GO:0002694	regulation of leukocyte activation	572	4	2.63	1.00000	1
+GO:0002696	positive regulation of leukocyte activation	361	3	1.66	1.00000	1
+GO:0002697	regulation of immune effector process	385	2	1.77	1.00000	1
+GO:0007010	cytoskeleton organization	1505	8	6.93	1.00000	1
+GO:0016070	RNA metabolic process	4962	14	22.84	1.00000	1
+GO:0016071	mRNA metabolic process	862	4	3.97	1.00000	1
+GO:0007017	microtubule-based process	938	6	4.32	1.00000	1
+GO:0019220	regulation of phosphate metabolic process	1162	6	5.35	1.00000	1
+GO:0019221	cytokine-mediated signaling pathway	526	2	2.42	1.00000	1
+GO:0019222	regulation of metabolic process	7045	31	32.43	1.00000	1
+GO:0033875	ribonucleoside bisphosphate metabolic process	124	2	0.57	1.00000	1
+GO:0034030	ribonucleoside bisphosphate biosynthetic process	57	2	0.26	1.00000	1
+GO:0061640	cytoskeleton-dependent cytokinesis	116	2	0.53	1.00000	1
+GO:0051341	regulation of oxidoreductase activity	71	2	0.33	1.00000	1
+GO:0034032	purine nucleoside bisphosphate metabolic process	124	2	0.57	1.00000	1
+GO:0034033	purine nucleoside bisphosphate biosynthetic process	57	2	0.26	1.00000	1
+GO:0007044	cell-substrate junction assembly	96	2	0.44	1.00000	1
+GO:0051345	positive regulation of hydrolase activity	480	3	2.21	1.00000	1
+GO:0051346	negative regulation of hydrolase activity	204	3	0.94	1.00000	1
+GO:0051347	positive regulation of transferase activity	376	3	1.73	1.00000	1
+GO:0009260	ribonucleotide biosynthetic process	224	3	1.03	1.00000	1
+GO:0007049	cell cycle	1811	6	8.34	1.00000	1
+GO:0009266	response to temperature stimulus	167	2	0.77	1.00000	1
+GO:0019219	regulation of nucleobase-containing compound metabolic process	4123	13	18.98	1.00000	1
+GO:0006066	alcohol metabolic process	371	3	1.71	1.00000	1
+GO:0051336	regulation of hydrolase activity	743	7	3.42	1.00000	1
+GO:0006820	monoatomic anion transport	170	3	0.78	1.00000	1
+GO:0051338	regulation of transferase activity	637	4	2.93	1.00000	1
+GO:0006821	chloride transport	123	2	0.57	1.00000	1
+GO:0120031	plasma membrane bounded cell projection assembly	583	5	2.68	1.00000	1
+GO:0008585	female gonad development	102	3	0.47	1.00000	1
+GO:0120035	regulation of plasma membrane bounded cell projection organization	659	5	3.03	1.00000	1
+GO:0120036	plasma membrane bounded cell projection organization	1566	12	7.21	1.00000	1
+GO:0009259	ribonucleotide metabolic process	464	3	2.14	1.00000	1
+GO:0120039	plasma membrane bounded cell projection morphogenesis	661	4	3.04	1.00000	1
+GO:0070482	response to oxygen levels	351	3	1.62	1.00000	1
+GO:0016042	lipid catabolic process	340	3	1.57	1.00000	1
+GO:0016043	cellular component organization	6544	33	30.12	1.00000	1
+GO:0006810	transport	4358	29	20.06	1.00000	1
+GO:0006812	monoatomic cation transport	1040	9	4.79	1.00000	1
+GO:0001503	ossification	444	3	2.04	1.00000	1
+GO:0019233	sensory perception of pain	81	2	0.37	1.00000	1
+GO:0001504	neurotransmitter uptake	45	2	0.21	1.00000	1
+GO:0006816	calcium ion transport	427	3	1.97	1.00000	1
+GO:2000181	negative regulation of blood vessel morphogenesis	155	2	0.71	1.00000	1
+GO:0016032	viral process	425	3	1.96	1.00000	1
+GO:0006082	organic acid metabolic process	933	6	4.29	1.00000	1
+GO:0044703	multi-organism reproductive process	204	3	0.94	1.00000	1
+GO:0044706	multi-multicellular organism process	212	3	0.98	1.00000	1
+GO:0002683	negative regulation of immune system process	526	3	2.42	1.00000	1
+GO:0002684	positive regulation of immune system process	1075	7	4.95	1.00000	1
+GO:0002685	regulation of leukocyte migration	230	4	1.06	1.00000	1
+GO:0035295	tube development	1173	5	5.4	1.00000	1
+GO:0065007	biological regulation	12489	65	57.49	1.00000	1
+GO:0065008	regulation of biological quality	2922	15	13.45	1.00000	1
+GO:0032868	response to insulin	269	2	1.24	1.00000	1
+GO:0065009	regulation of molecular function	2028	15	9.33	1.00000	1
+GO:0007599	hemostasis	233	2	1.07	1.00000	1
+GO:0032869	cellular response to insulin stimulus	206	2	0.95	1.00000	1
+GO:0010959	regulation of metal ion transport	393	4	1.81	1.00000	1
+GO:2000177	regulation of neural precursor cell proliferation	102	3	0.47	1.00000	1
+GO:0036211	protein modification process	2950	12	13.58	1.00000	1
+GO:0006022	aminoglycan metabolic process	122	2	0.56	1.00000	1
+GO:0006023	aminoglycan biosynthetic process	76	2	0.35	1.00000	1
+GO:0006024	glycosaminoglycan biosynthetic process	72	2	0.33	1.00000	1
+GO:0032880	regulation of protein localization	877	5	4.04	1.00000	1
+GO:0006029	proteoglycan metabolic process	89	2	0.41	1.00000	1
+GO:0046942	carboxylic acid transport	354	3	1.63	1.00000	1
+GO:0010975	regulation of neuron projection development	460	5	2.12	1.00000	1
+GO:0050790	regulation of catalytic activity	1404	12	6.46	1.00000	1
+GO:0015849	organic acid transport	355	3	1.63	1.00000	1
+GO:0050793	regulation of developmental process	2552	20	11.75	1.00000	1
+GO:0033043	regulation of organelle organization	1179	6	5.43	1.00000	1
+GO:0050794	regulation of cellular process	11512	58	52.99	1.00000	1
+GO:0098876	vesicle-mediated transport to the plasma membrane	149	3	0.69	1.00000	1
+GO:0032870	cellular response to hormone stimulus	614	4	2.83	1.00000	1
+GO:1900619	acetate ester metabolic process	6	2	0.03	1.00000	1
+GO:0015833	peptide transport	271	4	1.25	1.00000	1
+GO:0010927	cellular component assembly involved in morphogenesis	135	2	0.62	1.00000	1
+GO:0032879	regulation of localization	2048	12	9.43	1.00000	1
+GO:0099173	postsynapse organization	195	3	0.9	1.00000	1
+GO:2000145	regulation of cell motility	1110	11	5.11	1.00000	1
+GO:0033036	macromolecule localization	2992	19	13.77	1.00000	1
+GO:2000147	positive regulation of cell motility	606	5	2.79	1.00000	1
+GO:0006807	nitrogen compound metabolic process	9959	43	45.84	1.00000	1
+GO:0072657	protein localization to membrane	602	5	2.77	1.00000	1
+GO:0006809	nitric oxide biosynthetic process	77	2	0.35	1.00000	1
+GO:1903825	organic acid transmembrane transport	157	2	0.72	1.00000	1
+GO:1903828	negative regulation of protein localization	216	2	0.99	1.00000	1
+GO:1903050	regulation of proteolysis involved in protein catabolic process	228	2	1.05	1.00000	1
+GO:1903829	positive regulation of protein localization	483	3	2.22	1.00000	1
+GO:0007584	response to nutrient	164	2	0.75	1.00000	1
+GO:0090304	nucleic acid metabolic process	5510	14	25.36	1.00000	1
+GO:0106106	cold-induced thermogenesis	152	3	0.7	1.00000	1
+GO:0001667	ameboidal-type cell migration	496	2	2.28	1.00000	1
+GO:0050764	regulation of phagocytosis	99	2	0.46	1.00000	1
+GO:0050769	positive regulation of neurogenesis	246	2	1.13	1.00000	1
+GO:0044092	negative regulation of molecular function	751	6	3.46	1.00000	1
+GO:0044093	positive regulation of molecular function	1210	8	5.57	1.00000	1
+GO:0046903	secretion	962	6	4.43	1.00000	1
+GO:0015804	neutral amino acid transport	58	2	0.27	1.00000	1
+GO:0001654	eye development	392	2	1.8	1.00000	1
+GO:0072676	lymphocyte migration	125	2	0.58	1.00000	1
+GO:0046907	intracellular transport	1349	7	6.21	1.00000	1
+GO:0001659	temperature homeostasis	183	3	0.84	1.00000	1
+GO:0033002	muscle cell proliferation	251	3	1.16	1.00000	1
+GO:0045165	cell fate commitment	289	2	1.33	1.00000	1

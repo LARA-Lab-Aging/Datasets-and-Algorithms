@@ -1,0 +1,8 @@
+Enrichment FDR	nGenes	Pathway Genes	Fold Enrichment	Pathway	URL	Genes	GOID
+0.157683319445674	2	16	57.2025	GO:0002371 dendritic cell cytokine production 	 http://amigo.geneontology.org/amigo/term/GO:0002371	 PLCG2  MAVS	GO:0002371
+0.157683319445674	2	16	57.2025	GO:0002730 regulation of dendritic cell cytokine production 	 http://amigo.geneontology.org/amigo/term/GO:0002730	 PLCG2  MAVS	GO:0002730
+0.157683319445674	2	11	83.2036363636364	GO:0002732 positive regulation of dendritic cell cytokine production 	 http://amigo.geneontology.org/amigo/term/GO:0002732	 PLCG2  MAVS	GO:0002732
+0.157683319445674	4	146	12.5375342465753	GO:0009581 detection of external stimulus 	 http://amigo.geneontology.org/amigo/term/GO:0009581	 NR2F6  CACNA1F  ANO1  NMT2	GO:0009581
+0.157683319445674	4	149	12.2851006711409	GO:0009582 detection of abiotic stimulus 	 http://amigo.geneontology.org/amigo/term/GO:0009582	 NR2F6  CACNA1F  ANO1  NMT2	GO:0009582
+0.157683319445674	2	17	53.8376470588235	GO:0050965 detection of temperature stimulus involved in sensory perception of pain 	 http://amigo.geneontology.org/amigo/term/GO:0050965	 NR2F6  ANO1	GO:0050965
+0.188033079437122	2	20	45.762	GO:0050961 detection of temperature stimulus involved in sensory perception 	 http://amigo.geneontology.org/amigo/term/GO:0050961	 NR2F6  ANO1	GO:0050961

@@ -1,0 +1,553 @@
+Term	Ont	N	DE	P.DE	adj_pval	GOID
+biological_process	BP	18249	46	6.99089521060865e-06	0.0394181626450169	GO:0008150
+reproduction	BP	1539	6	0.0527055596787907	1	GO:0000003
+immune effector process	BP	637	3	0.102294221141461	1	GO:0002252
+activation of immune response	BP	545	2	0.250065135398101	1	GO:0002253
+immune system process	BP	2545	7	0.158404616469934	1	GO:0002376
+regulation of immune system process	BP	1544	6	0.0533894694561144	1	GO:0002682
+negative regulation of immune system process	BP	526	4	0.0138012886153466	1	GO:0002683
+positive regulation of immune system process	BP	1075	5	0.0404380651088792	1	GO:0002684
+regulation of immune effector process	BP	385	2	0.14784883320457	1	GO:0002697
+negative regulation of immune effector process	BP	121	2	0.0193929127686246	1	GO:0002698
+regulation of response to biotic stimulus	BP	524	4	0.0136268024107758	1	GO:0002831
+negative regulation of response to biotic stimulus	BP	119	2	0.0187963523940285	1	GO:0002832
+developmental process involved in reproduction	BP	1011	2	0.536976096669507	1	GO:0003006
+response to stress	BP	3939	11	0.0791013368451847	1	GO:0006950
+defense response	BP	1843	7	0.041948074413295	1	GO:0006952
+inflammatory response	BP	887	3	0.205856482579582	1	GO:0006954
+immune response	BP	1750	6	0.0863822988045061	1	GO:0006955
+multicellular organism development	BP	4758	13	0.0657630349580833	1	GO:0007275
+response to external stimulus	BP	2747	7	0.207209394956498	1	GO:0009605
+response to biotic stimulus	BP	1575	6	0.0577525254652837	1	GO:0009607
+response to endogenous stimulus	BP	1755	2	0.824475232789705	1	GO:0009719
+embryo development	BP	1126	3	0.319782837935476	1	GO:0009790
+cellular process	BP	17161	42	0.000306290490643329	0.628006884179059	GO:0009987
+response to organic substance	BP	2720	6	0.347116251617007	1	GO:0010033
+reproductive process	BP	1529	6	0.0513541870730318	1	GO:0022414
+cell differentiation	BP	4440	11	0.149855829399761	1	GO:0030154
+regulation of defense response	BP	828	5	0.0150921594567947	1	GO:0031347
+negative regulation of defense response	BP	291	3	0.014734910698302	1	GO:0031348
+regulation of response to external stimulus	BP	1142	5	0.0501736731064413	1	GO:0032101
+negative regulation of response to external stimulus	BP	456	3	0.046556678552242	1	GO:0032102
+multicellular organismal process	BP	7869	21	0.0212071085172765	1	GO:0032501
+developmental process	BP	6582	17	0.0551208991096015	1	GO:0032502
+multicellular organism reproduction	BP	972	3	0.245455921360114	1	GO:0032504
+response to lipid	BP	928	4	0.0806936969803435	1	GO:0033993
+response to chemical	BP	4061	13	0.0213520437518788	1	GO:0042221
+response to external biotic stimulus	BP	1538	6	0.0525694361155913	1	GO:0043207
+biological process involved in interspecies interaction between organisms	BP	1708	6	0.078890662421154	1	GO:0044419
+innate immune response	BP	975	6	0.00715579811408084	1	GO:0045087
+regulation of innate immune response	BP	440	4	0.00752778987590695	1	GO:0045088
+negative regulation of innate immune response	BP	88	2	0.0106092213417925	1	GO:0045824
+rhythmic process	BP	296	2	0.0961638717899889	1	GO:0048511
+animal organ development	BP	3050	7	0.289815606530047	1	GO:0048513
+positive regulation of biological process	BP	6363	16	0.0776215513606814	1	GO:0048518
+negative regulation of biological process	BP	5768	14	0.123433534991329	1	GO:0048519
+regulation of response to stimulus	BP	4085	14	0.00935764338170821	1	GO:0048583
+positive regulation of response to stimulus	BP	2339	10	0.00695949732815291	1	GO:0048584
+negative regulation of response to stimulus	BP	1763	4	0.378516706585531	1	GO:0048585
+multicellular organismal reproductive process	BP	924	3	0.222911119581226	1	GO:0048609
+system development	BP	4067	11	0.094582305813527	1	GO:0048731
+anatomical structure development	BP	6007	17	0.0248823483782272	1	GO:0048856
+cellular developmental process	BP	4442	11	0.150192401202153	1	GO:0048869
+regulation of immune response	BP	903	4	0.0746410681185723	1	GO:0050776
+negative regulation of immune response	BP	194	3	0.00489256710229698	1	GO:0050777
+positive regulation of immune response	BP	740	3	0.141989348916433	1	GO:0050778
+regulation of biological process	BP	12069	31	0.00442986670515627	1	GO:0050789
+response to stimulus	BP	8860	23	0.0203360485262188	1	GO:0050896
+response to other organism	BP	1535	6	0.0521623811951419	1	GO:0051707
+biological regulation	BP	12489	31	0.00812039828830571	1	GO:0065007
+regulation of response to stress	BP	1408	7	0.0113573782332446	1	GO:0080134
+defense response to other organism	BP	1218	6	0.0197557067606815	1	GO:0098542
+defense response to symbiont	BP	1113	6	0.0132066834235451	1	GO:0140546
+response to oxygen-containing compound	BP	1687	3	0.578727370491254	1	GO:1901700
+metabolic process	BP	12005	33	0.000635063181360192	0.967579952816114	GO:0008152
+cellular metabolic process	BP	10651	27	0.0132693807358611	1	GO:0044237
+cellular response to stimulus	BP	7474	22	0.00528127872468628	1	GO:0051716
+cellular response to chemical stimulus	BP	2731	11	0.00711262475710238	1	GO:0070887
+system process	BP	2308	4	0.589721442472621	1	GO:0003008
+proteolysis	BP	1609	4	0.315768190542921	1	GO:0006508
+lipid metabolic process	BP	1397	3	0.450477958756726	1	GO:0006629
+nitrogen compound metabolic process	BP	9959	25	0.0217757788970638	1	GO:0006807
+negative regulation of metabolic process	BP	3382	9	0.135860472188255	1	GO:0009892
+negative regulation of macromolecule metabolic process	BP	3172	8	0.191706720646589	1	GO:0010605
+regulation of metabolic process	BP	7045	21	0.0058311609305426	1	GO:0019222
+protein metabolic process	BP	4882	14	0.0394426579452451	1	GO:0019538
+regulation of proteolysis	BP	599	2	0.285504501873747	1	GO:0030162
+homeostatic process	BP	1714	6	0.0799369814926756	1	GO:0042592
+negative regulation of catalytic activity	BP	449	2	0.187826999174821	1	GO:0043086
+macromolecule metabolic process	BP	9918	27	0.00453136060006007	1	GO:0043170
+negative regulation of molecular function	BP	751	2	0.383810112412068	1	GO:0044092
+primary metabolic process	BP	10443	26	0.020453851934224	1	GO:0044238
+multicellular organismal-level homeostasis	BP	801	3	0.167620673676242	1	GO:0048871
+regulation of catalytic activity	BP	1404	4	0.234714351800608	1	GO:0050790
+regulation of nitrogen compound metabolic process	BP	5576	14	0.09967837738113	1	GO:0051171
+negative regulation of nitrogen compound metabolic process	BP	2259	6	0.205917724455371	1	GO:0051172
+regulation of protein metabolic process	BP	2218	7	0.0932288042472161	1	GO:0051246
+negative regulation of protein metabolic process	BP	897	4	0.0732246730660159	1	GO:0051248
+regulation of hydrolase activity	BP	743	2	0.378747214577813	1	GO:0051336
+regulation of macromolecule metabolic process	BP	6529	18	0.0262862338385106	1	GO:0060255
+regulation of molecular function	BP	2028	5	0.286401811004642	1	GO:0065009
+organic substance metabolic process	BP	11490	30	0.00426083245496039	1	GO:0071704
+regulation of primary metabolic process	BP	5719	14	0.117065760347187	1	GO:0080090
+organonitrogen compound metabolic process	BP	5954	17	0.0229395502813864	1	GO:1901564
+catabolic process	BP	2655	5	0.509164290002983	1	GO:0009056
+positive regulation of metabolic process	BP	3796	11	0.0638818882664153	1	GO:0009893
+regulation of catabolic process	BP	1114	3	0.313930969493933	1	GO:0009894
+regulation of cellular metabolic process	BP	6541	19	0.012678353928735	1	GO:0031323
+positive regulation of cellular metabolic process	BP	3422	11	0.0337729339526764	1	GO:0031325
+cellular catabolic process	BP	1689	3	0.579549091844544	1	GO:0044248
+cellular lipid metabolic process	BP	1018	2	0.540743820885134	1	GO:0044255
+positive regulation of cellular process	BP	5834	16	0.0392167569292139	1	GO:0048522
+regulation of cellular process	BP	11512	29	0.0097606884698566	1	GO:0050794
+organic substance catabolic process	BP	2177	3	0.749730628465224	1	GO:1901575
+angiogenesis	BP	624	2	0.301890727929997	1	GO:0001525
+blood vessel development	BP	807	2	0.418758112266247	1	GO:0001568
+vasculature development	BP	840	2	0.438905638067331	1	GO:0001944
+anatomical structure morphogenesis	BP	2751	8	0.107594299023707	1	GO:0009653
+cell migration	BP	1612	6	0.0632382269406121	1	GO:0016477
+regulation of cell migration	BP	1050	3	0.282837426326442	1	GO:0030334
+tube morphogenesis	BP	957	2	0.507234292897793	1	GO:0035239
+tube development	BP	1173	3	0.342722788429835	1	GO:0035295
+locomotion	BP	1346	3	0.426377667292351	1	GO:0040011
+regulation of locomotion	BP	1151	3	0.331983598146871	1	GO:0040012
+blood vessel morphogenesis	BP	714	2	0.360264207267395	1	GO:0048514
+anatomical structure formation involved in morphogenesis	BP	1270	4	0.185177649661897	1	GO:0048646
+cell motility	BP	1827	6	0.101123623607437	1	GO:0048870
+regulation of multicellular organismal process	BP	3115	7	0.308622091817431	1	GO:0051239
+circulatory system development	BP	1229	3	0.370013653445466	1	GO:0072359
+regulation of cell motility	BP	1110	3	0.311981345421435	1	GO:2000145
+cellular aromatic compound metabolic process	BP	6288	14	0.203608208731149	1	GO:0006725
+biosynthetic process	BP	8514	20	0.0859551563038753	1	GO:0009058
+macromolecule biosynthetic process	BP	7514	19	0.0501429730899691	1	GO:0009059
+response to abiotic stimulus	BP	1131	3	0.322222202543631	1	GO:0009628
+response to inorganic substance	BP	532	2	0.241551370770632	1	GO:0010035
+gene expression	BP	7028	19	0.0265300142702964	1	GO:0010467
+regulation of hormone levels	BP	539	2	0.24613392464252	1	GO:0010817
+heterocycle biosynthetic process	BP	4052	11	0.0926760778782562	1	GO:0018130
+aromatic compound biosynthetic process	BP	4064	11	0.0941990970346069	1	GO:0019438
+response to cytokine	BP	960	5	0.026651711243435	1	GO:0034097
+cellular nitrogen compound metabolic process	BP	6700	17	0.06372415782738	1	GO:0034641
+protein modification process	BP	2950	6	0.422142215871613	1	GO:0036211
+macromolecule modification	BP	3181	6	0.496849787915736	1	GO:0043412
+amide metabolic process	BP	1228	6	0.0204777718400881	1	GO:0043603
+amide biosynthetic process	BP	907	4	0.0755931595683516	1	GO:0043604
+cellular biosynthetic process	BP	8376	20	0.074397160329479	1	GO:0044249
+cellular nitrogen compound biosynthetic process	BP	4811	14	0.0353254383385852	1	GO:0044271
+heterocycle metabolic process	BP	6242	14	0.195624196296285	1	GO:0046483
+regulation of biological quality	BP	2922	6	0.412991540643583	1	GO:0065008
+cellular response to organic substance	BP	2004	6	0.139776805640707	1	GO:0071310
+cellular response to endogenous stimulus	BP	1502	2	0.750946408231774	1	GO:0071495
+organic cyclic compound metabolic process	BP	6540	14	0.250102975388839	1	GO:1901360
+organic cyclic compound biosynthetic process	BP	4220	11	0.115429931289472	1	GO:1901362
+organonitrogen compound biosynthetic process	BP	1794	5	0.208317685422261	1	GO:1901566
+organic substance biosynthetic process	BP	8457	20	0.0810375296419325	1	GO:1901576
+cellular response to oxygen-containing compound	BP	1204	3	0.357843196071594	1	GO:1901701
+nucleobase-containing compound metabolic process	BP	6064	14	0.16631079329359	1	GO:0006139
+translation	BP	743	4	0.0418164328561774	1	GO:0006412
+regulation of translation	BP	450	3	0.0450651002855078	1	GO:0006417
+peptide metabolic process	BP	938	5	0.024420419386496	1	GO:0006518
+apoptotic process	BP	1959	3	0.681305376241054	1	GO:0006915
+nervous system development	BP	2535	6	0.288139717481055	1	GO:0007399
+central nervous system development	BP	1032	2	0.548217939529392	1	GO:0007417
+cell death	BP	2039	4	0.489375163437806	1	GO:0008219
+regulation of biosynthetic process	BP	5681	16	0.0313902694601111	1	GO:0009889
+regulation of gene expression	BP	5391	16	0.0198877529038589	1	GO:0010468
+regulation of macromolecule biosynthetic process	BP	5519	16	0.0244666815995197	1	GO:0010556
+post-transcriptional regulation of gene expression	BP	1078	3	0.296409927875857	1	GO:0010608
+programmed cell death	BP	2035	4	0.487811815288477	1	GO:0012501
+RNA metabolic process	BP	4962	11	0.250808724334234	1	GO:0016070
+regulation of cellular biosynthetic process	BP	5650	16	0.0299614003364535	1	GO:0031326
+regulation of amide metabolic process	BP	522	3	0.0645451431730539	1	GO:0034248
+regulation of apoptotic process	BP	1504	3	0.499729895409038	1	GO:0042981
+peptide biosynthetic process	BP	772	4	0.0469930767578185	1	GO:0043043
+negative regulation of apoptotic process	BP	903	3	0.213192909472121	1	GO:0043066
+regulation of programmed cell death	BP	1553	4	0.29320131545861	1	GO:0043067
+negative regulation of programmed cell death	BP	934	4	0.0821822630597113	1	GO:0043069
+negative regulation of cellular process	BP	5421	13	0.146063723097051	1	GO:0048523
+nervous system process	BP	1510	3	0.502431343676064	1	GO:0050877
+head development	BP	781	2	0.402644201591334	1	GO:0060322
+nucleic acid metabolic process	BP	5510	13	0.159921840370088	1	GO:0090304
+response to hypoxia	BP	310	2	0.103895839251885	1	GO:0001666
+transport	BP	4358	13	0.0359469192118747	1	GO:0006810
+cell communication	BP	6565	17	0.0539550658733668	1	GO:0007154
+signal transduction	BP	5991	17	0.0242827755079762	1	GO:0007165
+cell surface receptor signaling pathway	BP	2818	10	0.023640960038694	1	GO:0007166
+cell-cell signaling	BP	1709	5	0.182026956795139	1	GO:0007267
+protein localization	BP	2496	3	0.828691658281095	1	GO:0008104
+regulation of signal transduction	BP	3126	10	0.0441019515272118	1	GO:0009966
+regulation of cell communication	BP	3544	11	0.0421391746654868	1	GO:0010646
+positive regulation of cell communication	BP	1807	7	0.0383283843161617	1	GO:0010647
+regulation of signaling	BP	3539	11	0.041769852317768	1	GO:0023051
+signaling	BP	6473	17	0.0479570985830768	1	GO:0023052
+positive regulation of signaling	BP	1808	7	0.038426003424716	1	GO:0023056
+signal release	BP	485	2	0.210951189138934	1	GO:0023061
+regulation of localization	BP	2048	6	0.150362245837271	1	GO:0032879
+regulation of protein localization	BP	877	2	0.461058441710301	1	GO:0032880
+secretion by cell	BP	826	4	0.0575498688921815	1	GO:0032940
+macromolecule localization	BP	2992	4	0.788206364076944	1	GO:0033036
+response to decreased oxygen levels	BP	324	2	0.111793803824461	1	GO:0036293
+small molecule metabolic process	BP	1814	2	0.838621267537992	1	GO:0044281
+secretion	BP	962	4	0.0893101757198555	1	GO:0046903
+regulation of secretion	BP	619	2	0.298616867026451	1	GO:0051046
+regulation of transport	BP	1641	5	0.162005773361531	1	GO:0051049
+positive regulation of transport	BP	846	3	0.18735706368067	1	GO:0051050
+positive regulation of nitrogen compound metabolic process	BP	3071	5	0.643156059103703	1	GO:0051173
+localization	BP	5302	14	0.0712730385412553	1	GO:0051179
+establishment of localization	BP	4666	13	0.0577533652163729	1	GO:0051234
+positive regulation of multicellular organismal process	BP	1686	7	0.0277117084849217	1	GO:0051240
+cellular localization	BP	3367	11	0.0304255953055745	1	GO:0051641
+regulation of cellular localization	BP	987	2	0.523904334736064	1	GO:0060341
+response to oxygen levels	BP	351	2	0.127449215176915	1	GO:0070482
+cellular macromolecule localization	BP	2507	3	0.831000219099093	1	GO:0070727
+organic substance transport	BP	2360	3	0.797943264046286	1	GO:0071702
+nitrogen compound transport	BP	1896	3	0.65923318858909	1	GO:0071705
+export from cell	BP	907	4	0.0755931595683516	1	GO:0140352
+organonitrogen compound catabolic process	BP	1427	3	0.464479863388234	1	GO:1901565
+regulation of secretion by cell	BP	564	2	0.262528425574129	1	GO:1903530
+response to molecule of bacterial origin	BP	368	3	0.0271852044577063	1	GO:0002237
+endocytosis	BP	712	3	0.130718454878226	1	GO:0006897
+phagocytosis	BP	236	2	0.0652213920342758	1	GO:0006909
+organelle organization	BP	3607	14	0.00305957757405292	1	GO:0006996
+vacuole organization	BP	233	2	0.0637801579213612	1	GO:0007033
+G protein-coupled receptor signaling pathway	BP	1284	3	0.396659805820469	1	GO:0007186
+response to bacterium	BP	703	3	0.127167758230066	1	GO:0009617
+endomembrane system organization	BP	602	2	0.287472747151887	1	GO:0010256
+cellular component organization	BP	6544	21	0.0022868163533022	1	GO:0016043
+vesicle organization	BP	369	2	0.138162480761282	1	GO:0016050
+vesicle-mediated transport	BP	1536	5	0.133084668704177	1	GO:0016192
+cellular component assembly	BP	3082	11	0.0168471348920035	1	GO:0022607
+positive regulation of protein-containing complex assembly	BP	197	3	0.00510539267462602	1	GO:0031334
+response to lipopolysaccharide	BP	347	3	0.0233708371537934	1	GO:0032496
+intracellular signal transduction	BP	2719	5	0.531035509499593	1	GO:0035556
+regulation of protein-containing complex assembly	BP	418	3	0.0375276357744473	1	GO:0043254
+protein-containing complex organization	BP	2435	8	0.0618547893544016	1	GO:0043933
+cellular component biogenesis	BP	3349	11	0.0293848706379539	1	GO:0044085
+regulation of cellular component biogenesis	BP	987	4	0.0959226385760821	1	GO:0044087
+positive regulation of cellular component biogenesis	BP	507	3	0.0602074386209714	1	GO:0044089
+regulation of cell differentiation	BP	1640	4	0.32834433335996	1	GO:0045595
+intracellular transport	BP	1349	5	0.0883790056697347	1	GO:0046907
+chemical homeostasis	BP	1032	3	0.274147508786082	1	GO:0048878
+regulation of developmental process	BP	2552	5	0.473258538177439	1	GO:0050793
+regulation of cellular component organization	BP	2451	7	0.137806959796592	1	GO:0051128
+positive regulation of cellular component organization	BP	1120	4	0.134801821566816	1	GO:0051130
+establishment of localization in cell	BP	1937	8	0.0193035368432942	1	GO:0051649
+transmembrane transport	BP	1548	4	0.291198205783996	1	GO:0055085
+protein-containing complex assembly	BP	1650	7	0.0249935781947487	1	GO:0065003
+cellular response to biotic stimulus	BP	264	3	0.0113601230604787	1	GO:0071216
+cellular response to molecule of bacterial origin	BP	237	3	0.00848474476642988	1	GO:0071219
+cellular response to lipopolysaccharide	BP	224	3	0.00727366125767821	1	GO:0071222
+cellular response to cytokine stimulus	BP	865	5	0.0179008121946413	1	GO:0071345
+cellular response to lipid	BP	616	4	0.0231799890544742	1	GO:0071396
+cellular component organization or biogenesis	BP	6753	21	0.00343119352372391	1	GO:0071840
+import into cell	BP	935	3	0.228039078289892	1	GO:0098657
+intracellular signaling cassette	BP	1912	4	0.438988600349763	1	GO:0141124
+regulation of intracellular signal transduction	BP	1827	4	0.404601729821257	1	GO:1902531
+phosphorus metabolic process	BP	2576	10	0.0133175990770001	1	GO:0006793
+phosphate-containing compound metabolic process	BP	2550	10	0.0124582812814911	1	GO:0006796
+positive regulation of biosynthetic process	BP	2706	10	0.0183110805302812	1	GO:0009891
+positive regulation of macromolecule biosynthetic process	BP	2598	9	0.0362979924344096	1	GO:0010557
+positive regulation of macromolecule metabolic process	BP	3488	9	0.155547443239442	1	GO:0010604
+organophosphate metabolic process	BP	1030	3	0.273183952727728	1	GO:0019637
+cellular homeostasis	BP	814	3	0.173255746694822	1	GO:0019725
+neurogenesis	BP	1738	4	0.368307697619207	1	GO:0022008
+regulation of endocytosis	BP	289	3	0.0144675166654359	1	GO:0030100
+positive regulation of cellular biosynthetic process	BP	2685	10	0.0174216618345696	1	GO:0031328
+regulation of protein modification process	BP	1243	2	0.650729669768814	1	GO:0031399
+post-translational protein modification	BP	1002	2	0.532102009456212	1	GO:0043687
+cell development	BP	2834	6	0.38421995712921	1	GO:0048468
+negative regulation of cellular component organization	BP	747	2	0.381280699739076	1	GO:0051129
+positive regulation of protein metabolic process	BP	1245	2	0.651609850751865	1	GO:0051247
+intracellular chemical homeostasis	BP	712	3	0.130718454878226	1	GO:0055082
+regulation of vesicle-mediated transport	BP	525	3	0.0654298129852378	1	GO:0060627
+carbohydrate derivative metabolic process	BP	1105	3	0.309545146097292	1	GO:1901135
+regulation of phosphate metabolic process	BP	1162	4	0.148271927989788	1	GO:0019220
+regulation of phosphorus metabolic process	BP	1163	4	0.148599046617765	1	GO:0051174
+protein complex oligomerization	BP	258	2	0.0761171497090993	1	GO:0051259
+protein homooligomerization	BP	195	2	0.0465434004517187	1	GO:0051260
+organelle assembly	BP	999	6	0.00802281928966937	1	GO:0070925
+monoatomic ion transport	BP	1254	5	0.0693233940200852	1	GO:0006811
+monoatomic cation transport	BP	1040	3	0.278005834699124	1	GO:0006812
+intracellular monoatomic ion homeostasis	BP	530	3	0.0669168241554568	1	GO:0006873
+negative regulation of biosynthetic process	BP	2731	6	0.350679890315316	1	GO:0009890
+metal ion transport	BP	887	2	0.466962229055289	1	GO:0030001
+intracellular monoatomic cation homeostasis	BP	521	3	0.0642515143976919	1	GO:0030003
+negative regulation of cellular metabolic process	BP	3126	8	0.181334267821247	1	GO:0031324
+monoatomic ion transmembrane transport	BP	1024	4	0.106127260884792	1	GO:0034220
+monoatomic ion homeostasis	BP	608	3	0.0920646604939464	1	GO:0050801
+monoatomic cation homeostasis	BP	598	3	0.0886434323481785	1	GO:0055080
+monoatomic cation transmembrane transport	BP	846	2	0.442530204988957	1	GO:0098655
+inorganic ion transmembrane transport	BP	917	3	0.219660981956991	1	GO:0098660
+inorganic cation transmembrane transport	BP	825	2	0.429791527376278	1	GO:0098662
+sensory perception	BP	957	2	0.507234292897793	1	GO:0007600
+detection of stimulus	BP	650	2	0.318875741632352	1	GO:0051606
+MAPK cascade	BP	769	2	0.395140271817213	1	GO:0000165
+microtubule cytoskeleton organization	BP	648	4	0.0272644047878093	1	GO:0000226
+mitotic cell cycle	BP	910	3	0.216421460168367	1	GO:0000278
+cell morphogenesis	BP	971	3	0.244982067786799	1	GO:0000902
+cell activation	BP	1107	2	0.58684588484638	1	GO:0001775
+cytokine production	BP	875	6	0.004262650300498	1	GO:0001816
+regulation of cytokine production	BP	862	6	0.00396346578527215	1	GO:0001817
+positive regulation of cytokine production	BP	497	5	0.00180182486557936	0.967579952816114	GO:0001819
+regulation of protein phosphorylation	BP	924	2	0.488483470769452	1	GO:0001932
+morphogenesis of an epithelium	BP	501	2	0.22132756933504	1	GO:0002009
+leukocyte differentiation	BP	626	2	0.303199687815035	1	GO:0002521
+regulation of leukocyte activation	BP	572	2	0.267780120978908	1	GO:0002694
+positive regulation of leukocyte activation	BP	361	2	0.133375746431039	1	GO:0002696
+immune response-activating signaling pathway	BP	478	2	0.20642850914675	1	GO:0002757
+immune response-regulating signaling pathway	BP	506	3	0.0599233744913979	1	GO:0002764
+immune response-regulating cell surface receptor signaling pathway	BP	338	2	0.119845444676917	1	GO:0002768
+DNA metabolic process	BP	1028	2	0.546090846293292	1	GO:0006259
+DNA repair	BP	600	2	0.286160626560589	1	GO:0006281
+double-strand break repair	BP	312	2	0.105014249491723	1	GO:0006302
+DNA-templated transcription	BP	3528	10	0.0860199763109534	1	GO:0006351
+regulation of DNA-templated transcription	BP	3406	10	0.0713217054721766	1	GO:0006355
+regulation of transcription by RNA polymerase II	BP	2565	9	0.0338181223735517	1	GO:0006357
+transcription by RNA polymerase II	BP	2685	9	0.0434414005226736	1	GO:0006366
+protein phosphorylation	BP	1288	3	0.398588673900874	1	GO:0006468
+calcium ion transport	BP	427	2	0.173892874048304	1	GO:0006816
+DNA damage response	BP	884	2	0.465194914916572	1	GO:0006974
+cytoskeleton organization	BP	1505	8	0.00455959791397129	1	GO:0007010
+microtubule-based process	BP	938	5	0.024420419386496	1	GO:0007017
+cell cycle	BP	1811	9	0.00403853292590524	1	GO:0007049
+cell adhesion	BP	1530	4	0.284005765080605	1	GO:0007155
+establishment or maintenance of cell polarity	BP	226	2	0.0604609458140268	1	GO:0007163
+enzyme-linked receptor protein signaling pathway	BP	1028	3	0.272220821460466	1	GO:0007167
+transmembrane receptor protein tyrosine kinase signaling pathway	BP	641	2	0.313004658532517	1	GO:0007169
+cell population proliferation	BP	2077	3	0.719864922222006	1	GO:0008283
+positive regulation of cell population proliferation	BP	983	2	0.521702722768077	1	GO:0008284
+embryo development ending in birth or egg hatching	BP	680	3	0.118261212233236	1	GO:0009792
+tissue development	BP	2032	7	0.064633793535016	1	GO:0009888
+positive regulation of signal transduction	BP	1599	7	0.0214692378427716	1	GO:0009967
+negative regulation of signal transduction	BP	1380	2	0.70713059322932	1	GO:0009968
+positive regulation of phosphorus metabolic process	BP	702	2	0.352561126153421	1	GO:0010562
+positive regulation of gene expression	BP	1197	6	0.0182969167088748	1	GO:0010628
+positive regulation of organelle organization	BP	506	2	0.224579963598105	1	GO:0010638
+negative regulation of cell communication	BP	1483	2	0.744503086130599	1	GO:0010648
+Wnt signaling pathway	BP	464	2	0.197419149535776	1	GO:0016055
+phosphorylation	BP	1545	4	0.289997396595821	1	GO:0016310
+protein ubiquitination	BP	757	2	0.387596446781444	1	GO:0016567
+regulation of nucleobase-containing compound metabolic process	BP	4123	10	0.18305015153975	1	GO:0019219
+negative regulation of signaling	BP	1484	2	0.744845632912126	1	GO:0023057
+actin filament-based process	BP	820	2	0.426737080913104	1	GO:0030029
+cell projection organization	BP	1608	5	0.152644431008754	1	GO:0030030
+cell projection assembly	BP	596	3	0.0879658889377946	1	GO:0030031
+actin cytoskeleton organization	BP	722	2	0.365382397716228	1	GO:0030036
+hemopoiesis	BP	959	2	0.508356894744692	1	GO:0030097
+regulation of Wnt signaling pathway	BP	340	2	0.121007527842422	1	GO:0030111
+positive regulation of Wnt signaling pathway	BP	146	2	0.0274988829872938	1	GO:0030177
+neuron differentiation	BP	1423	2	0.723242205428692	1	GO:0030182
+epithelial cell differentiation	BP	748	3	0.145269558332293	1	GO:0030855
+neuron projection development	BP	1007	2	0.534813975279223	1	GO:0031175
+cell-substrate adhesion	BP	358	2	0.13159099737962	1	GO:0031589
+regulation of protein polymerization	BP	204	2	0.050446863150059	1	GO:0032271
+protein modification by small protein conjugation	BP	841	2	0.439510578512747	1	GO:0032446
+type II interferon production	BP	119	2	0.0187963523940285	1	GO:0032609
+regulation of type II interferon production	BP	119	2	0.0187963523940285	1	GO:0032649
+RNA biosynthetic process	BP	3559	10	0.090038480401771	1	GO:0032774
+regulation of organelle organization	BP	1179	4	0.153872139316545	1	GO:0033043
+cellular response to stress	BP	1830	6	0.10172404147672	1	GO:0033554
+positive regulation of kinase activity	BP	303	2	0.100008316600138	1	GO:0033674
+cell junction assembly	BP	453	2	0.190378224838536	1	GO:0034329
+cell junction organization	BP	765	2	0.392630012382838	1	GO:0034330
+nucleobase-containing compound biosynthetic process	BP	3978	11	0.0836302479200105	1	GO:0034654
+regulation of cell population proliferation	BP	1767	3	0.610839134658285	1	GO:0042127
+regulation of phosphorylation	BP	1000	3	0.258785732444904	1	GO:0042325
+positive regulation of phosphorylation	BP	624	2	0.301890727929997	1	GO:0042327
+chordate embryonic development	BP	659	3	0.110348306540739	1	GO:0043009
+positive regulation of catalytic activity	BP	878	2	0.46165045329723	1	GO:0043085
+regulation of MAPK cascade	BP	668	2	0.330585750054845	1	GO:0043408
+regulation of kinase activity	BP	531	3	0.0672161030289731	1	GO:0043549
+positive regulation of molecular function	BP	1210	2	0.635959659160548	1	GO:0044093
+leukocyte activation	BP	958	2	0.507795793317092	1	GO:0045321
+negative regulation of cell cycle	BP	405	2	0.160148662249089	1	GO:0045786
+positive regulation of cell cycle	BP	332	2	0.116376694180234	1	GO:0045787
+regulation of protein kinase activity	BP	469	2	0.200630929638287	1	GO:0045859
+positive regulation of DNA-templated transcription	BP	1680	5	0.173372036627123	1	GO:0045893
+negative regulation of nucleobase-containing compound metabolic process	BP	1518	3	0.50602246836726	1	GO:0045934
+positive regulation of nucleobase-containing compound metabolic process	BP	2133	5	0.323318308514255	1	GO:0045935
+positive regulation of phosphate metabolic process	BP	702	2	0.352561126153421	1	GO:0045937
+positive regulation of transcription by RNA polymerase II	BP	1239	4	0.174274025958573	1	GO:0045944
+lymphocyte activation	BP	793	2	0.410106587072265	1	GO:0046649
+neuron development	BP	1154	2	0.609824309075049	1	GO:0048666
+generation of neurons	BP	1505	3	0.500180615501524	1	GO:0048699
+tissue morphogenesis	BP	616	2	0.296651617742668	1	GO:0048729
+regulation of cell activation	BP	629	2	0.305162458651451	1	GO:0050865
+positive regulation of cell activation	BP	379	2	0.144199499744159	1	GO:0050867
+leukocyte migration	BP	396	2	0.154588979957826	1	GO:0050900
+positive regulation of developmental process	BP	1380	2	0.70713059322932	1	GO:0051094
+regulation of lymphocyte activation	BP	505	2	0.223929147040371	1	GO:0051249
+positive regulation of lymphocyte activation	BP	327	2	0.113506629042926	1	GO:0051251
+regulation of RNA metabolic process	BP	3816	10	0.127808844263871	1	GO:0051252
+positive regulation of RNA metabolic process	BP	1927	5	0.251834091621553	1	GO:0051254
+protein polymerization	BP	287	2	0.0912869196488837	1	GO:0051258
+chromosome organization	BP	629	3	0.0994274139549948	1	GO:0051276
+regulation of transferase activity	BP	637	3	0.102294221141461	1	GO:0051338
+positive regulation of transferase activity	BP	376	2	0.142382342223708	1	GO:0051347
+regulation of cytoskeleton organization	BP	519	3	0.0636661535572187	1	GO:0051493
+positive regulation of cytoskeleton organization	BP	184	2	0.041934340033084	1	GO:0051495
+regulation of cell cycle	BP	1114	5	0.0459495077180713	1	GO:0051726
+regulation of cell development	BP	853	2	0.446743343886242	1	GO:0060284
+epithelium development	BP	1228	6	0.0204777718400881	1	GO:0060429
+cellular response to chemical stress	BP	310	2	0.103895839251885	1	GO:0062197
+protein modification by small protein conjugation or removal	BP	945	2	0.50046530217321	1	GO:0070647
+regulation of cellular response to stress	BP	510	2	0.227184841837391	1	GO:0080135
+supramolecular fiber organization	BP	851	2	0.445541308230294	1	GO:0097435
+cell-cell adhesion	BP	966	2	0.512273402751046	1	GO:0098609
+plasma membrane bounded cell projection assembly	BP	583	3	0.0836171198192223	1	GO:0120031
+plasma membrane bounded cell projection organization	BP	1566	5	0.14108628365376	1	GO:0120036
+cell-cell signaling by wnt	BP	466	2	0.198703047489702	1	GO:0198738
+regulation of leukocyte differentiation	BP	328	2	0.114079118037692	1	GO:1902105
+positive regulation of intracellular signal transduction	BP	1048	3	0.281870374568277	1	GO:1902533
+positive regulation of RNA biosynthetic process	BP	1683	5	0.174259501947927	1	GO:1902680
+regulation of supramolecular fiber organization	BP	389	2	0.150292524643956	1	GO:1902903
+positive regulation of supramolecular fiber organization	BP	175	2	0.0383012500296207	1	GO:1902905
+mononuclear cell differentiation	BP	484	2	0.210304412984528	1	GO:1903131
+regulation of hemopoiesis	BP	424	2	0.17200670564009	1	GO:1903706
+regulation of multicellular organismal development	BP	1491	3	0.49385331044499	1	GO:2000026
+regulation of RNA biosynthetic process	BP	3425	10	0.0734945130779505	1	GO:2001141
+purine nucleotide metabolic process	BP	536	2	0.244169422815362	1	GO:0006163
+nucleoside phosphate metabolic process	BP	605	2	0.289440578269755	1	GO:0006753
+nucleotide metabolic process	BP	597	2	0.284192133053092	1	GO:0009117
+nucleobase-containing small molecule metabolic process	BP	672	2	0.333181461358916	1	GO:0055086
+purine-containing compound metabolic process	BP	565	2	0.263184807629616	1	GO:0072521
+organophosphate biosynthetic process	BP	592	2	0.280910602114128	1	GO:0090407
+negative regulation of macromolecule biosynthetic process	BP	2666	6	0.329696349075138	1	GO:0010558
+negative regulation of gene expression	BP	1603	4	0.313340085826933	1	GO:0010629
+negative regulation of cellular biosynthetic process	BP	2717	6	0.346145154865762	1	GO:0031327
+carbohydrate derivative catabolic process	BP	273	2	0.0838557266144826	1	GO:1901136
+sensory perception of chemical stimulus	BP	505	2	0.223929147040371	1	GO:0007606
+detection of stimulus involved in sensory perception	BP	523	2	0.235666847216939	1	GO:0050906
+sexual reproduction	BP	1090	5	0.0425068122817543	1	GO:0019953
+gamete generation	BP	815	3	0.173691532940507	1	GO:0007276
+spermatogenesis	BP	634	2	0.308431846866972	1	GO:0007283
+male gamete generation	BP	651	3	0.10739107224439	1	GO:0048232
+dephosphorylation	BP	307	4	0.0021043458027252	1	GO:0016311
+skeletal system development	BP	531	2	0.240897102480017	1	GO:0001501
+negative regulation of cytokine production	BP	379	2	0.144199499744159	1	GO:0001818
+cytokine production involved in immune response	BP	122	2	0.0196941674527926	1	GO:0002367
+production of molecular mediator of immune response	BP	223	3	0.00718507244581486	1	GO:0002440
+regulation of production of molecular mediator of immune response	BP	187	2	0.0431732713929111	1	GO:0002700
+negative regulation of production of molecular mediator of immune response	BP	46	2	0.0030068659800607	1	GO:0002701
+regulation of cytokine production involved in immune response	BP	120	2	0.0190936385341084	1	GO:0002718
+negative regulation of cytokine production involved in immune response	BP	35	2	0.00175011520905181	0.967579952816114	GO:0002719
+macrophage cytokine production	BP	37	2	0.00195454620267116	0.979618556778787	GO:0010934
+regulation of macrophage cytokine production	BP	37	2	0.00195454620267116	0.979618556778787	GO:0010935
+tumor necrosis factor production	BP	188	2	0.0435892925264154	1	GO:0032640
+regulation of tumor necrosis factor production	BP	188	2	0.0435892925264154	1	GO:0032680
+negative regulation of tumor necrosis factor production	BP	78	2	0.008416461972559	1	GO:0032720
+regulation of inflammatory response	BP	423	2	0.171378782057445	1	GO:0050727
+negative regulation of multicellular organismal process	BP	1252	2	0.65467705150995	1	GO:0051241
+bone development	BP	215	2	0.0553725456369364	1	GO:0060348
+myeloid leukocyte cytokine production	BP	50	2	0.00354288161698859	1	GO:0061082
+tumor necrosis factor superfamily cytokine production	BP	193	2	0.0456919402927424	1	GO:0071706
+regulation of tumor necrosis factor superfamily cytokine production	BP	193	2	0.0456919402927424	1	GO:1903555
+negative regulation of tumor necrosis factor superfamily cytokine production	BP	80	2	0.00883666353444319	1	GO:1903556
+non-membrane-bounded organelle assembly	BP	411	3	0.0359735956207499	1	GO:0140694
+response to virus	BP	409	4	0.00584230502979612	1	GO:0009615
+sister chromatid segregation	BP	228	2	0.0614029778664013	1	GO:0000819
+chromosome segregation	BP	420	3	0.0379779375522363	1	GO:0007059
+response to wounding	BP	565	2	0.263184807629616	1	GO:0009611
+regulation of cell cycle process	BP	744	2	0.37938096389573	1	GO:0010564
+cell cycle process	BP	1289	4	0.191973555133331	1	GO:0022402
+wound healing	BP	429	2	0.175152285037331	1	GO:0042060
+positive regulation of cell differentiation	BP	901	2	0.475165847440056	1	GO:0045597
+nuclear chromosome segregation	BP	315	3	0.0181633996968481	1	GO:0098813
+mitotic cell cycle process	BP	760	3	0.150237700658171	1	GO:1903047
+cytokine-mediated signaling pathway	BP	526	5	0.00230544631005016	1	GO:0019221
+intracellular receptor signaling pathway	BP	369	2	0.138162480761282	1	GO:0030522
+cytoskeleton-dependent intracellular transport	BP	199	2	0.0482638738359421	1	GO:0030705
+organelle localization	BP	604	2	0.288784683661258	1	GO:0051640
+establishment of organelle localization	BP	470	2	0.201274088238196	1	GO:0051656
+proton transmembrane transport	BP	157	2	0.0314278073302931	1	GO:1902600
+nucleoside triphosphate metabolic process	BP	264	2	0.0791837873866808	1	GO:0009141
+purine nucleoside triphosphate metabolic process	BP	248	2	0.0710949025710758	1	GO:0009144
+developmental maturation	BP	341	2	0.12158964407092	1	GO:0021700
+anatomical structure maturation	BP	271	2	0.0828102098862669	1	GO:0071695
+regionalization	BP	429	3	0.0400387643591497	1	GO:0003002
+determination of left/right symmetry	BP	137	2	0.024445503553458	1	GO:0007368
+pattern specification process	BP	473	3	0.050915061628636	1	GO:0007389
+specification of symmetry	BP	147	2	0.0278472216237505	1	GO:0009799
+determination of bilateral symmetry	BP	147	2	0.0278472216237505	1	GO:0009855
+cellular process involved in reproduction in multicellular organism	BP	481	2	0.208365426061728	1	GO:0022412
+left/right pattern formation	BP	143	2	0.0264646697331999	1	GO:0060972
+epidermis development	BP	387	3	0.0309069951624309	1	GO:0008544
+skin development	BP	318	3	0.0186206241567656	1	GO:0043588
+skin epidermis development	BP	129	2	0.0218577648255111	1	GO:0098773
+anterior/posterior pattern specification	BP	219	2	0.0572044617016011	1	GO:0009952
+negative regulation of transcription by RNA polymerase II	BP	921	2	0.486757821424207	1	GO:0000122
+negative regulation of DNA-templated transcription	BP	1262	3	0.386027171797792	1	GO:0045892
+negative regulation of RNA metabolic process	BP	1392	3	0.4481310892255	1	GO:0051253
+negative regulation of RNA biosynthetic process	BP	1277	3	0.393280957537597	1	GO:1902679
+leukocyte apoptotic process	BP	116	2	0.0179164992867677	1	GO:0071887
+regulation of leukocyte apoptotic process	BP	89	2	0.0108409744312622	1	GO:2000106
+negative regulation of leukocyte apoptotic process	BP	57	2	0.00457970611059176	1	GO:2000107
+positive regulation of response to biotic stimulus	BP	390	2	0.150904764073232	1	GO:0002833
+positive regulation of defense response	BP	502	3	0.0587935659061359	1	GO:0031349
+positive regulation of response to external stimulus	BP	640	3	0.103377902393959	1	GO:0032103
+cellular response to decreased oxygen levels	BP	159	2	0.0321647657264089	1	GO:0036294
+positive regulation of innate immune response	BP	365	2	0.135764204518145	1	GO:0045089
+cellular response to oxygen levels	BP	175	2	0.0383012500296207	1	GO:0071453
+cellular response to hypoxia	BP	152	2	0.0296156004284092	1	GO:0071456
+transforming growth factor beta production	BP	44	2	0.00275449372677925	1	GO:0071604
+regulation of transforming growth factor beta production	BP	41	2	0.00239568839140862	1	GO:0071634
+regulation of cytokine-mediated signaling pathway	BP	177	3	0.00378875961185963	1	GO:0001959
+response to type I interferon	BP	90	2	0.0110749626876649	1	GO:0034340
+defense response to virus	BP	307	4	0.0021043458027252	1	GO:0051607
+type I interferon-mediated signaling pathway	BP	83	2	0.00948427476461102	1	GO:0060337
+regulation of type I interferon-mediated signaling pathway	BP	45	2	0.00287936918370439	1	GO:0060338
+regulation of response to cytokine stimulus	BP	189	3	0.00455000891415879	1	GO:0060759
+cellular response to type I interferon	BP	84	2	0.00970472704121643	1	GO:0071357
+interferon-mediated signaling pathway	BP	108	3	0.000927052170297139	0.967579952816114	GO:0140888
+microtubule-based movement	BP	425	2	0.172635031017138	1	GO:0007018
+sensory perception of smell	BP	434	2	0.178307502372921	1	GO:0007608
+protein dephosphorylation	BP	208	2	0.0522186911781047	1	GO:0006470
+negative regulation of leukocyte activation	BP	192	2	0.045268426346165	1	GO:0002695
+negative regulation of cell activation	BP	215	2	0.0553725456369364	1	GO:0050866
+negative regulation of lymphocyte activation	BP	165	2	0.034416322821342	1	GO:0051250
+activation of innate immune response	BP	298	2	0.0972577951533246	1	GO:0002218
+innate immune response-activating signaling pathway	BP	278	2	0.0864873719474524	1	GO:0002758
+mitochondrion organization	BP	511	2	0.227836451747936	1	GO:0007005
+canonical Wnt signaling pathway	BP	321	2	0.110088033413025	1	GO:0060070
+regulation of canonical Wnt signaling pathway	BP	266	2	0.0802146280948977	1	GO:0060828
+dendritic cell differentiation	BP	45	2	0.00287936918370439	1	GO:0097028
+epidermal cell differentiation	BP	246	3	0.00938863930370996	1	GO:0009913
+keratinocyte differentiation	BP	177	3	0.00378875961185963	1	GO:0030216
+positive regulation of cell cycle process	BP	263	2	0.078669971747846	1	GO:0090068
+cilium organization	BP	412	2	0.164499088838015	1	GO:0044782
+cilium assembly	BP	385	2	0.14784883320457	1	GO:0060271
+regulation of organelle assembly	BP	222	3	0.00709713109332569	1	GO:1902115
+positive regulation of protein polymerization	BP	91	2	0.011311177828914	1	GO:0032273
+negative regulation of amide metabolic process	BP	233	2	0.0637801579213612	1	GO:0034249
+negative regulation of translation	BP	205	2	0.0508877188371018	1	GO:0017148
+cell division	BP	642	3	0.104102948512192	1	GO:0051301
+transport along microtubule	BP	171	2	0.0367277537500346	1	GO:0010970
+microtubule-based transport	BP	212	2	0.0540127063655274	1	GO:0099111
+mitotic sister chromatid segregation	BP	187	2	0.0431732713929111	1	GO:0000070
+nuclear division	BP	444	4	0.00776628408718797	1	GO:0000280
+organelle fission	BP	491	4	0.0109497656996858	1	GO:0048285
+mitotic nuclear division	BP	276	3	0.0127975712637165	1	GO:0140014
+regulation of type I interferon production	BP	124	2	0.020302587690098	1	GO:0032479
+type I interferon production	BP	124	2	0.020302587690098	1	GO:0032606
+positive regulation of canonical Wnt signaling pathway	BP	111	2	0.0164905586291722	1	GO:0090263
+spindle organization	BP	196	2	0.0469713340676771	1	GO:0007051
+mitotic spindle organization	BP	130	2	0.0221745902661595	1	GO:0007052
+spindle assembly	BP	128	2	0.0215428593867731	1	GO:0051225
+microtubule cytoskeleton organization involved in mitosis	BP	163	2	0.0336590784765592	1	GO:1902850
+regulation of pH	BP	105	2	0.0148474250245175	1	GO:0006885
+endosome organization	BP	96	2	0.012525368419445	1	GO:0007032
+regulation of cellular pH	BP	95	2	0.0122781423432797	1	GO:0030641
+intracellular pH reduction	BP	57	2	0.00457970611059176	1	GO:0051452
+regulation of intracellular pH	BP	91	2	0.011311177828914	1	GO:0051453
+meiotic cell cycle	BP	290	2	0.092904145360095	1	GO:0051321
+vacuolar acidification	BP	36	2	0.00185097781437873	0.970859386639487	GO:0007035
+positive regulation of cytokine-mediated signaling pathway	BP	60	2	0.00506191591640764	1	GO:0001961
+negative regulation of type II interferon production	BP	44	2	0.00275449372677925	1	GO:0032689
+positive regulation of response to cytokine stimulus	BP	67	2	0.00627362586807114	1	GO:0060760
+dendritic cell apoptotic process	BP	12	2	0.000199230837895283	0.561681539736276	GO:0097048
+regulation of dendritic cell apoptotic process	BP	12	2	0.000199230837895283	0.561681539736276	GO:2000668
+negative regulation of dendritic cell apoptotic process	BP	9	2	0.000109040145670025	0.409881907573623	GO:2000669
+detection of chemical stimulus	BP	488	2	0.212892820978606	1	GO:0009593
+detection of chemical stimulus involved in sensory perception	BP	454	2	0.191016815370443	1	GO:0050907
+microtubule bundle formation	BP	126	2	0.0209188384837435	1	GO:0001578
+detection of chemical stimulus involved in sensory perception of smell	BP	409	2	0.162631900278897	1	GO:0050911

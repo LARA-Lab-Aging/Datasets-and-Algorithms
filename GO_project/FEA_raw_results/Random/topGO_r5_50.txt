@@ -1,0 +1,548 @@
+GO.ID	Term	Annotated	Significant	Expected	topgoFisher	FDR	Symbol
+GO:0000122	negative regulation of transcription by RNA polymerase II	936	6	2.4	0.0314	1	NCOA2, MAGEE2, NR2F6, MAGEA4, PHF21A, MTDH
+GO:0000165	MAPK cascade	776	3	1.99	1.0000	1	APOE, PLCG2, IL26
+GO:0000902	cell morphogenesis	997	2	2.56	1.0000	1	APOE, ANO1
+GO:0001558	regulation of cell growth	406	3	1.04	0.3609	1	GDF9, APOE, PAPPA2
+GO:0001568	blood vessel development	821	2	2.1	1.0000	1	APOE, MTDH
+GO:0001775	cell activation	1138	3	2.92	1.0000	1	APOE, NKG7, PLCG2
+GO:0001816	cytokine production	887	4	2.27	1.0000	1	RAET1G, PLCG2, IL26, MAVS
+GO:0001817	regulation of cytokine production	880	4	2.26	1.0000	1	RAET1G, PLCG2, IL26, MAVS
+GO:0001819	positive regulation of cytokine production	507	4	1.3	0.3336	1	RAET1G, PLCG2, IL26, MAVS
+GO:0001906	cell killing	259	2	0.66	1.0000	1	RAET1G, NKG7
+GO:0001909	leukocyte mediated cytotoxicity	146	2	0.37	1.0000	1	RAET1G, NKG7
+GO:0001932	regulation of protein phosphorylation	717	3	1.84	1.0000	1	APOE, PLCG2, MAVS
+GO:0001934	positive regulation of protein phosphorylation	454	2	1.16	0.5715	1	PLCG2, MAVS
+GO:0001944	vasculature development	855	2	2.19	1.0000	1	APOE, MTDH
+GO:0002218	activation of innate immune response	317	2	0.81	1.0000	1	PLCG2, MAVS
+GO:0002221	pattern recognition receptor signaling pathway	278	2	0.71	1.0000	1	PLCG2, MAVS
+GO:0002228	natural killer cell mediated immunity	84	2	0.22	1.0000	1	RAET1G, NKG7
+GO:0002237	response to molecule of bacterial origin	374	2	0.96	1.0000	1	PLCG2, MTDH
+GO:0002252	immune effector process	670	4	1.72	1.0000	1	RAET1G, NKG7, PLCG2, MAVS
+GO:0002253	activation of immune response	570	2	1.46	1.0000	1	PLCG2, MAVS
+GO:0002263	cell activation involved in immune response	318	2	0.82	1.0000	1	NKG7, PLCG2
+GO:0002285	lymphocyte activation involved in immune response	227	2	0.58	1.0000	1	NKG7, PLCG2
+GO:0002366	leukocyte activation involved in immune response	314	2	0.81	1.0000	1	NKG7, PLCG2
+GO:0002367	cytokine production involved in immune response	127	3	0.33	1.0000	1	RAET1G, PLCG2, MAVS
+GO:0002371	dendritic cell cytokine production	16	2	0.04	1.0000	1	PLCG2, MAVS
+GO:0002376	immune system process	2667	8	6.84	1.0000	1	FSTL3, GPR151, CTSE, APOE, RAET1G, NKG7, PLCG2, MAVS
+GO:0002440	production of molecular mediator of immune response	230	3	0.59	1.0000	1	RAET1G, PLCG2, MAVS
+GO:0002443	leukocyte mediated immunity	411	4	1.05	1.0000	1	RAET1G, NKG7, PLCG2, MAVS
+GO:0002449	lymphocyte mediated immunity	312	2	0.8	1.0000	1	RAET1G, NKG7
+GO:0002521	leukocyte differentiation	627	2	1.61	1.0000	1	FSTL3, PLCG2
+GO:0002682	regulation of immune system process	1631	6	4.18	1.0000	1	FSTL3, GPR151, APOE, RAET1G, PLCG2, MAVS
+GO:0002683	negative regulation of immune system process	549	2	1.41	1.0000	1	FSTL3, MAVS
+GO:0002684	positive regulation of immune system process	1117	4	2.86	1.0000	1	GPR151, RAET1G, PLCG2, MAVS
+GO:0002697	regulation of immune effector process	410	3	1.05	1.0000	1	RAET1G, PLCG2, MAVS
+GO:0002699	positive regulation of immune effector process	272	3	0.7	1.0000	1	RAET1G, PLCG2, MAVS
+GO:0002700	regulation of production of molecular mediator of immune response	196	3	0.5	1.0000	1	RAET1G, PLCG2, MAVS
+GO:0002702	positive regulation of production of molecular mediator of immune response	140	3	0.36	1.0000	1	RAET1G, PLCG2, MAVS
+GO:0002703	regulation of leukocyte mediated immunity	258	3	0.66	1.0000	1	RAET1G, PLCG2, MAVS
+GO:0002705	positive regulation of leukocyte mediated immunity	158	3	0.41	1.0000	1	RAET1G, PLCG2, MAVS
+GO:0002718	regulation of cytokine production involved in immune response	126	3	0.32	1.0000	1	RAET1G, PLCG2, MAVS
+GO:0002720	positive regulation of cytokine production involved in immune response	85	3	0.22	1.0000	1	RAET1G, PLCG2, MAVS
+GO:0002730	regulation of dendritic cell cytokine production	16	2	0.04	1.0000	1	PLCG2, MAVS
+GO:0002732	positive regulation of dendritic cell cytokine production	11	2	0.03	0.0125	1	PLCG2, MAVS
+GO:0002753	cytoplasmic pattern recognition receptor signaling pathway	178	2	0.46	1.0000	1	PLCG2, MAVS
+GO:0002757	immune response-activating signaling pathway	503	2	1.29	1.0000	1	PLCG2, MAVS
+GO:0002758	innate immune response-activating signaling pathway	297	2	0.76	1.0000	1	PLCG2, MAVS
+GO:0002764	immune response-regulating signaling pathway	562	2	1.44	1.0000	1	PLCG2, MAVS
+GO:0002831	regulation of response to biotic stimulus	564	4	1.45	1.0000	1	APOE, RAET1G, PLCG2, MAVS
+GO:0002833	positive regulation of response to biotic stimulus	416	3	1.07	1.0000	1	RAET1G, PLCG2, MAVS
+GO:0003006	developmental process involved in reproduction	1036	3	2.66	1.0000	1	CRTAP, GDF9, SEPTIN4
+GO:0003008	system process	2337	7	5.99	1.0000	1	NR2F6, GDF9, APOE, IMPG1, ANO1, SGCG, CACNA1F
+GO:0003013	circulatory system process	619	2	1.59	1.0000	1	APOE, SGCG
+GO:0005975	carbohydrate metabolic process	583	4	1.49	1.0000	1	NCOA2, GYS1, IDUA, NEU2
+GO:0006066	alcohol metabolic process	361	2	0.93	1.0000	1	APOE, PLCG2
+GO:0006082	organic acid metabolic process	932	2	2.39	1.0000	1	MGAT4A, IDUA
+GO:0006139	nucleobase-containing compound metabolic process	6076	17	15.58	1.0000	1	FSTL3, NCOA2, HELQ, PASD1, MAGEE2, NR2F6, SALL3, GTF2H4, APOE, MAGEA4, PHF21A, PLCG2, PMS1, CCAR1, IL26, MAVS, MTDH
+GO:0006259	DNA metabolic process	990	3	2.54	1.0000	1	HELQ, GTF2H4, PMS1
+GO:0006281	DNA repair	615	3	1.58	1.0000	1	HELQ, GTF2H4, PMS1
+GO:0006325	chromatin organization	1069	2	2.74	0.3233	1	LMNB1, PHF21A
+GO:0006351	DNA-templated transcription	3537	15	9.07	1.0000	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, GTF2H4, APOE, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, MTDH
+GO:0006355	regulation of DNA-templated transcription	3406	14	8.73	1.0000	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, APOE, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, MTDH
+GO:0006357	regulation of transcription by RNA polymerase II	2591	11	6.64	0.5427	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, MAGEA4, PHF21A, IL26, MAVS, MTDH
+GO:0006366	transcription by RNA polymerase II	2718	12	6.97	0.2481	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, GTF2H4, MAGEA4, PHF21A, IL26, MAVS, MTDH
+GO:0006412	translation	758	4	1.94	0.2173	1	RPS4X, AIMP2, KBTBD8, MRPL33
+GO:0006417	regulation of translation	460	2	1.18	0.5595	1	RPS4X, KBTBD8
+GO:0006468	protein phosphorylation	1161	3	2.98	1.0000	1	APOE, PLCG2, MAVS
+GO:0006508	proteolysis	1730	6	4.44	0.5963	1	CTSE, APOE, CCAR1, PSMA3, PAPPA2, KBTBD8
+GO:0006511	ubiquitin-dependent protein catabolic process	667	3	1.71	0.4009	1	CCAR1, PSMA3, KBTBD8
+GO:0006516	glycoprotein catabolic process	34	2	0.09	0.0562	1	IDUA, NEU2
+GO:0006629	lipid metabolic process	1384	4	3.55	1.0000	1	NCOA2, APOE, NEU2, PLCG2
+GO:0006793	phosphorus metabolic process	2368	4	6.07	1.0000	1	ADCK5, APOE, PLCG2, MAVS
+GO:0006796	phosphate-containing compound metabolic process	2365	4	6.06	1.0000	1	ADCK5, APOE, PLCG2, MAVS
+GO:0006810	transport	4425	11	11.34	1.0000	1	GPR151, GDF9, APOE, LMNB1, NKG7, PLCG2, SEPTIN4, ANO1, MAVS, CA4, CACNA1F
+GO:0006811	monoatomic ion transport	1287	3	3.3	1.0000	1	PLCG2, ANO1, CACNA1F
+GO:0006812	monoatomic cation transport	1082	3	2.77	1.0000	1	PLCG2, ANO1, CACNA1F
+GO:0006816	calcium ion transport	445	2	1.14	1.0000	1	PLCG2, CACNA1F
+GO:0006869	lipid transport	457	2	1.17	1.0000	1	GDF9, APOE
+GO:0006873	intracellular monoatomic ion homeostasis	537	2	1.38	1.0000	1	APOE, PLCG2
+GO:0006874	intracellular calcium ion homeostasis	304	2	0.78	0.3477	1	APOE, PLCG2
+GO:0006887	exocytosis	356	3	0.91	1.0000	1	GPR151, NKG7, SEPTIN4
+GO:0006897	endocytosis	712	2	1.83	1.0000	1	APOE, PLCG2
+GO:0006898	receptor-mediated endocytosis	273	2	0.7	0.1904	1	APOE, PLCG2
+GO:0006915	apoptotic process	1980	6	5.08	0.5684	1	APOE, MAGEA4, SEPTIN4, CCAR1, AIMP2, MTDH
+GO:0006950	response to stress	4053	12	10.39	1.0000	1	HELQ, GPR151, GTF2H4, APOE, RAET1G, NKG7, PLCG2, PMS1, ANO1, IL26, MAVS, PAPPA2
+GO:0006952	defense response	1924	5	4.93	1.0000	1	APOE, RAET1G, NKG7, PLCG2, MAVS
+GO:0006954	inflammatory response	918	4	2.35	1.0000	1	APOE, NKG7, PLCG2, MAVS
+GO:0006955	immune response	1865	6	4.78	1.0000	1	GPR151, APOE, RAET1G, NKG7, PLCG2, MAVS
+GO:0006974	DNA damage response	914	3	2.34	1.0000	1	HELQ, GTF2H4, PMS1
+GO:0006996	organelle organization	3656	5	9.37	1.0000	1	HELQ, DNAAF8, APOE, LMNB1, MAVS
+GO:0007010	cytoskeleton organization	1542	3	3.95	0.6680	1	DNAAF8, APOE, LMNB1
+GO:0007017	microtubule-based process	999	2	2.56	1.0000	1	DNAAF8, SEPTIN4
+GO:0007049	cell cycle	1714	3	4.39	1.0000	1	MAGEA4, PLCG2, SEPTIN4
+GO:0007154	cell communication	6662	17	17.08	1.0000	1	FSTL3, NCOA2, GPR151, NR2F6, GDF9, GH2, GPR34, APOE, NKG7, PLCG2, SEPTIN4, ANO1, IL26, MAVS, PAPPA2, MTDH, NMT2
+GO:0007165	signal transduction	6138	17	15.74	1.0000	1	FSTL3, NCOA2, GPR151, NR2F6, GDF9, GH2, GPR34, APOE, NKG7, PLCG2, SEPTIN4, ANO1, IL26, MAVS, PAPPA2, MTDH, NMT2
+GO:0007166	cell surface receptor signaling pathway	2859	10	7.33	0.8190	1	FSTL3, GDF9, GH2, GPR34, APOE, PLCG2, IL26, MAVS, PAPPA2, MTDH
+GO:0007167	enzyme-linked receptor protein signaling pathway	1055	3	2.7	1.0000	1	FSTL3, GDF9, GH2
+GO:0007178	cell surface receptor protein serine/threonine kinase signaling pathway	425	2	1.09	1.0000	1	FSTL3, GDF9
+GO:0007186	G protein-coupled receptor signaling pathway	1313	5	3.37	0.6793	1	GPR151, GPR34, APOE, ANO1, NMT2
+GO:0007249	canonical NF-kappaB signal transduction	327	3	0.84	1.0000	1	PLCG2, MAVS, MTDH
+GO:0007259	cell surface receptor signaling pathway via JAK-STAT	131	2	0.34	1.0000	1	GH2, IL26
+GO:0007267	cell-cell signaling	1337	5	3.43	0.4627	1	GPR151, GDF9, APOE, ANO1, IL26
+GO:0007268	chemical synaptic transmission	774	2	1.98	1.0000	1	GPR151, APOE
+GO:0007275	multicellular organism development	4838	12	12.4	1.0000	1	FSTL3, NR2F6, GDF9, GYS1, APOE, SEPTIN4, ANO1, PAPPA2, SGCG, AIMP2, KBTBD8, MTDH
+GO:0007276	gamete generation	842	3	2.16	1.0000	1	CRTAP, GDF9, SEPTIN4
+GO:0007283	spermatogenesis	659	2	1.69	0.6601	1	CRTAP, SEPTIN4
+GO:0007399	nervous system development	2627	4	6.74	1.0000	1	NR2F6, APOE, SEPTIN4, ANO1
+GO:0007507	heart development	627	2	1.61	0.6191	1	GYS1, SGCG
+GO:0007596	blood coagulation	234	2	0.6	1.0000	1	APOE, PLCG2
+GO:0007599	hemostasis	241	2	0.62	1.0000	1	APOE, PLCG2
+GO:0007600	sensory perception	977	4	2.5	1.0000	1	NR2F6, IMPG1, ANO1, CACNA1F
+GO:0007601	visual perception	222	2	0.57	0.3970	1	IMPG1, CACNA1F
+GO:0007610	behavior	668	2	1.71	1.0000	1	NCOA2, APOE
+GO:0007623	circadian rhythm	205	3	0.53	1.0000	1	NCOA2, PASD1, NR2F6
+GO:0007626	locomotory behavior	213	2	0.55	1.0000	1	NCOA2, APOE
+GO:0008015	blood circulation	535	2	1.37	1.0000	1	APOE, SGCG
+GO:0008104	protein localization	2575	6	6.6	0.3798	1	APOE, LMNB1, SEPTIN4, ANO1, MAVS, NMT2
+GO:0008150	biological_process	18332	47	47	1.0000	1	FSTL3, CRTAP, NCOA2, MGAT4A, HELQ, GPR151, PASD1, MAGEE2, DNAAF8, CTSE, IBA57, ADCK5, NR2F6, GDF9, GH2, SALL3, GPR34, GTF2H4, GYS1, IDUA, APOE, RAET1G, IMPG1, LMNB1, MAGEA4, NEU2, NKG7, PHF21A, PLCG2, PMS1, SEPTIN4, ANO1, CCAR1, IL26, PSMA3, NHSL1, MAVS, PAPPA2, RPS4X, SGCG, CA4, CACNA1F, AIMP2, KBTBD8, MTDH, NMT2, MRPL33
+GO:0008152	metabolic process	12053	37	30.9	1.0000	1	FSTL3, CRTAP, NCOA2, MGAT4A, HELQ, PASD1, MAGEE2, CTSE, IBA57, ADCK5, NR2F6, SALL3, GTF2H4, GYS1, IDUA, APOE, RAET1G, LMNB1, MAGEA4, NEU2, PHF21A, PLCG2, PMS1, SEPTIN4, CCAR1, IL26, PSMA3, MAVS, PAPPA2, RPS4X, SGCG, CA4, AIMP2, KBTBD8, MTDH, NMT2, MRPL33
+GO:0008219	cell death	2053	8	5.26	1.0000	1	APOE, MAGEA4, NKG7, PLCG2, SEPTIN4, CCAR1, AIMP2, MTDH
+GO:0008283	cell population proliferation	2085	6	5.35	1.0000	1	GDF9, APOE, CCAR1, IL26, RPS4X, AIMP2
+GO:0008284	positive regulation of cell population proliferation	992	3	2.54	0.4712	1	GDF9, CCAR1, RPS4X
+GO:0008285	negative regulation of cell population proliferation	791	3	2.03	0.7555	1	APOE, IL26, AIMP2
+GO:0008610	lipid biosynthetic process	737	2	1.89	1.0000	1	APOE, PLCG2
+GO:0009056	catabolic process	2767	8	7.09	1.0000	1	IDUA, APOE, NEU2, PLCG2, CCAR1, PSMA3, KBTBD8, MTDH
+GO:0009057	macromolecule catabolic process	1557	6	3.99	1.0000	1	IDUA, APOE, NEU2, CCAR1, PSMA3, KBTBD8
+GO:0009058	biosynthetic process	8610	28	22.07	1.0000	1	FSTL3, CRTAP, NCOA2, MGAT4A, PASD1, MAGEE2, CTSE, IBA57, NR2F6, SALL3, GTF2H4, GYS1, APOE, RAET1G, LMNB1, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, RPS4X, SGCG, AIMP2, KBTBD8, MTDH, NMT2, MRPL33
+GO:0009059	macromolecule biosynthetic process	7611	27	19.51	1.0000	1	FSTL3, CRTAP, NCOA2, MGAT4A, PASD1, MAGEE2, CTSE, NR2F6, SALL3, GTF2H4, GYS1, APOE, RAET1G, LMNB1, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, RPS4X, SGCG, AIMP2, KBTBD8, MTDH, NMT2, MRPL33
+GO:0009100	glycoprotein metabolic process	392	3	1.01	1.0000	1	MGAT4A, IDUA, NEU2
+GO:0009266	response to temperature stimulus	171	2	0.44	1.0000	1	NR2F6, ANO1
+GO:0009306	protein secretion	371	2	0.95	1.0000	1	APOE, ANO1
+GO:0009311	oligosaccharide metabolic process	64	2	0.16	1.0000	1	IDUA, NEU2
+GO:0009314	response to radiation	439	3	1.13	1.0000	1	NR2F6, CACNA1F, NMT2
+GO:0009416	response to light stimulus	324	3	0.83	1.0000	1	NR2F6, CACNA1F, NMT2
+GO:0009581	detection of external stimulus	144	4	0.37	1.0000	1	NR2F6, ANO1, CACNA1F, NMT2
+GO:0009582	detection of abiotic stimulus	146	4	0.37	1.0000	1	NR2F6, ANO1, CACNA1F, NMT2
+GO:0009583	detection of light stimulus	67	2	0.17	1.0000	1	CACNA1F, NMT2
+GO:0009605	response to external stimulus	2467	10	6.32	1.0000	1	NR2F6, APOE, RAET1G, NKG7, PLCG2, ANO1, MAVS, CACNA1F, MTDH, NMT2
+GO:0009607	response to biotic stimulus	1658	6	4.25	1.0000	1	APOE, RAET1G, NKG7, PLCG2, MAVS, MTDH
+GO:0009611	response to wounding	581	2	1.49	1.0000	1	APOE, PLCG2
+GO:0009617	response to bacterium	717	3	1.84	1.0000	1	PLCG2, MAVS, MTDH
+GO:0009628	response to abiotic stimulus	1153	6	2.96	1.0000	1	GPR151, NR2F6, ANO1, PAPPA2, CACNA1F, NMT2
+GO:0009653	anatomical structure morphogenesis	2783	5	7.14	1.0000	1	APOE, ANO1, PAPPA2, KBTBD8, MTDH
+GO:0009719	response to endogenous stimulus	1572	5	4.03	1.0000	1	FSTL3, NCOA2, GDF9, GH2, APOE
+GO:0009725	response to hormone	916	2	2.35	1.0000	1	NCOA2, GH2
+GO:0009888	tissue development	2057	4	5.27	1.0000	1	NCOA2, SGCG, AIMP2, KBTBD8
+GO:0009889	regulation of biosynthetic process	5753	18	14.75	1.0000	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, APOE, RAET1G, LMNB1, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, RPS4X, KBTBD8, MTDH
+GO:0009890	negative regulation of biosynthetic process	2814	10	7.21	1.0000	1	NCOA2, PASD1, MAGEE2, NR2F6, APOE, LMNB1, MAGEA4, PHF21A, CCAR1, MTDH
+GO:0009891	positive regulation of biosynthetic process	2731	10	7	1.0000	1	FSTL3, NCOA2, APOE, RAET1G, PLCG2, CCAR1, IL26, MAVS, RPS4X, MTDH
+GO:0009892	negative regulation of metabolic process	3480	11	8.92	1.0000	1	CRTAP, NCOA2, PASD1, MAGEE2, NR2F6, APOE, LMNB1, MAGEA4, PHF21A, CCAR1, MTDH
+GO:0009893	positive regulation of metabolic process	3752	13	9.62	1.0000	1	FSTL3, NCOA2, HELQ, APOE, RAET1G, PLCG2, SEPTIN4, CCAR1, IL26, MAVS, RPS4X, AIMP2, MTDH
+GO:0009894	regulation of catabolic process	1139	2	2.92	1.0000	1	APOE, MTDH
+GO:0009896	positive regulation of catabolic process	643	2	1.65	1.0000	1	APOE, MTDH
+GO:0009914	hormone transport	330	2	0.85	1.0000	1	GDF9, ANO1
+GO:0009966	regulation of signal transduction	3190	9	8.18	1.0000	1	FSTL3, GH2, APOE, PLCG2, SEPTIN4, IL26, MAVS, MTDH, NMT2
+GO:0009967	positive regulation of signal transduction	1622	7	4.16	1.0000	1	GH2, APOE, PLCG2, SEPTIN4, IL26, MAVS, MTDH
+GO:0009968	negative regulation of signal transduction	1435	3	3.68	1.0000	1	FSTL3, APOE, MAVS
+GO:0009987	cellular process	17224	46	44.16	1.0000	1	FSTL3, CRTAP, NCOA2, MGAT4A, HELQ, GPR151, PASD1, MAGEE2, DNAAF8, CTSE, IBA57, ADCK5, NR2F6, GDF9, GH2, SALL3, GPR34, GTF2H4, GYS1, IDUA, APOE, RAET1G, IMPG1, LMNB1, MAGEA4, NEU2, NKG7, PHF21A, PLCG2, PMS1, SEPTIN4, ANO1, CCAR1, IL26, NHSL1, MAVS, PAPPA2, RPS4X, SGCG, CA4, CACNA1F, AIMP2, KBTBD8, MTDH, NMT2, MRPL33
+GO:0010467	gene expression	7174	24	18.39	0.8449	1	FSTL3, CRTAP, NCOA2, PASD1, MAGEE2, CTSE, NR2F6, SALL3, GTF2H4, APOE, RAET1G, LMNB1, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, RPS4X, SGCG, AIMP2, KBTBD8, MTDH, MRPL33
+GO:0010468	regulation of gene expression	5463	18	14.01	1.0000	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, APOE, RAET1G, LMNB1, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, RPS4X, KBTBD8, MTDH
+GO:0010498	proteasomal protein catabolic process	598	3	1.53	1.0000	1	APOE, PSMA3, KBTBD8
+GO:0010556	regulation of macromolecule biosynthetic process	5584	18	14.32	1.0000	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, APOE, RAET1G, LMNB1, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, RPS4X, KBTBD8, MTDH
+GO:0010557	positive regulation of macromolecule biosynthetic process	2618	10	6.71	1.0000	1	FSTL3, NCOA2, APOE, RAET1G, PLCG2, CCAR1, IL26, MAVS, RPS4X, MTDH
+GO:0010558	negative regulation of macromolecule biosynthetic process	2745	10	7.04	1.0000	1	NCOA2, PASD1, MAGEE2, NR2F6, APOE, LMNB1, MAGEA4, PHF21A, CCAR1, MTDH
+GO:0010562	positive regulation of phosphorus metabolic process	534	2	1.37	1.0000	1	PLCG2, MAVS
+GO:0010604	positive regulation of macromolecule metabolic process	3436	13	8.81	1.0000	1	FSTL3, NCOA2, HELQ, APOE, RAET1G, PLCG2, SEPTIN4, CCAR1, IL26, MAVS, RPS4X, AIMP2, MTDH
+GO:0010605	negative regulation of macromolecule metabolic process	3250	11	8.33	1.0000	1	CRTAP, NCOA2, PASD1, MAGEE2, NR2F6, APOE, LMNB1, MAGEA4, PHF21A, CCAR1, MTDH
+GO:0010608	post-transcriptional regulation of gene expression	1091	2	2.8	1.0000	1	RPS4X, KBTBD8
+GO:0010628	positive regulation of gene expression	1224	5	3.14	1.0000	1	RAET1G, PLCG2, IL26, MAVS, RPS4X
+GO:0010629	negative regulation of gene expression	1675	2	4.29	0.9805	1	APOE, LMNB1
+GO:0010646	regulation of cell communication	3630	12	9.31	1.0000	1	FSTL3, GPR151, GDF9, GH2, APOE, PLCG2, SEPTIN4, ANO1, IL26, MAVS, MTDH, NMT2
+GO:0010647	positive regulation of cell communication	1827	8	4.68	1.0000	1	GH2, APOE, PLCG2, SEPTIN4, ANO1, IL26, MAVS, MTDH
+GO:0010648	negative regulation of cell communication	1543	3	3.96	1.0000	1	FSTL3, APOE, MAVS
+GO:0010817	regulation of hormone levels	548	2	1.4	1.0000	1	GDF9, ANO1
+GO:0010876	lipid localization	510	2	1.31	1.0000	1	GDF9, APOE
+GO:0012501	programmed cell death	2049	8	5.25	1.0000	1	APOE, MAGEA4, NKG7, PLCG2, SEPTIN4, CCAR1, AIMP2, MTDH
+GO:0014070	response to organic cyclic compound	917	2	2.35	1.0000	1	NCOA2, MAVS
+GO:0015031	protein transport	1430	3	3.67	1.0000	1	APOE, ANO1, MAVS
+GO:0015711	organic anion transport	458	2	1.17	1.0000	1	APOE, CA4
+GO:0016032	viral process	438	4	1.12	1.0000	1	MGAT4A, APOE, MAVS, NMT2
+GO:0016042	lipid catabolic process	351	3	0.9	1.0000	1	APOE, NEU2, PLCG2
+GO:0016043	cellular component organization	6751	14	17.31	1.0000	1	CRTAP, HELQ, DNAAF8, IBA57, GDF9, APOE, IMPG1, LMNB1, PHF21A, PLCG2, ANO1, MAVS, PAPPA2, AIMP2
+GO:0016048	detection of temperature stimulus	28	2	0.07	1.0000	1	NR2F6, ANO1
+GO:0016049	cell growth	488	3	1.25	1.0000	1	GDF9, APOE, PAPPA2
+GO:0016055	Wnt signaling pathway	473	2	1.21	0.1798	1	APOE, PLCG2
+GO:0016070	RNA metabolic process	4969	15	12.74	1.0000	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, GTF2H4, APOE, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, MTDH
+GO:0016192	vesicle-mediated transport	1583	5	4.06	1.0000	1	GPR151, APOE, NKG7, PLCG2, SEPTIN4
+GO:0016310	phosphorylation	1367	4	3.5	0.3249	1	ADCK5, APOE, PLCG2, MAVS
+GO:0016477	cell migration	1649	4	4.23	1.0000	1	APOE, PLCG2, SEPTIN4, CCAR1
+GO:0016567	protein ubiquitination	727	4	1.86	0.7002	1	SEPTIN4, CCAR1, AIMP2, KBTBD8
+GO:0017157	regulation of exocytosis	182	2	0.47	0.1367	1	GPR151, SEPTIN4
+GO:0018193	peptidyl-amino acid modification	648	2	1.66	1.0000	1	PLCG2, NMT2
+GO:0019058	viral life cycle	322	3	0.83	1.0000	1	APOE, MAVS, NMT2
+GO:0019216	regulation of lipid metabolic process	344	3	0.88	0.0096	1	NCOA2, APOE, PLCG2
+GO:0019219	regulation of nucleobase-containing compound metabolic process	4072	15	10.44	1.0000	1	FSTL3, NCOA2, HELQ, PASD1, MAGEE2, NR2F6, SALL3, APOE, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, MTDH
+GO:0019220	regulation of phosphate metabolic process	906	3	2.32	1.0000	1	APOE, PLCG2, MAVS
+GO:0019222	regulation of metabolic process	7078	23	18.15	1.0000	1	FSTL3, CRTAP, NCOA2, HELQ, PASD1, MAGEE2, NR2F6, SALL3, APOE, RAET1G, LMNB1, MAGEA4, PHF21A, PLCG2, SEPTIN4, CCAR1, IL26, PSMA3, MAVS, RPS4X, AIMP2, KBTBD8, MTDH
+GO:0019233	sensory perception of pain	83	2	0.21	1.0000	1	NR2F6, ANO1
+GO:0019538	protein metabolic process	4847	17	12.43	1.0000	1	CRTAP, MGAT4A, CTSE, IDUA, APOE, NEU2, PLCG2, SEPTIN4, CCAR1, PSMA3, MAVS, PAPPA2, RPS4X, AIMP2, KBTBD8, NMT2, MRPL33
+GO:0019725	cellular homeostasis	831	3	2.13	1.0000	1	APOE, PLCG2, ANO1
+GO:0019752	carboxylic acid metabolic process	903	2	2.32	1.0000	1	MGAT4A, IDUA
+GO:0019882	antigen processing and presentation	117	2	0.3	1.0000	1	CTSE, RAET1G
+GO:0019941	modification-dependent protein catabolic process	677	3	1.74	1.0000	1	CCAR1, PSMA3, KBTBD8
+GO:0019953	sexual reproduction	1119	3	2.87	1.0000	1	CRTAP, GDF9, SEPTIN4
+GO:0022008	neurogenesis	1793	4	4.6	1.0000	1	NR2F6, APOE, SEPTIN4, ANO1
+GO:0022402	cell cycle process	1323	2	3.39	1.0000	1	PLCG2, SEPTIN4
+GO:0022412	cellular process involved in reproduction in multicellular organism	426	2	1.09	1.0000	1	GDF9, SEPTIN4
+GO:0022414	reproductive process	1601	3	4.1	1.0000	1	CRTAP, GDF9, SEPTIN4
+GO:0022607	cellular component assembly	3186	6	8.17	1.0000	1	DNAAF8, IBA57, APOE, PLCG2, MAVS, AIMP2
+GO:0023051	regulation of signaling	3623	12	9.29	1.0000	1	FSTL3, GPR151, GDF9, GH2, APOE, PLCG2, SEPTIN4, ANO1, IL26, MAVS, MTDH, NMT2
+GO:0023052	signaling	6636	17	17.01	1.0000	1	FSTL3, NCOA2, GPR151, NR2F6, GDF9, GH2, GPR34, APOE, NKG7, PLCG2, SEPTIN4, ANO1, IL26, MAVS, PAPPA2, MTDH, NMT2
+GO:0023056	positive regulation of signaling	1828	8	4.69	1.0000	1	GH2, APOE, PLCG2, SEPTIN4, ANO1, IL26, MAVS, MTDH
+GO:0023057	negative regulation of signaling	1543	3	3.96	1.0000	1	FSTL3, APOE, MAVS
+GO:0023061	signal release	492	3	1.26	1.0000	1	GPR151, GDF9, ANO1
+GO:0030001	metal ion transport	899	2	2.3	1.0000	1	PLCG2, CACNA1F
+GO:0030003	intracellular monoatomic cation homeostasis	528	2	1.35	1.0000	1	APOE, PLCG2
+GO:0030030	cell projection organization	1644	3	4.21	1.0000	1	DNAAF8, APOE, ANO1
+GO:0030097	hemopoiesis	965	2	2.47	1.0000	1	FSTL3, PLCG2
+GO:0030100	regulation of endocytosis	305	2	0.78	1.0000	1	APOE, PLCG2
+GO:0030154	cell differentiation	4518	10	11.58	0.8138	1	FSTL3, NR2F6, GDF9, APOE, PLCG2, SEPTIN4, ANO1, NHSL1, AIMP2, KBTBD8
+GO:0030162	regulation of proteolysis	650	2	1.67	1.0000	1	APOE, PSMA3
+GO:0030163	protein catabolic process	1074	6	2.75	1.0000	1	IDUA, APOE, NEU2, CCAR1, PSMA3, KBTBD8
+GO:0030168	platelet activation	141	2	0.36	0.1973	1	APOE, PLCG2
+GO:0030182	neuron differentiation	1454	2	3.73	1.0000	1	NR2F6, APOE
+GO:0030198	extracellular matrix organization	339	2	0.87	0.4926	1	CRTAP, IMPG1
+GO:0030334	regulation of cell migration	1075	3	2.76	1.0000	1	APOE, PLCG2, CCAR1
+GO:0030335	positive regulation of cell migration	601	2	1.54	0.7570	1	PLCG2, CCAR1
+GO:0030522	intracellular receptor signaling pathway	384	4	0.98	0.0732	1	NCOA2, NR2F6, PLCG2, MAVS
+GO:0031323	regulation of cellular metabolic process	6331	18	16.23	1.0000	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, APOE, RAET1G, LMNB1, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, RPS4X, KBTBD8, MTDH
+GO:0031324	negative regulation of cellular metabolic process	3064	10	7.86	1.0000	1	NCOA2, PASD1, MAGEE2, NR2F6, APOE, LMNB1, MAGEA4, PHF21A, CCAR1, MTDH
+GO:0031325	positive regulation of cellular metabolic process	3125	10	8.01	1.0000	1	FSTL3, NCOA2, APOE, RAET1G, PLCG2, CCAR1, IL26, MAVS, RPS4X, MTDH
+GO:0031326	regulation of cellular biosynthetic process	5675	18	14.55	1.0000	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, APOE, RAET1G, LMNB1, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, RPS4X, KBTBD8, MTDH
+GO:0031327	negative regulation of cellular biosynthetic process	2787	10	7.15	1.0000	1	NCOA2, PASD1, MAGEE2, NR2F6, APOE, LMNB1, MAGEA4, PHF21A, CCAR1, MTDH
+GO:0031328	positive regulation of cellular biosynthetic process	2679	10	6.87	1.0000	1	FSTL3, NCOA2, APOE, RAET1G, PLCG2, CCAR1, IL26, MAVS, RPS4X, MTDH
+GO:0031329	regulation of cellular catabolic process	472	2	1.21	1.0000	1	APOE, MTDH
+GO:0031331	positive regulation of cellular catabolic process	235	2	0.6	1.0000	1	APOE, MTDH
+GO:0031334	positive regulation of protein-containing complex assembly	200	2	0.51	1.0000	1	PLCG2, MAVS
+GO:0031347	regulation of defense response	871	5	2.23	1.0000	1	APOE, RAET1G, NKG7, PLCG2, MAVS
+GO:0031348	negative regulation of defense response	297	2	0.76	1.0000	1	APOE, MAVS
+GO:0031349	positive regulation of defense response	529	4	1.36	1.0000	1	RAET1G, NKG7, PLCG2, MAVS
+GO:0031396	regulation of protein ubiquitination	204	2	0.52	1.0000	1	SEPTIN4, AIMP2
+GO:0031398	positive regulation of protein ubiquitination	112	2	0.29	0.0335	1	SEPTIN4, AIMP2
+GO:0031399	regulation of protein modification process	998	6	2.56	1.0000	1	CRTAP, APOE, PLCG2, SEPTIN4, MAVS, AIMP2
+GO:0031400	negative regulation of protein modification process	341	2	0.87	1.0000	1	CRTAP, APOE
+GO:0031401	positive regulation of protein modification process	615	4	1.58	1.0000	1	PLCG2, SEPTIN4, MAVS, AIMP2
+GO:0031663	lipopolysaccharide-mediated signaling pathway	58	2	0.15	0.0097	1	PLCG2, MTDH
+GO:0031667	response to nutrient levels	517	2	1.33	0.7046	1	GH2, APOE
+GO:0032101	regulation of response to external stimulus	1148	6	2.94	1.0000	1	APOE, RAET1G, NKG7, PLCG2, MAVS, NMT2
+GO:0032102	negative regulation of response to external stimulus	437	2	1.12	1.0000	1	APOE, MAVS
+GO:0032103	positive regulation of response to external stimulus	666	4	1.71	1.0000	1	RAET1G, NKG7, PLCG2, MAVS
+GO:0032368	regulation of lipid transport	155	2	0.4	1.0000	1	GDF9, APOE
+GO:0032446	protein modification by small protein conjugation	814	4	2.09	1.0000	1	SEPTIN4, CCAR1, AIMP2, KBTBD8
+GO:0032479	regulation of type I interferon production	128	2	0.33	1.0000	1	PLCG2, MAVS
+GO:0032481	positive regulation of type I interferon production	75	2	0.19	0.0634	1	PLCG2, MAVS
+GO:0032496	response to lipopolysaccharide	353	2	0.91	1.0000	1	PLCG2, MTDH
+GO:0032501	multicellular organismal process	7517	20	19.27	1.0000	1	FSTL3, NCOA2, NR2F6, GDF9, GYS1, APOE, RAET1G, IMPG1, NKG7, PLCG2, SEPTIN4, ANO1, IL26, MAVS, PAPPA2, SGCG, CACNA1F, AIMP2, KBTBD8, MTDH
+GO:0032502	developmental process	6675	17	17.11	1.0000	1	FSTL3, CRTAP, NCOA2, NR2F6, GDF9, GH2, GYS1, APOE, PLCG2, SEPTIN4, ANO1, NHSL1, PAPPA2, SGCG, AIMP2, KBTBD8, MTDH
+GO:0032606	type I interferon production	128	2	0.33	1.0000	1	PLCG2, MAVS
+GO:0032635	interleukin-6 production	177	2	0.45	1.0000	1	PLCG2, MAVS
+GO:0032640	tumor necrosis factor production	187	2	0.48	1.0000	1	PLCG2, MAVS
+GO:0032675	regulation of interleukin-6 production	177	2	0.45	1.0000	1	PLCG2, MAVS
+GO:0032680	regulation of tumor necrosis factor production	187	2	0.48	1.0000	1	PLCG2, MAVS
+GO:0032755	positive regulation of interleukin-6 production	103	2	0.26	0.0287	1	PLCG2, MAVS
+GO:0032760	positive regulation of tumor necrosis factor production	107	2	0.27	0.0308	1	PLCG2, MAVS
+GO:0032774	RNA biosynthetic process	4678	15	11.99	1.0000	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, GTF2H4, APOE, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, MTDH
+GO:0032787	monocarboxylic acid metabolic process	638	2	1.64	1.0000	1	MGAT4A, IDUA
+GO:0032870	cellular response to hormone stimulus	646	2	1.66	1.0000	1	NCOA2, GH2
+GO:0032879	regulation of localization	2086	8	5.35	1.0000	1	GPR151, GDF9, APOE, PLCG2, SEPTIN4, ANO1, MAVS, CACNA1F
+GO:0032880	regulation of protein localization	911	3	2.34	1.0000	1	APOE, ANO1, MAVS
+GO:0032922	circadian regulation of gene expression	67	2	0.17	0.0128	1	NCOA2, PASD1
+GO:0032940	secretion by cell	853	6	2.19	1.0000	1	GPR151, GDF9, APOE, NKG7, SEPTIN4, ANO1
+GO:0033036	macromolecule localization	3076	7	7.89	1.0000	1	GDF9, APOE, LMNB1, SEPTIN4, ANO1, MAVS, NMT2
+GO:0033365	protein localization to organelle	1006	2	2.58	1.0000	1	LMNB1, MAVS
+GO:0033554	cellular response to stress	1879	5	4.82	1.0000	1	HELQ, GTF2H4, PMS1, ANO1, IL26
+GO:0033993	response to lipid	945	3	2.42	1.0000	1	NCOA2, PLCG2, MTDH
+GO:0034220	monoatomic ion transmembrane transport	1061	3	2.72	1.0000	1	PLCG2, ANO1, CACNA1F
+GO:0034504	protein localization to nucleus	320	2	0.82	1.0000	1	LMNB1, MAVS
+GO:0034654	nucleobase-containing compound biosynthetic process	5085	15	13.04	1.0000	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, GTF2H4, APOE, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, MTDH
+GO:0035239	tube morphogenesis	965	2	2.47	1.0000	1	APOE, MTDH
+GO:0035295	tube development	1187	3	3.04	1.0000	1	APOE, AIMP2, MTDH
+GO:0035556	intracellular signal transduction	3068	8	7.87	1.0000	1	NCOA2, NR2F6, APOE, PLCG2, SEPTIN4, IL26, MAVS, MTDH
+GO:0035592	establishment of protein localization to extracellular region	374	2	0.96	1.0000	1	APOE, ANO1
+GO:0036211	protein modification process	2711	10	6.95	1.0000	1	CRTAP, MGAT4A, APOE, PLCG2, SEPTIN4, CCAR1, MAVS, AIMP2, KBTBD8, NMT2
+GO:0039531	regulation of cytoplasmic pattern recognition receptor signaling pathway	122	2	0.31	1.0000	1	PLCG2, MAVS
+GO:0040007	growth	936	3	2.4	1.0000	1	GDF9, APOE, PAPPA2
+GO:0040008	regulation of growth	611	3	1.57	1.0000	1	GDF9, APOE, PAPPA2
+GO:0040011	locomotion	1368	3	3.51	1.0000	1	APOE, PLCG2, CCAR1
+GO:0040012	regulation of locomotion	1183	3	3.03	1.0000	1	APOE, PLCG2, CCAR1
+GO:0040017	positive regulation of locomotion	646	2	1.66	1.0000	1	PLCG2, CCAR1
+GO:0042060	wound healing	443	2	1.14	1.0000	1	APOE, PLCG2
+GO:0042127	regulation of cell population proliferation	1781	6	4.57	1.0000	1	GDF9, APOE, CCAR1, IL26, RPS4X, AIMP2
+GO:0042157	lipoprotein metabolic process	102	2	0.26	1.0000	1	APOE, NMT2
+GO:0042158	lipoprotein biosynthetic process	60	2	0.15	0.0150	1	APOE, NMT2
+GO:0042221	response to chemical	4007	8	10.27	1.0000	1	NCOA2, GH2, APOE, PLCG2, PMS1, ANO1, MAVS, MTDH
+GO:0042267	natural killer cell mediated cytotoxicity	79	2	0.2	0.1359	1	RAET1G, NKG7
+GO:0042325	regulation of phosphorylation	773	3	1.98	1.0000	1	APOE, PLCG2, MAVS
+GO:0042327	positive regulation of phosphorylation	478	2	1.23	1.0000	1	PLCG2, MAVS
+GO:0042592	homeostatic process	1758	4	4.51	1.0000	1	APOE, PLCG2, SEPTIN4, ANO1
+GO:0042752	regulation of circadian rhythm	113	2	0.29	1.0000	1	PASD1, NR2F6
+GO:0042981	regulation of apoptotic process	1523	5	3.9	0.3433	1	APOE, MAGEA4, SEPTIN4, CCAR1, MTDH
+GO:0043062	extracellular structure organization	340	2	0.87	1.0000	1	CRTAP, IMPG1
+GO:0043065	positive regulation of apoptotic process	570	2	1.46	0.6566	1	SEPTIN4, CCAR1
+GO:0043066	negative regulation of apoptotic process	916	2	2.35	0.6883	1	MAGEA4, MTDH
+GO:0043067	regulation of programmed cell death	1573	6	4.03	1.0000	1	APOE, MAGEA4, PLCG2, SEPTIN4, CCAR1, MTDH
+GO:0043068	positive regulation of programmed cell death	591	2	1.52	1.0000	1	SEPTIN4, CCAR1
+GO:0043069	negative regulation of programmed cell death	951	3	2.44	0.0867	1	MAGEA4, PLCG2, MTDH
+GO:0043122	regulation of canonical NF-kappaB signal transduction	305	3	0.78	0.1849	1	PLCG2, MAVS, MTDH
+GO:0043123	positive regulation of canonical NF-kappaB signal transduction	223	2	0.57	0.1116	1	MAVS, MTDH
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	465	2	1.19	0.3355	1	PSMA3, KBTBD8
+GO:0043170	macromolecule metabolic process	10001	34	25.64	1.0000	1	FSTL3, CRTAP, NCOA2, MGAT4A, HELQ, PASD1, MAGEE2, CTSE, NR2F6, SALL3, GTF2H4, GYS1, IDUA, APOE, RAET1G, LMNB1, MAGEA4, NEU2, PHF21A, PLCG2, PMS1, SEPTIN4, CCAR1, IL26, PSMA3, MAVS, PAPPA2, RPS4X, SGCG, AIMP2, KBTBD8, MTDH, NMT2, MRPL33
+GO:0043207	response to external biotic stimulus	1617	6	4.15	1.0000	1	APOE, RAET1G, NKG7, PLCG2, MAVS, MTDH
+GO:0043254	regulation of protein-containing complex assembly	433	3	1.11	0.4190	1	APOE, PLCG2, MAVS
+GO:0043408	regulation of MAPK cascade	668	3	1.71	1.0000	1	APOE, PLCG2, IL26
+GO:0043410	positive regulation of MAPK cascade	471	3	1.21	0.4798	1	APOE, PLCG2, IL26
+GO:0043412	macromolecule modification	2892	10	7.41	1.0000	1	CRTAP, MGAT4A, APOE, PLCG2, SEPTIN4, CCAR1, MAVS, AIMP2, KBTBD8, NMT2
+GO:0043434	response to peptide hormone	446	2	1.14	1.0000	1	NCOA2, GH2
+GO:0043436	oxoacid metabolic process	926	2	2.37	1.0000	1	MGAT4A, IDUA
+GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	317	2	0.81	1.0000	1	IL26, MTDH
+GO:0043603	amide metabolic process	468	2	1.2	1.0000	1	APOE, NEU2
+GO:0043632	modification-dependent macromolecule catabolic process	682	3	1.75	1.0000	1	CCAR1, PSMA3, KBTBD8
+GO:0043687	post-translational protein modification	960	5	2.46	1.0000	1	CRTAP, SEPTIN4, CCAR1, AIMP2, KBTBD8
+GO:0043933	protein-containing complex organization	1881	5	4.82	1.0000	1	DNAAF8, APOE, PLCG2, MAVS, AIMP2
+GO:0044057	regulation of system process	585	2	1.5	1.0000	1	GDF9, APOE
+GO:0044085	cellular component biogenesis	3460	7	8.87	1.0000	1	DNAAF8, IBA57, APOE, PLCG2, MAVS, RPS4X, AIMP2
+GO:0044087	regulation of cellular component biogenesis	1052	3	2.7	1.0000	1	APOE, PLCG2, MAVS
+GO:0044089	positive regulation of cellular component biogenesis	517	3	1.33	1.0000	1	APOE, PLCG2, MAVS
+GO:0044092	negative regulation of molecular function	781	2	2	1.0000	1	APOE, CACNA1F
+GO:0044093	positive regulation of molecular function	1004	4	2.57	1.0000	1	APOE, PLCG2, MAVS, MTDH
+GO:0044237	cellular metabolic process	10235	31	26.24	1.0000	1	FSTL3, CRTAP, NCOA2, MGAT4A, PASD1, MAGEE2, CTSE, ADCK5, NR2F6, SALL3, GTF2H4, GYS1, IDUA, APOE, RAET1G, LMNB1, MAGEA4, NEU2, PHF21A, PLCG2, CCAR1, IL26, MAVS, RPS4X, SGCG, CA4, AIMP2, KBTBD8, MTDH, NMT2, MRPL33
+GO:0044238	primary metabolic process	10460	31	26.82	1.0000	1	FSTL3, CRTAP, NCOA2, MGAT4A, HELQ, PASD1, MAGEE2, CTSE, NR2F6, SALL3, GTF2H4, GYS1, IDUA, APOE, MAGEA4, NEU2, PHF21A, PLCG2, PMS1, SEPTIN4, CCAR1, IL26, PSMA3, MAVS, PAPPA2, RPS4X, AIMP2, KBTBD8, MTDH, NMT2, MRPL33
+GO:0044242	cellular lipid catabolic process	238	2	0.61	1.0000	1	NEU2, PLCG2
+GO:0044248	cellular catabolic process	1145	5	2.94	1.0000	1	IDUA, APOE, NEU2, PLCG2, MTDH
+GO:0044249	cellular biosynthetic process	8173	27	20.95	1.0000	1	FSTL3, CRTAP, NCOA2, MGAT4A, PASD1, MAGEE2, CTSE, NR2F6, SALL3, GTF2H4, GYS1, APOE, RAET1G, LMNB1, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, RPS4X, SGCG, AIMP2, KBTBD8, MTDH, NMT2, MRPL33
+GO:0044255	cellular lipid metabolic process	998	3	2.56	1.0000	1	APOE, NEU2, PLCG2
+GO:0044281	small molecule metabolic process	1800	6	4.61	1.0000	1	NCOA2, MGAT4A, IDUA, APOE, PLCG2, CA4
+GO:0044282	small molecule catabolic process	375	2	0.96	1.0000	1	IDUA, APOE
+GO:0044283	small molecule biosynthetic process	601	2	1.54	1.0000	1	APOE, PLCG2
+GO:0044419	biological process involved in interspecies interaction between organisms	1782	6	4.57	1.0000	1	APOE, RAET1G, NKG7, PLCG2, MAVS, MTDH
+GO:0044546	NLRP3 inflammasome complex assembly	40	2	0.1	1.0000	1	PLCG2, MAVS
+GO:0045055	regulated exocytosis	227	2	0.58	1.0000	1	GPR151, NKG7
+GO:0045087	innate immune response	1013	5	2.6	1.0000	1	APOE, RAET1G, NKG7, PLCG2, MAVS
+GO:0045088	regulation of innate immune response	470	4	1.2	0.0339	1	APOE, RAET1G, PLCG2, MAVS
+GO:0045089	positive regulation of innate immune response	387	3	0.99	1.0000	1	RAET1G, PLCG2, MAVS
+GO:0045184	establishment of protein localization	1716	3	4.4	1.0000	1	APOE, ANO1, MAVS
+GO:0045229	external encapsulating structure organization	341	2	0.87	1.0000	1	CRTAP, IMPG1
+GO:0045321	leukocyte activation	985	2	2.53	1.0000	1	NKG7, PLCG2
+GO:0045787	positive regulation of cell cycle	364	2	0.93	0.2056	1	MAGEA4, PLCG2
+GO:0045807	positive regulation of endocytosis	157	2	0.4	0.0778	1	APOE, PLCG2
+GO:0045892	negative regulation of DNA-templated transcription	1283	8	3.29	0.1969	1	NCOA2, PASD1, MAGEE2, NR2F6, MAGEA4, PHF21A, CCAR1, MTDH
+GO:0045893	positive regulation of DNA-templated transcription	1694	7	4.34	0.0961	1	FSTL3, NCOA2, APOE, CCAR1, IL26, MAVS, MTDH
+GO:0045934	negative regulation of nucleobase-containing compound metabolic process	1530	8	3.92	1.0000	1	NCOA2, PASD1, MAGEE2, NR2F6, MAGEA4, PHF21A, CCAR1, MTDH
+GO:0045935	positive regulation of nucleobase-containing compound metabolic process	2127	8	5.45	1.0000	1	FSTL3, NCOA2, HELQ, APOE, CCAR1, IL26, MAVS, MTDH
+GO:0045937	positive regulation of phosphate metabolic process	534	2	1.37	1.0000	1	PLCG2, MAVS
+GO:0045944	positive regulation of transcription by RNA polymerase II	1259	4	3.23	0.4055	1	FSTL3, NCOA2, IL26, MAVS
+GO:0046165	alcohol biosynthetic process	146	2	0.37	1.0000	1	APOE, PLCG2
+GO:0046425	regulation of receptor signaling pathway via JAK-STAT	76	2	0.19	1.0000	1	GH2, IL26
+GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	41	2	0.11	0.0050	1	GH2, IL26
+GO:0046486	glycerolipid metabolic process	383	2	0.98	1.0000	1	APOE, PLCG2
+GO:0046649	lymphocyte activation	816	2	2.09	1.0000	1	NKG7, PLCG2
+GO:0046879	hormone secretion	319	2	0.82	1.0000	1	GDF9, ANO1
+GO:0046883	regulation of hormone secretion	261	2	0.67	1.0000	1	GDF9, ANO1
+GO:0046903	secretion	993	6	2.55	1.0000	1	GPR151, GDF9, APOE, NKG7, SEPTIN4, ANO1
+GO:0046907	intracellular transport	1374	3	3.52	0.7105	1	APOE, LMNB1, MAVS
+GO:0048002	antigen processing and presentation of peptide antigen	72	2	0.18	1.0000	1	CTSE, RAET1G
+GO:0048232	male gamete generation	675	2	1.73	1.0000	1	CRTAP, SEPTIN4
+GO:0048468	cell development	2884	7	7.39	1.0000	1	FSTL3, NR2F6, GDF9, APOE, PLCG2, ANO1, KBTBD8
+GO:0048511	rhythmic process	298	4	0.76	1.0000	1	NCOA2, PASD1, NR2F6, GDF9
+GO:0048513	animal organ development	3093	8	7.93	0.9500	1	NCOA2, GDF9, GH2, GYS1, PAPPA2, SGCG, AIMP2, KBTBD8
+GO:0048514	blood vessel morphogenesis	727	2	1.86	1.0000	1	APOE, MTDH
+GO:0048518	positive regulation of biological process	6434	19	16.5	1.0000	1	FSTL3, NCOA2, HELQ, GPR151, GDF9, GH2, APOE, RAET1G, MAGEA4, NKG7, PLCG2, SEPTIN4, ANO1, CCAR1, IL26, MAVS, RPS4X, AIMP2, MTDH
+GO:0048519	negative regulation of biological process	5929	18	15.2	1.0000	1	FSTL3, CRTAP, NCOA2, PASD1, MAGEE2, NR2F6, GDF9, APOE, LMNB1, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, CACNA1F, AIMP2, MTDH
+GO:0048522	positive regulation of cellular process	5786	16	14.83	1.0000	1	FSTL3, NCOA2, HELQ, GDF9, GH2, APOE, RAET1G, MAGEA4, PLCG2, SEPTIN4, ANO1, CCAR1, IL26, MAVS, RPS4X, MTDH
+GO:0048523	negative regulation of cellular process	5493	17	14.08	1.0000	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, GDF9, APOE, LMNB1, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, CACNA1F, AIMP2, MTDH
+GO:0048583	regulation of response to stimulus	4193	14	10.75	1.0000	1	FSTL3, NCOA2, HELQ, GPR151, GH2, APOE, RAET1G, NKG7, PLCG2, SEPTIN4, IL26, MAVS, MTDH, NMT2
+GO:0048584	positive regulation of response to stimulus	2396	11	6.14	1.0000	1	HELQ, GPR151, GH2, APOE, RAET1G, NKG7, PLCG2, SEPTIN4, IL26, MAVS, MTDH
+GO:0048585	negative regulation of response to stimulus	1808	3	4.64	1.0000	1	FSTL3, APOE, MAVS
+GO:0048588	developmental cell growth	231	2	0.59	1.0000	1	GDF9, APOE
+GO:0048589	developmental growth	676	2	1.73	1.0000	1	GDF9, APOE
+GO:0048609	multicellular organismal reproductive process	998	3	2.56	1.0000	1	CRTAP, GDF9, SEPTIN4
+GO:0048646	anatomical structure formation involved in morphogenesis	1282	2	3.29	1.0000	1	KBTBD8, MTDH
+GO:0048666	neuron development	1178	2	3.02	0.3086	1	NR2F6, APOE
+GO:0048699	generation of neurons	1540	3	3.95	1.0000	1	NR2F6, APOE, SEPTIN4
+GO:0048731	system development	4167	10	10.68	1.0000	1	NR2F6, GDF9, GYS1, APOE, SEPTIN4, ANO1, PAPPA2, SGCG, AIMP2, MTDH
+GO:0048856	anatomical structure development	6093	15	15.62	1.0000	1	FSTL3, NCOA2, NR2F6, GDF9, GH2, GYS1, APOE, PLCG2, SEPTIN4, ANO1, PAPPA2, SGCG, AIMP2, KBTBD8, MTDH
+GO:0048858	cell projection morphogenesis	679	2	1.74	1.0000	1	APOE, ANO1
+GO:0048869	cellular developmental process	4520	10	11.59	1.0000	1	FSTL3, NR2F6, GDF9, APOE, PLCG2, SEPTIN4, ANO1, NHSL1, AIMP2, KBTBD8
+GO:0048870	cell motility	1910	4	4.9	1.0000	1	APOE, PLCG2, SEPTIN4, CCAR1
+GO:0048871	multicellular organismal-level homeostasis	832	2	2.13	1.0000	1	APOE, SEPTIN4
+GO:0048878	chemical homeostasis	1055	3	2.7	1.0000	1	APOE, PLCG2, ANO1
+GO:0050673	epithelial cell proliferation	482	2	1.24	1.0000	1	APOE, IL26
+GO:0050678	regulation of epithelial cell proliferation	406	2	1.04	1.0000	1	APOE, IL26
+GO:0050680	negative regulation of epithelial cell proliferation	175	2	0.45	0.2156	1	APOE, IL26
+GO:0050708	regulation of protein secretion	272	2	0.7	1.0000	1	APOE, ANO1
+GO:0050727	regulation of inflammatory response	436	3	1.12	1.0000	1	APOE, NKG7, PLCG2
+GO:0050729	positive regulation of inflammatory response	162	2	0.42	0.3048	1	NKG7, PLCG2
+GO:0050776	regulation of immune response	986	5	2.53	1.0000	1	GPR151, APOE, RAET1G, PLCG2, MAVS
+GO:0050778	positive regulation of immune response	776	4	1.99	0.1331	1	GPR151, RAET1G, PLCG2, MAVS
+GO:0050789	regulation of biological process	12284	32	31.49	1.0000	1	FSTL3, CRTAP, NCOA2, HELQ, GPR151, PASD1, MAGEE2, NR2F6, GDF9, GH2, SALL3, GPR34, APOE, RAET1G, LMNB1, MAGEA4, NKG7, PHF21A, PLCG2, SEPTIN4, ANO1, CCAR1, IL26, PSMA3, MAVS, PAPPA2, RPS4X, CACNA1F, AIMP2, KBTBD8, MTDH, NMT2
+GO:0050790	regulation of catalytic activity	1211	2	3.1	1.0000	1	APOE, PSMA3
+GO:0050793	regulation of developmental process	2570	5	6.59	1.0000	1	FSTL3, NCOA2, GDF9, APOE, MTDH
+GO:0050794	regulation of cellular process	11647	30	29.86	1.0000	1	FSTL3, NCOA2, HELQ, GPR151, PASD1, MAGEE2, NR2F6, GDF9, GH2, SALL3, GPR34, APOE, RAET1G, LMNB1, MAGEA4, NKG7, PHF21A, PLCG2, SEPTIN4, ANO1, CCAR1, IL26, MAVS, PAPPA2, RPS4X, CACNA1F, AIMP2, KBTBD8, MTDH, NMT2
+GO:0050801	monoatomic ion homeostasis	620	2	1.59	1.0000	1	APOE, PLCG2
+GO:0050804	modulation of chemical synaptic transmission	509	2	1.3	1.0000	1	GPR151, APOE
+GO:0050817	coagulation	241	2	0.62	1.0000	1	APOE, PLCG2
+GO:0050877	nervous system process	1522	5	3.9	1.0000	1	NR2F6, APOE, IMPG1, ANO1, CACNA1F
+GO:0050878	regulation of body fluid levels	380	3	0.97	1.0000	1	APOE, PLCG2, ANO1
+GO:0050896	response to stimulus	8931	22	22.9	1.0000	1	FSTL3, NCOA2, HELQ, GPR151, NR2F6, GDF9, GH2, GPR34, GTF2H4, APOE, RAET1G, NKG7, PLCG2, PMS1, SEPTIN4, ANO1, IL26, MAVS, PAPPA2, CACNA1F, MTDH, NMT2
+GO:0050906	detection of stimulus involved in sensory perception	530	3	1.36	1.0000	1	NR2F6, ANO1, CACNA1F
+GO:0050951	sensory perception of temperature stimulus	31	2	0.08	1.0000	1	NR2F6, ANO1
+GO:0050953	sensory perception of light stimulus	226	2	0.58	1.0000	1	IMPG1, CACNA1F
+GO:0050961	detection of temperature stimulus involved in sensory perception	25	2	0.06	1.0000	1	NR2F6, ANO1
+GO:0050965	detection of temperature stimulus involved in sensory perception of pain	21	2	0.05	0.0013	1	NR2F6, ANO1
+GO:0051046	regulation of secretion	620	5	1.59	1.0000	1	GPR151, GDF9, APOE, SEPTIN4, ANO1
+GO:0051049	regulation of transport	1665	8	4.27	1.0000	1	GPR151, GDF9, APOE, PLCG2, SEPTIN4, ANO1, MAVS, CACNA1F
+GO:0051050	positive regulation of transport	871	4	2.23	1.0000	1	APOE, PLCG2, ANO1, MAVS
+GO:0051051	negative regulation of transport	466	2	1.19	1.0000	1	APOE, CACNA1F
+GO:0051090	regulation of DNA-binding transcription factor activity	362	3	0.93	1.0000	1	PLCG2, MAVS, MTDH
+GO:0051091	positive regulation of DNA-binding transcription factor activity	207	3	0.53	0.1901	1	PLCG2, MAVS, MTDH
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	122	2	0.31	0.0391	1	PLCG2, MTDH
+GO:0051093	negative regulation of developmental process	1027	2	2.63	1.0000	1	FSTL3, APOE
+GO:0051094	positive regulation of developmental process	1398	3	3.58	1.0000	1	NCOA2, APOE, MTDH
+GO:0051128	regulation of cellular component organization	2505	5	6.42	1.0000	1	GDF9, APOE, PLCG2, MAVS, PAPPA2
+GO:0051130	positive regulation of cellular component organization	1134	3	2.91	1.0000	1	APOE, PLCG2, MAVS
+GO:0051174	regulation of phosphorus metabolic process	907	3	2.33	1.0000	1	APOE, PLCG2, MAVS
+GO:0051179	localization	5404	12	13.85	1.0000	1	GPR151, GDF9, APOE, LMNB1, NKG7, PLCG2, SEPTIN4, ANO1, MAVS, CA4, CACNA1F, NMT2
+GO:0051222	positive regulation of protein transport	257	3	0.66	1.0000	1	APOE, ANO1, MAVS
+GO:0051223	regulation of protein transport	446	3	1.14	1.0000	1	APOE, ANO1, MAVS
+GO:0051234	establishment of localization	4734	11	12.14	1.0000	1	GPR151, GDF9, APOE, LMNB1, NKG7, PLCG2, SEPTIN4, ANO1, MAVS, CA4, CACNA1F
+GO:0051235	maintenance of location	345	2	0.88	1.0000	1	APOE, PLCG2
+GO:0051239	regulation of multicellular organismal process	3112	9	7.98	1.0000	1	FSTL3, NCOA2, GDF9, APOE, RAET1G, PLCG2, IL26, MAVS, MTDH
+GO:0051240	positive regulation of multicellular organismal process	1721	7	4.41	1.0000	1	NCOA2, APOE, RAET1G, PLCG2, IL26, MAVS, MTDH
+GO:0051241	negative regulation of multicellular organismal process	1232	2	3.16	1.0000	1	FSTL3, APOE
+GO:0051246	regulation of protein metabolic process	2083	9	5.34	1.0000	1	CRTAP, APOE, PLCG2, SEPTIN4, PSMA3, MAVS, RPS4X, AIMP2, KBTBD8
+GO:0051247	positive regulation of protein metabolic process	1110	6	2.85	1.0000	1	APOE, PLCG2, SEPTIN4, MAVS, RPS4X, AIMP2
+GO:0051248	negative regulation of protein metabolic process	894	2	2.29	1.0000	1	CRTAP, APOE
+GO:0051252	regulation of RNA metabolic process	3768	14	9.66	1.0000	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, APOE, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, MTDH
+GO:0051253	negative regulation of RNA metabolic process	1403	8	3.6	1.0000	1	NCOA2, PASD1, MAGEE2, NR2F6, MAGEA4, PHF21A, CCAR1, MTDH
+GO:0051254	positive regulation of RNA metabolic process	1924	7	4.93	1.0000	1	FSTL3, NCOA2, APOE, CCAR1, IL26, MAVS, MTDH
+GO:0051603	proteolysis involved in protein catabolic process	828	4	2.12	1.0000	1	APOE, CCAR1, PSMA3, KBTBD8
+GO:0051604	protein maturation	601	2	1.54	1.0000	1	CRTAP, CTSE
+GO:0051606	detection of stimulus	655	4	1.68	1.0000	1	NR2F6, ANO1, CACNA1F, NMT2
+GO:0051641	cellular localization	3462	9	8.88	1.0000	1	GPR151, APOE, LMNB1, NKG7, PLCG2, SEPTIN4, ANO1, MAVS, NMT2
+GO:0051649	establishment of localization in cell	1989	6	5.1	1.0000	1	GPR151, APOE, LMNB1, NKG7, ANO1, MAVS
+GO:0051651	maintenance of location in cell	224	2	0.57	0.2001	1	APOE, PLCG2
+GO:0051668	localization within membrane	710	4	1.82	1.0000	1	APOE, LMNB1, ANO1, NMT2
+GO:0051707	response to other organism	1614	6	4.14	1.0000	1	APOE, RAET1G, NKG7, PLCG2, MAVS, MTDH
+GO:0051716	cellular response to stimulus	7511	20	19.26	1.0000	1	FSTL3, NCOA2, HELQ, GPR151, NR2F6, GDF9, GH2, GPR34, GTF2H4, APOE, NKG7, PLCG2, PMS1, SEPTIN4, ANO1, IL26, MAVS, PAPPA2, MTDH, NMT2
+GO:0051726	regulation of cell cycle	1150	2	2.95	1.0000	1	MAGEA4, PLCG2
+GO:0051896	regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	280	2	0.72	1.0000	1	IL26, MTDH
+GO:0051897	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	192	2	0.49	0.0869	1	IL26, MTDH
+GO:0055074	calcium ion homeostasis	329	2	0.84	1.0000	1	APOE, PLCG2
+GO:0055080	monoatomic cation homeostasis	610	2	1.56	1.0000	1	APOE, PLCG2
+GO:0055082	intracellular chemical homeostasis	725	3	1.86	1.0000	1	APOE, PLCG2, ANO1
+GO:0055085	transmembrane transport	1592	3	4.08	1.0000	1	PLCG2, ANO1, CACNA1F
+GO:0060255	regulation of macromolecule metabolic process	6534	23	16.75	1.0000	1	FSTL3, CRTAP, NCOA2, HELQ, PASD1, MAGEE2, NR2F6, SALL3, APOE, RAET1G, LMNB1, MAGEA4, PHF21A, PLCG2, SEPTIN4, CCAR1, IL26, PSMA3, MAVS, RPS4X, AIMP2, KBTBD8, MTDH
+GO:0060341	regulation of cellular localization	1022	3	2.62	1.0000	1	APOE, ANO1, MAVS
+GO:0060627	regulation of vesicle-mediated transport	540	4	1.38	1.0000	1	GPR151, APOE, PLCG2, SEPTIN4
+GO:0061024	membrane organization	824	3	2.11	1.0000	1	APOE, LMNB1, PLCG2
+GO:0061081	positive regulation of myeloid leukocyte cytokine production involved in immune response	35	2	0.09	1.0000	1	PLCG2, MAVS
+GO:0061082	myeloid leukocyte cytokine production	50	2	0.13	1.0000	1	PLCG2, MAVS
+GO:0062012	regulation of small molecule metabolic process	348	2	0.89	1.0000	1	NCOA2, APOE
+GO:0062149	detection of stimulus involved in sensory perception of pain	30	2	0.08	1.0000	1	NR2F6, ANO1
+GO:0062207	regulation of pattern recognition receptor signaling pathway	184	2	0.47	1.0000	1	PLCG2, MAVS
+GO:0062208	positive regulation of pattern recognition receptor signaling pathway	71	2	0.18	1.0000	1	PLCG2, MAVS
+GO:0065003	protein-containing complex assembly	1686	5	4.32	0.9482	1	DNAAF8, APOE, PLCG2, MAVS, AIMP2
+GO:0065007	biological regulation	12678	32	32.5	1.0000	1	FSTL3, CRTAP, NCOA2, HELQ, GPR151, PASD1, MAGEE2, NR2F6, GDF9, GH2, SALL3, GPR34, APOE, RAET1G, LMNB1, MAGEA4, NKG7, PHF21A, PLCG2, SEPTIN4, ANO1, CCAR1, IL26, PSMA3, MAVS, PAPPA2, RPS4X, CACNA1F, AIMP2, KBTBD8, MTDH, NMT2
+GO:0065008	regulation of biological quality	3079	5	7.89	1.0000	1	CRTAP, GDF9, APOE, PLCG2, ANO1
+GO:0065009	regulation of molecular function	1815	6	4.65	1.0000	1	APOE, PLCG2, PSMA3, MAVS, CACNA1F, MTDH
+GO:0070201	regulation of establishment of protein localization	540	3	1.38	1.0000	1	APOE, ANO1, MAVS
+GO:0070371	ERK1 and ERK2 cascade	318	2	0.82	1.0000	1	APOE, IL26
+GO:0070372	regulation of ERK1 and ERK2 cascade	295	2	0.76	1.0000	1	APOE, IL26
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	196	2	0.5	0.0899	1	APOE, IL26
+GO:0070588	calcium ion transmembrane transport	348	2	0.89	1.0000	1	PLCG2, CACNA1F
+GO:0070647	protein modification by small protein conjugation or removal	902	4	2.31	1.0000	1	SEPTIN4, CCAR1, AIMP2, KBTBD8
+GO:0070727	cellular macromolecule localization	2587	6	6.63	1.0000	1	APOE, LMNB1, SEPTIN4, ANO1, MAVS, NMT2
+GO:0070848	response to growth factor	793	2	2.03	1.0000	1	FSTL3, GDF9
+GO:0070887	cellular response to chemical stimulus	2236	7	5.73	1.0000	1	NCOA2, GH2, APOE, PLCG2, ANO1, MAVS, MTDH
+GO:0071216	cellular response to biotic stimulus	268	2	0.69	1.0000	1	PLCG2, MTDH
+GO:0071219	cellular response to molecule of bacterial origin	241	2	0.62	1.0000	1	PLCG2, MTDH
+GO:0071222	cellular response to lipopolysaccharide	227	2	0.58	1.0000	1	PLCG2, MTDH
+GO:0071363	cellular response to growth factor stimulus	760	2	1.95	1.0000	1	FSTL3, GDF9
+GO:0071375	cellular response to peptide hormone stimulus	321	2	0.82	1.0000	1	NCOA2, GH2
+GO:0071396	cellular response to lipid	628	2	1.61	1.0000	1	PLCG2, MTDH
+GO:0071495	cellular response to endogenous stimulus	1300	4	3.33	1.0000	1	FSTL3, NCOA2, GDF9, GH2
+GO:0071692	protein localization to extracellular region	382	2	0.98	1.0000	1	APOE, ANO1
+GO:0071705	nitrogen compound transport	1910	3	4.9	1.0000	1	APOE, ANO1, MAVS
+GO:0071706	tumor necrosis factor superfamily cytokine production	192	2	0.49	1.0000	1	PLCG2, MAVS
+GO:0071840	cellular component organization or biogenesis	6963	15	17.85	1.0000	1	CRTAP, HELQ, DNAAF8, IBA57, GDF9, APOE, IMPG1, LMNB1, PHF21A, PLCG2, ANO1, MAVS, PAPPA2, RPS4X, AIMP2
+GO:0072359	circulatory system development	1250	4	3.2	1.0000	1	GYS1, APOE, SGCG, MTDH
+GO:0072657	protein localization to membrane	615	3	1.58	0.4086	1	APOE, ANO1, NMT2
+GO:0080090	regulation of primary metabolic process	5646	21	14.48	1.0000	1	FSTL3, CRTAP, NCOA2, HELQ, PASD1, MAGEE2, NR2F6, SALL3, APOE, MAGEA4, PHF21A, PLCG2, SEPTIN4, CCAR1, IL26, PSMA3, MAVS, RPS4X, AIMP2, KBTBD8, MTDH
+GO:0080134	regulation of response to stress	1460	7	3.74	1.0000	1	HELQ, APOE, RAET1G, NKG7, PLCG2, IL26, MAVS
+GO:0080135	regulation of cellular response to stress	527	2	1.35	1.0000	1	HELQ, IL26
+GO:0090304	nucleic acid metabolic process	5512	17	14.13	1.0000	1	FSTL3, NCOA2, HELQ, PASD1, MAGEE2, NR2F6, SALL3, GTF2H4, APOE, MAGEA4, PHF21A, PLCG2, PMS1, CCAR1, IL26, MAVS, MTDH
+GO:0097435	supramolecular fiber organization	870	2	2.23	1.0000	1	CRTAP, APOE
+GO:0097553	calcium ion transmembrane import into cytosol	189	2	0.48	1.0000	1	PLCG2, CACNA1F
+GO:0097696	cell surface receptor signaling pathway via STAT	159	2	0.41	1.0000	1	GH2, IL26
+GO:0098542	defense response to other organism	1295	5	3.32	1.0000	1	APOE, RAET1G, NKG7, PLCG2, MAVS
+GO:0098655	monoatomic cation transmembrane transport	894	3	2.29	0.6561	1	PLCG2, ANO1, CACNA1F
+GO:0098657	import into cell	936	3	2.4	1.0000	1	APOE, PLCG2, CACNA1F
+GO:0098660	inorganic ion transmembrane transport	966	3	2.48	1.0000	1	PLCG2, ANO1, CACNA1F
+GO:0098662	inorganic cation transmembrane transport	874	2	2.24	1.0000	1	PLCG2, CACNA1F
+GO:0098771	inorganic ion homeostasis	540	2	1.38	1.0000	1	APOE, PLCG2
+GO:0098916	anterograde trans-synaptic signaling	774	2	1.98	1.0000	1	GPR151, APOE
+GO:0099177	regulation of trans-synaptic signaling	510	2	1.31	1.0000	1	GPR151, APOE
+GO:0099536	synaptic signaling	809	2	2.07	1.0000	1	GPR151, APOE
+GO:0099537	trans-synaptic signaling	780	2	2	1.0000	1	GPR151, APOE
+GO:0120036	plasma membrane bounded cell projection organization	1601	2	4.1	1.0000	1	DNAAF8, APOE
+GO:0140352	export from cell	946	6	2.43	1.0000	1	GPR151, GDF9, APOE, NKG7, SEPTIN4, ANO1
+GO:0140546	defense response to symbiont	1194	5	3.06	1.0000	1	APOE, RAET1G, NKG7, PLCG2, MAVS
+GO:0140632	canonical inflammasome complex assembly	42	2	0.11	1.0000	1	PLCG2, MAVS
+GO:0141084	inflammasome-mediated signaling pathway	47	2	0.12	1.0000	1	PLCG2, MAVS
+GO:0141085	regulation of inflammasome-mediated signaling pathway	42	2	0.11	1.0000	1	PLCG2, MAVS
+GO:0141087	positive regulation of inflammasome-mediated signaling pathway	22	2	0.06	1.0000	1	PLCG2, MAVS
+GO:0141091	transforming growth factor beta receptor superfamily signaling pathway	397	2	1.02	1.0000	1	FSTL3, GDF9
+GO:0141124	intracellular signaling cassette	1972	5	5.06	1.0000	1	APOE, PLCG2, IL26, MAVS, MTDH
+GO:0141187	nucleic acid biosynthetic process	4787	15	12.27	1.0000	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, GTF2H4, APOE, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, MTDH
+GO:1900225	regulation of NLRP3 inflammasome complex assembly	37	2	0.09	1.0000	1	PLCG2, MAVS
+GO:1900227	positive regulation of NLRP3 inflammasome complex assembly	21	2	0.05	0.0013	1	PLCG2, MAVS
+GO:1901135	carbohydrate derivative metabolic process	999	3	2.56	1.0000	1	MGAT4A, IDUA, NEU2
+GO:1901136	carbohydrate derivative catabolic process	258	2	0.66	1.0000	1	IDUA, NEU2
+GO:1901615	organic hydroxy compound metabolic process	553	2	1.42	1.0000	1	APOE, PLCG2
+GO:1901617	organic hydroxy compound biosynthetic process	253	2	0.65	1.0000	1	APOE, PLCG2
+GO:1901652	response to peptide	992	2	2.54	1.0000	1	ANO1, MAVS
+GO:1901698	response to nitrogen compound	1101	4	2.82	1.0000	1	NCOA2, GH2, APOE, MAVS
+GO:1901699	cellular response to nitrogen compound	655	3	1.68	1.0000	1	NCOA2, GH2, MAVS
+GO:1901700	response to oxygen-containing compound	1693	6	4.34	1.0000	1	NCOA2, GH2, APOE, PLCG2, ANO1, MTDH
+GO:1901701	cellular response to oxygen-containing compound	1204	5	3.09	1.0000	1	NCOA2, GH2, PLCG2, ANO1, MTDH
+GO:1901873	regulation of post-translational protein modification	252	3	0.65	1.0000	1	CRTAP, SEPTIN4, AIMP2
+GO:1901875	positive regulation of post-translational protein modification	136	2	0.35	1.0000	1	SEPTIN4, AIMP2
+GO:1902531	regulation of intracellular signal transduction	2033	6	5.21	1.0000	1	APOE, PLCG2, SEPTIN4, IL26, MAVS, MTDH
+GO:1902533	positive regulation of intracellular signal transduction	1136	6	2.91	1.0000	1	APOE, PLCG2, SEPTIN4, IL26, MAVS, MTDH
+GO:1902679	negative regulation of RNA biosynthetic process	1298	8	3.33	1.0000	1	NCOA2, PASD1, MAGEE2, NR2F6, MAGEA4, PHF21A, CCAR1, MTDH
+GO:1902680	positive regulation of RNA biosynthetic process	1697	7	4.35	1.0000	1	FSTL3, NCOA2, APOE, CCAR1, IL26, MAVS, MTDH
+GO:1903320	regulation of protein modification by small protein conjugation or removal	247	2	0.63	1.0000	1	SEPTIN4, AIMP2
+GO:1903322	positive regulation of protein modification by small protein conjugation or removal	135	2	0.35	1.0000	1	SEPTIN4, AIMP2
+GO:1903530	regulation of secretion by cell	565	5	1.45	1.0000	1	GPR151, GDF9, APOE, SEPTIN4, ANO1
+GO:1903555	regulation of tumor necrosis factor superfamily cytokine production	192	2	0.49	1.0000	1	PLCG2, MAVS
+GO:1903557	positive regulation of tumor necrosis factor superfamily cytokine production	111	2	0.28	1.0000	1	PLCG2, MAVS
+GO:1903829	positive regulation of protein localization	497	3	1.27	1.0000	1	APOE, ANO1, MAVS
+GO:1904892	regulation of receptor signaling pathway via STAT	95	2	0.24	1.0000	1	GH2, IL26
+GO:1904894	positive regulation of receptor signaling pathway via STAT	48	2	0.12	1.0000	1	GH2, IL26
+GO:1904951	positive regulation of establishment of protein localization	327	3	0.84	1.0000	1	APOE, ANO1, MAVS
+GO:1905952	regulation of lipid localization	187	2	0.48	1.0000	1	GDF9, APOE
+GO:2000026	regulation of multicellular organismal development	1503	3	3.85	1.0000	1	FSTL3, GDF9, MTDH
+GO:2000145	regulation of cell motility	1139	3	2.92	1.0000	1	APOE, PLCG2, CCAR1
+GO:2000147	positive regulation of cell motility	630	2	1.62	1.0000	1	PLCG2, CCAR1
+GO:2001141	regulation of RNA biosynthetic process	3425	14	8.78	1.0000	1	FSTL3, NCOA2, PASD1, MAGEE2, NR2F6, SALL3, APOE, MAGEA4, PHF21A, PLCG2, CCAR1, IL26, MAVS, MTDH

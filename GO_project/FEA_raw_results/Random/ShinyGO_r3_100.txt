@@ -1,0 +1,5 @@
+Enrichment FDR	nGenes	Pathway Genes	Fold Enrichment	Pathway	URL	Genes	GOID
+0.0346519215441306	21	1729	2.72457728030483	GO:0007155 cell adhesion 	 http://amigo.geneontology.org/amigo/term/GO:0007155	 MYL12A  CTNNA1  ICAM2  DUSP3  LRRC4B  BLK  CDH8  PLXNB1  ITGA2  CLDN4  BVES  HOXA7  LEP  CD4  LAMC2  ELMO2  DISC1  MFAP4  RIC8A  CLEC4M  KLRK1	GO:0007155
+0.0346519215441306	16	1104	3.25106564364876	GO:0098609 cell-cell adhesion 	 http://amigo.geneontology.org/amigo/term/GO:0098609	 MYL12A  CTNNA1  DUSP3  LRRC4B  BLK  CDH8  ITGA2  BVES  LEP  CD4  ELMO2  ICAM2  RIC8A  CLDN4  CLEC4M  KLRK1	GO:0098609
+0.171915324230821	2	6	74.7745098039216	GO:0030208 dermatan sulfate biosynthetic process 	 http://amigo.geneontology.org/amigo/term/GO:0030208	 CHST12  CHST14	GO:0030208
+0.171915324230821	2	6	74.7745098039216	GO:0033591 response to L-ascorbic acid 	 http://amigo.geneontology.org/amigo/term/GO:0033591	 ITGA2  LEP	GO:0033591

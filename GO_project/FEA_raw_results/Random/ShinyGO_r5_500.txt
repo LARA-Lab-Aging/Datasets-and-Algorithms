@@ -1,0 +1,14 @@
+Enrichment FDR	nGenes	Pathway Genes	Fold Enrichment	Pathway	URL	Genes	GOID
+0.0424759666004179	5	19	12.1888983592585	GO:0086014 atrial cardiac muscle cell action potential 	 http://amigo.geneontology.org/amigo/term/GO:0086014	 KCNJ3  KCNN2  NUP155  KCNQ1  CACNA1C	GO:0086014
+0.0424759666004179	5	19	12.1888983592585	GO:0086026 atrial cardiac muscle cell to AV node cell signaling 	 http://amigo.geneontology.org/amigo/term/GO:0086026	 KCNJ3  KCNN2  NUP155  KCNQ1  CACNA1C	GO:0086026
+0.0424759666004179	5	19	12.1888983592585	GO:0086066 atrial cardiac muscle cell to AV node cell communication 	 http://amigo.geneontology.org/amigo/term/GO:0086066	 KCNJ3  KCNN2  NUP155  KCNQ1  CACNA1C	GO:0086066
+0.0424759666004179	4	10	18.5271255060729	GO:0098976 excitatory chemical synaptic transmission 	 http://amigo.geneontology.org/amigo/term/GO:0098976	 CHRDL1  SHISA6  GRIN1  GRIN2A	GO:0098976
+0.0424759666004179	4	10	18.5271255060729	GO:0099624 atrial cardiac muscle cell membrane repolarization 	 http://amigo.geneontology.org/amigo/term/GO:0099624	 KCNJ3  KCNN2  KCNQ1  NPPA	GO:0099624
+0.132567170356047	5	26	8.90727187791965	GO:0016048 detection of temperature stimulus 	 http://amigo.geneontology.org/amigo/term/GO:0016048	 LXN  ANO3  NR2F6  PRDM12  ANO1	GO:0016048
+0.132567170356047	4	14	13.2336610757663	GO:0032957 inositol trisphosphate metabolic process 	 http://amigo.geneontology.org/amigo/term/GO:0032957	 ITPKB  PTAFR  PLCG2  HRH1	GO:0032957
+0.132567170356047	3	6	23.1589068825911	GO:0098914 membrane repolarization during atrial cardiac muscle cell action potential 	 http://amigo.geneontology.org/amigo/term/GO:0098914	 KCNJ3  KCNN2  KCNQ1	GO:0098914
+0.16040281874882	15	248	2.80148067128118	GO:0006813 potassium ion transport 	 http://amigo.geneontology.org/amigo/term/GO:0006813	 KCNQ1  KCNN2  KCNN4  KCNA7  SLC9A2  SLC12A4  DPP6  KCNK1  KCNJ3  KCNQ5  NPPA  NSF  EDN3  ITGB1  KCNT2	GO:0006813
+0.16040281874882	11	146	3.48969829737674	GO:0009581 detection of external stimulus 	 http://amigo.geneontology.org/amigo/term/GO:0009581	 OPN1MW3  KCNQ1  NOX3  LXN  ANO3  NR2F6  CACNA1F  PRDM12  ANO1  NMT2  CTNNB1	GO:0009581
+0.16040281874882	11	149	3.41943591555036	GO:0009582 detection of abiotic stimulus 	 http://amigo.geneontology.org/amigo/term/GO:0009582	 OPN1MW3  KCNQ1  NOX3  LXN  ANO3  NR2F6  CACNA1F  PRDM12  ANO1  NMT2  CTNNB1	GO:0009582
+0.16040281874882	4	17	10.8983091212193	GO:0050965 detection of temperature stimulus involved in sensory perception of pain 	 http://amigo.geneontology.org/amigo/term/GO:0050965	 LXN  NR2F6  PRDM12  ANO1	GO:0050965
+0.16040281874882	14	223	2.90784481037018	GO:0071805 potassium ion transmembrane transport 	 http://amigo.geneontology.org/amigo/term/GO:0071805	 KCNQ1  KCNN2  KCNN4  KCNA7  SLC9A2  SLC12A4  DPP6  KCNK1  KCNJ3  KCNQ5  NPPA  EDN3  ITGB1  KCNT2	GO:0071805
